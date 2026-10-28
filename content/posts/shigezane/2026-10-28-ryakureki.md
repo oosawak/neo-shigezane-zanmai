@@ -10,6 +10,8 @@ source: 'http://shigezane.info/majime/ryakureki/ryakureki.htm'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
 license: 'CC BY-SA 2.1 JP'
 ---
+[横スクロールで見る「伊達成実 年表」はこちら](https://oosawak.github.io/neo-shigezane-zanmai/nenpyou-timeline.html)
+
 永禄11年（1568）、おそらく信夫郡大森城に誕生。政宗より一歳年少。\
 幼名・時宗丸。通称は藤五郎、兵部、安房。\
 「藤五郎」は父・実元の通称と同じ。「藤」は藤原姓に因る。後に政宗の元を出奔するまでは、一貫して「藤五郎」と称している。文書では略して「五郎」と記されることが多い。\

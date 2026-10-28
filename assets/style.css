@@ -85,3 +85,16 @@
 
 /* Cover images: show the whole image at its natural aspect ratio, never cropped to a fixed frame (2026-10-26) */
 .tile-image,.articlecover{aspect-ratio:auto;object-fit:initial}
+
+/* neo-shigezane additions */
+.herobtnrow{margin-top:16px}
+.herobtn{display:inline-block;background:#c9a227;color:#1d2a38;font-weight:700;padding:11px 20px;border-radius:999px;text-decoration:none;font-size:15px;box-shadow:0 2px 10px rgba(0,0,0,.25)}
+.herobtn:hover{background:#dcb63e}
+.guidesec{padding-top:6px}
+.guidegrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px;margin-top:10px}
+.guidecard{text-align:left;background:var(--surface,#fff);border:1px solid var(--border,#d5dbe2);border-radius:12px;padding:14px 16px;cursor:pointer;display:flex;flex-direction:column;gap:5px;font:inherit;color:inherit}
+.guidecard:hover{border-color:var(--accent,#2e4a62);box-shadow:0 3px 12px rgba(46,74,98,.15)}
+.guidecard strong{font-size:16.5px}
+.guidecard span{font-size:12.5px;line-height:1.55;color:#5a6572}
+.guidecard small{font-size:11.5px;color:#8a7a3a;font-weight:700}
+.catdesc{margin:10px 2px 0;font-size:13.5px;line-height:1.6;color:#43536a;background:#eef3f7;border-left:4px solid var(--accent,#2e4a62);padding:9px 13px;border-radius:0 8px 8px 0}

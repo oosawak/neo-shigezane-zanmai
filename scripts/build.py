@@ -22,7 +22,7 @@ DIST=ROOT/'dist'
 POSTS=CONTENT/'posts'
 IMAGES=CONTENT/'images'
 COLOR_THUMB=(720,450)
-CATEGORY_COVERS={'略歴・年表':'shigezane/ryakureki.webp','住まいと城下':'shigezane/sumai.webp','家族':'shigezane/kazoku.webp','合戦記':'shigezane/kassenn.webp','慶長三陸地震':'shigezane/jishin.webp','逸話':'shigezane/itsuwa.webp','家臣団':'shigezane/kasin.webp','Report':'shigezane/report.webp','リファレンス・書庫':'shigezane/reference.webp','謡曲「摺上」':'shigezane/noh.webp','著作':'shigezane/tyosaku.webp','書簡':'shigezane/shokan.webp'}
+CATEGORY_COVERS={'略歴・年表':'shigezane/ryakureki.webp','住まいと城下':'shigezane/sumai.webp','家族':'shigezane/kazoku.webp','合戦記':'shigezane/kassenn.webp','慶長三陸地震':'shigezane/jishin.webp','逸話':'shigezane/itsuwa.webp','家臣団':'shigezane/kasin.webp','Report':'shigezane/report.webp','リファレンス・書庫':'shigezane/reference.webp','謡曲「摺上」':'shigezane/noh.webp','著作':'shigezane/tyosaku.webp','書簡':'shigezane/shokan.webp','案内':'shigezane/guide.webp'}
 DEFAULT_COVER='shigezane/hero.webp'
 MANUAL_I18N=json.loads((CONTENT/'i18n/en.json').read_text(encoding='utf-8'))
 TRANSLATION_CACHE=ROOT/'cache/translations/en.json'
