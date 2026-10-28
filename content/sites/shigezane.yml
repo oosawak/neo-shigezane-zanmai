@@ -1,0 +1,14 @@
+id: shigezane
+name: ネオ成実三昧
+short_name: ネオ成実三昧
+kind: media
+kind_label: 歴史資料サイト
+accent: '#2e4a62'
+eyebrow: DATE SHIGEZANE ARCHIVE
+hero_title: '伊達成実の資料を、
+探せる形に。'
+description: 伊達政宗の従弟で重臣、伊達成実の専門資料サイト「成実三昧」を、Markdown CMSで再構築しました。年表・伝記・合戦記・著作・書簡・家臣団など、成実の記録を検索できる形で並べます。
+subtitle: 成実の生涯と時代の記録
+hero_note: 原典「成実三昧」TAKEMI Shigino
+about: このサイトは、伊達成実専門サイト「成実三昧」(管理人 TAKEMI Shigino、http://shigezane.info/)に掲載された資料を、同サイトのライセンス(クリエイティブ・コモンズ 表示-継承 2.1 日本、CC BY-SA 2.1 JP)に基づき、Markdown形式に変換して再構築したものです。出典は各記事に明記しています。第三者の方の寄稿テキスト・写真は転載せず、元ページへのリンクに置き換えています。カバー画像はAI(Muse)が作成したイラストです。
+hero_image: shigezane/hero.webp

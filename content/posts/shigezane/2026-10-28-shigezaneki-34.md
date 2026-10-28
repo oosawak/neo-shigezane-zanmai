@@ -1,0 +1,29 @@
+---
+title: '一、最上より義顕……'
+date: '2026-10-28'
+category: 著作
+cover: shigezane/tyosaku.webp
+cover_alt: 著作のイラスト
+summary: '元サイト「成実三昧」に掲載された「一、最上より義顕……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+type: article
+source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-34.html'
+source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
+license: 'CC BY-SA 2.1 JP'
+---
+一、最上より義顕（義光）、野辺沢能登と申す衆を蟻ヶ袋へ差し越され、能登、長井月鑑へ会い候いて、何を談合申され候や、月鑑は深谷へ帰り、泉田安芸一人小野田へ同心申され候。小野田の城主玄蕃・九郎左衛門両人に、安芸を渡し申され、その夜、能登、安芸宿へまかり越し、申され候は\
+「貴殿引き取り申す事は、会津・相馬・佐竹・岩城申し合わされ、伊達殿へ弓矢を取り申すべきよし、相談に候て、相馬より使者として、とちくぼ又右衛門と申す者差し越され候。貴殿御よしみの衆仰せ合わされ、逆心をなさるべき」\
+よし申され、安芸申すことには、\
+「我らは主君の奉公に一命を相捨て、新沼に籠もり候。諸軍勢を相扶け申し候。御弓矢の儀は存ぜず候。我ら首早々召し取られ下さる様に頼み入る」\
+のよし申し候えば、能登申され候は、\
+「安芸右の申す体、比類無き儀に候」\
+よし、褒美申され候。安芸存じ候は\
+「この様子政宗公へ知らせ申したき」\
+よしにて、斎藤孫右衛門と申す者、忍び使に米沢へ上げ、右の段つぶさに申し上げ候。
+
+[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-33.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-35.html)
+
+## 出典と変換について
+
+この記事は、伊達成実専門サイト「成実三昧」（管理人 TAKEMI Shigino）の「一、最上より義顕……」を、クリエイティブ・コモンズ 表示-継承 2.1 日本（CC BY-SA 2.1 JP）の下でMarkdown化したものです。
+元のページはこちらです。[一、最上より義顕……（成実三昧）](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-34.html)
+本文中のリンクは、変換の段階では元サイトのページへそのままつないでいます。対応する記事がネオ成実三昧側にできたら、順次そちらへつなぎ替えます。

@@ -1,0 +1,64 @@
+---
+title: '伊達成実 略歴'
+date: '2026-10-28'
+category: 略歴・年表
+cover: shigezane/ryakureki.webp
+cover_alt: 略歴・年表のイラスト
+summary: '元サイト「成実三昧」に掲載された「伊達成実 略歴」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+type: article
+source: 'http://shigezane.info/majime/ryakureki/ryakureki.htm'
+source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
+license: 'CC BY-SA 2.1 JP'
+---
+永禄11年（1568）、おそらく信夫郡大森城に誕生。政宗より一歳年少。\
+幼名・時宗丸。通称は藤五郎、兵部、安房。\
+「藤五郎」は父・実元の通称と同じ。「藤」は藤原姓に因る。後に政宗の元を出奔するまでは、一貫して「藤五郎」と称している。文書では略して「五郎」と記されることが多い。\
+「兵部」は慶長5年（1600）の帰参後、亘理に移る前までの短期間の通称。\
+亘理に移る前には既に「安房」を称しており、没するまでこの通称を用いている。この「安房」と「藤五郎」は亘理伊達家代々の通称となった。
+
+元服は天正7年（1579）と書いた本がある。「常盤定牽文書」では烏帽子親を輝宗、場所は大森城とする。初陣の時期は不明。\
+一説には、政宗元服の際、宝刀を捧げ持ったという。\
+天正12年（1584）政宗家督の前後に、成実も大森城主となったと思われる。17歳ぐらいか。数え年なので現代の学年でいえば高校2年。
+
+人取り橋の合戦、小手森の合戦、窪田の合戦、摺上原の合戦などに大功があり、自ら「勇武無双」と称したという。政宗の仙道制覇にあたってはさまざまな謀略にも貢献し、智勇両面で活躍した。\
+天正14年（1586）、二本松攻略後、二本松城主となる。\
+天正18年（1590）、政宗の小田原参陣の際には、会津留守居を勤め、小規模な反乱を鎮めている。\
+秀吉の奥州仕置きにより、政宗は岩出山に転封となるが、それにともなって成実は角田へ移る。\
+文禄の役に参加し、政宗らとともに朝鮮に渡る。\
+文禄4年（1595）豊臣秀次失脚の際、政宗も連座の疑いをかけられた。その際、秀吉に、政宗の19人の重臣連名の誓詞を差し出しているが、成実はその第二番、石川義宗の次に名を記している。\
+秀吉没の前後、政宗の元を出奔。高野山に入り、後に相模糟谷に陋居するという。政宗は成実の居城角田を召し上げた。この際、抵抗する家臣らが討ち死にした。
+
+慶長5年（1600）、関が原合戦に伴い、奥羽でも豊臣方の上杉氏と徳川方の伊達氏が合戦。白石城の攻防において、石川昭光の陣にて帰参。\
+慶長7年（1602）、亘理城主となる。\
+大阪冬の陣、夏の陣に参加。\
+山形最上氏改易の際、出陣して野辺沢城を受け取る。これが最後の出陣となる。\
+江戸城二の丸石垣普請の指揮をとる。\
+晩年、政宗の伝記を著す。「成実記」「政宗記」「政宗公御名語集」などが成実の著作とされる。\
+江戸将軍家へ御礼言上の際、城中での駕籠の使用を許され、将軍家光に御簾越しに奥羽軍談を語る。\
+正保3年（1646）、隠居、没。79歳。法名 雄山寺殿久山天昌大居士（後に殿号を大雄寺殿に改める）。
+
+辞世 古来より稀なる年にここのつのあまるも夢の中にぞありける
+
+政宗の九男・伊達治部宗実を養子とする。
+
+二子がいたが夭折した。
+
+## もっと知りたい人のために
+
+- 伊達家世臣家譜による[成実の伝記](http://shigezane.info/majime/ryakureki/sesinkahu-narumi.html)
+- [とても細かい年表](http://shigezane.info/majime/ryakureki/nennpyou.html)（まだまだ未完成。少しづつ拡充予定）
+- [天和の訴願「亘理訴状」に記された成実の功績](http://shigezane.info/majime/ryakureki/watarisojyou-narumi.html)
+- [仙台志料](http://kindai.ndl.go.jp/cgi-bin/img/BIImgFrame.cgi?JP_NUM=40007315&VOL_NUM=00001&KOMA=1&ITYPE=0)による成実の伝記 [「伊達成実高野に遁る」](http://shigezane.info/majime/ryakureki/sendaishiryou-1.html) [「伊達成実恩を謝す」](http://shigezane.info/majime/ryakureki/sendaishiryou-2.html) [「伊達成実」](http://shigezane.info/majime/ryakureki/sendaishiryou-3.html) [「伊達成実」](http://shigezane.info/majime/ryakureki/sendaishiryou-4.html)[「伊達邦成古文書」](http://shigezane.info/majime/ryakureki/sendaishiryou-5.html)
+- [伊達家世臣伝記](http://kindai.ndl.go.jp/cgi-bin/img/BIImgFrame.cgi?JP_NUM=40016334&VOL_NUM=00000&KOMA=1&ITYPE=0)による[成実の伝記](http://shigezane.info/majime/ryakureki/sesindenki-narumi.html)
+- [「信達一統志」による成実の伝記](http://shigezane.info/majime/ryakureki/shintatuittousi.html)
+- [「東藩史稿」による成実の伝記](http://shigezane.info/majime/ryakureki/touhannsikou-narumi.html)
+- [「蟻坂文書」による成実の伝記](http://shigezane.info/majime/ryakureki/arisaka.html)
+- [仙台藩人物叢誌（1908年）による成実の伝記](http://shigezane.info/majime/ryakureki/jinbutusousi.html)
+- [「仙台市史」(昭和4年版) 人物伝による成実の伝記](http://shigezane.info/majime/ryakureki/s4-sendaisisi.html) (ご提供：野崎 準様)
+- [「東藩野乗」（仙台叢書八巻所収）による成実の伝記](http://shigezane.info/majime/ryakureki/touhanyajyou.html) (ご提供：野崎 準様)
+
+## 出典と変換について
+
+この記事は、伊達成実専門サイト「成実三昧」（管理人 TAKEMI Shigino）の「伊達成実 略歴」を、クリエイティブ・コモンズ 表示-継承 2.1 日本（CC BY-SA 2.1 JP）の下でMarkdown化したものです。
+元のページはこちらです。[伊達成実 略歴（成実三昧）](http://shigezane.info/majime/ryakureki/ryakureki.htm)
+本文中のリンクは、変換の段階では元サイトのページへそのままつないでいます。対応する記事がネオ成実三昧側にできたら、順次そちらへつなぎ替えます。

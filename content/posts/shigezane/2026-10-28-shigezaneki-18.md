@@ -1,0 +1,23 @@
+---
+title: '一 同年2月。二本松篭城に……'
+date: '2026-10-28'
+category: 著作
+cover: shigezane/tyosaku.webp
+cover_alt: 著作のイラスト
+summary: '元サイト「成実三昧」に掲載された「一 同年2月。二本松篭城に……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+type: article
+source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-18.html'
+source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
+license: 'CC BY-SA 2.1 JP'
+---
+一 同年2月。二本松篭城に居り候、三輪玄蕃・氏家新兵衛・遊佐丹波・同下総・堀江越中、5人の者ども相談つかまつり候。政宗公へ申し上げ候は\
+「御奉公をつかまつり、城を取らせ申すべく申し候間、玄蕃屋敷へ御人数入れられ候、地形もよく候条、御人数を差しこされるべき」\
+よし申し上げ候て、右の5人、人質を上げ候。御人数を夜中に差し越され候。4人の居り候ところは城にて、抱えられるべきところこれなく候につき、玄蕃屋敷へ引き除き候ところ、その近所候者ども、玄蕃屋敷へばかり入り、人多く鉄砲取りまわすべき様これなく詰まり候。また栗が柵と申すところ、手替りつかまつり候はば、急にこれなく候とも、落城はかり難く候えども、栗が柵は堅固に持ち候間、玄蕃屋敷は本城と栗が柵の間にて候間、抱えかね、明け方に城中より玄蕃屋敷攻め候間、引き除き候小口詰まり、大勢本口ばかり、まかりならず候て塀を破り、嶮難のところより人々重なり頽落ち、男女40-50人ばかり踏み殺され、城中は堅固にあい抱え候。
+
+[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-17.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-19.html)
+
+## 出典と変換について
+
+この記事は、伊達成実専門サイト「成実三昧」（管理人 TAKEMI Shigino）の「一 同年2月。二本松篭城に……」を、クリエイティブ・コモンズ 表示-継承 2.1 日本（CC BY-SA 2.1 JP）の下でMarkdown化したものです。
+元のページはこちらです。[一 同年2月。二本松篭城に……（成実三昧）](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-18.html)
+本文中のリンクは、変換の段階では元サイトのページへそのままつないでいます。対応する記事がネオ成実三昧側にできたら、順次そちらへつなぎ替えます。

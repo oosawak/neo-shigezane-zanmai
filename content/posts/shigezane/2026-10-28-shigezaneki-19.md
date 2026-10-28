@@ -1,0 +1,23 @@
+---
+title: '一 政宗公、少々御気色無揃……'
+date: '2026-10-28'
+category: 著作
+cover: shigezane/tyosaku.webp
+cover_alt: 著作のイラスト
+summary: '元サイト「成実三昧」に掲載された「一 政宗公、少々御気色無揃……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+type: article
+source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-19.html'
+source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
+license: 'CC BY-SA 2.1 JP'
+---
+一 政宗公、少々御気色無揃につき、二本松への御働きあい延べ、4月始めに御働きなされ候。内々近陣をなされたく思し召し候えども、去年のごとく御行き、会津山城より安積の御出馬に候はば、城を巻きほこし御出馬なされ候ことを、如何思し召され、北南東三方より、5日御働きなされ候えども、内より１人も出ず、矢来懸など二度候えども、城よく候条、御攻めなされ候こともなり難く候て、小浜へ御篭りなされ候。しかるところに、相馬義タネより御使者候て、我ら親類に候えども義タネ御頼み候につき、小浜へ参り、御無事御取り扱いに候。別っして御題目もこれなく、二本松篭城あい除き候ように、と御扱いにて、同年7月16日本丸ばかり自焼にて、会津へ引き除かれ、地下人は思い思いにあい除き候。我らに\
+「城受取申すべき」\
+よし仰せつけられ候間、その日まかり越し本丸に仮屋をつかまつり申し候。政宗公7月26日に、二本松へ御出で御覧なされ候て、その日帰りなされ候。
+
+[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-18.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-20.html)
+
+## 出典と変換について
+
+この記事は、伊達成実専門サイト「成実三昧」（管理人 TAKEMI Shigino）の「一 政宗公、少々御気色無揃……」を、クリエイティブ・コモンズ 表示-継承 2.1 日本（CC BY-SA 2.1 JP）の下でMarkdown化したものです。
+元のページはこちらです。[一 政宗公、少々御気色無揃……（成実三昧）](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-19.html)
+本文中のリンクは、変換の段階では元サイトのページへそのままつないでいます。対応する記事がネオ成実三昧側にできたら、順次そちらへつなぎ替えます。

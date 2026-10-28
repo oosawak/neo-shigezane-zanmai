@@ -1,0 +1,16 @@
+{
+ "sites": {
+  "shigezane": {
+   "name": "Neo Shigezane Zanmai",
+   "short_name": "Neo Shigezane",
+   "kind_label": "Historical archive",
+   "hero_title": "The records of Date Shigezane,\nmade searchable.",
+   "description": "A rebuild of Shigezane Zanmai, the specialist archive on Date Shigezane (1568-1646), cousin and senior retainer of Date Masamune, using a Markdown CMS: chronology, biographies, battles, writings, letters and retainers, all in searchable form.",
+   "subtitle": "Records of a life and an age",
+   "hero_note": "Source: Shigezane Zanmai by TAKEMI Shigino",
+   "about": "This site rebuilds the Date Shigezane archive Shigezane Zanmai (by TAKEMI Shigino, http://shigezane.info/) in Markdown form under its license, Creative Commons Attribution-ShareAlike 2.1 Japan (CC BY-SA 2.1 JP). Sources are credited in each article. Texts and photos contributed by third parties are not reproduced; they are replaced with links to the original pages. Cover images are illustrations created by AI (Muse).",
+   "source_hash": "3a5deb934e6b837e51340977ebf5ffc27d22996fd05e3118ed63a6febe64a159"
+  }
+ },
+ "posts": {}
+}
