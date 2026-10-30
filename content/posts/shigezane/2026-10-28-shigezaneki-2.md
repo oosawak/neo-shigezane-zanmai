@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一 天正13年正月……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一天正13年正月になり、大内備前申し上げ候は、「雪深く普請成りがたく候間、御暇申し請け、罷り帰り、妻子を召し連れ、仕度をいたし伺候申すべく候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-2.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -38,7 +38,7 @@ license: 'CC BY-SA 2.1 JP'
 「替る衆は弾正一人にて、左馬助無人数にて、一頭越え候」\
 よし申すについて、その時会津衆心安んずるところに一戦つかまつり候あいだ、左馬助敗軍いたし、与力家中数輩討死に、弾正妻子ともに召し連れ引きのき候。政宗公3日に檜原へ御出馬なされ、檜原は即御手に入り候えども、御隠密候手切れゆえ、長井の人数ばかり召し連れられ、惣御人数参らず候あいだ、御陣触れなされ、御人数参り候をあい待たれ、同月8日に大塩へ御働きなされ候えども、会津の惣人数大塩城にこめ置き堅固にあい抱え、大切所にて大塩の山の上までは、日々御働きなされ候。下へ打ち下げられべき地形もこれなきところに、城ござ候あいだ近々と御働きなされ候えども、人数の備えを取るべき地形もこれなく、大山にて道一筋に候ゆえ、檜原を引き離れぬ様細道一筋にてまかりならず、一働きなされ不背の衆はあい返され、檜原に御在馬なされ候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-1.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-3.html)
+[前](#/post/shigezane/shigezaneki-1)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-3)
 
 ## 出典と変換について
 

@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 合戦記
 cover: shigezane/kassenn.webp
 cover_alt: 合戦記のイラスト
-summary: '元サイト「成実三昧」に掲載された「人取り橋の合戦」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '輝宗横死事件の報復として、二本松攻略を始めた政宗に対し、仙道諸氏が連合軍を結成。高倉～本宮周辺で合戦となった。'
 type: article
 source: 'http://shigezane.info/majime/kassenn/hitotoribasi/hitotoribashi.htm'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -40,11 +40,11 @@ license: 'CC BY-SA 2.1 JP'
 
 ## 参照
 
-- 「政宗記」[本宮戦附人取橋合戦](http://shigezane.info/majime/tyosaku/masamuneki/masamuneki2-4.html)
-- 「成実記」[一 霜月10日ごろ……](http://shigezane.info/majime/kassenn/shigezaneki-15.html)（人取橋合戦）
-- 「成実記」[一 17日の晩は、政宗公も](http://shigezane.info/majime/kassenn/shigezaneki-16.html)（人取橋合戦後、両軍の引上げ）
+- 「政宗記」[本宮戦附人取橋合戦](#/post/shigezane/masamuneki2-4)
+- 「成実記」[一 霜月10日ごろ……](#/post/shigezane/shigezaneki-15)（人取橋合戦）
+- 「成実記」[一 17日の晩は、政宗公も](#/post/shigezane/shigezaneki-16)（人取橋合戦後、両軍の引上げ）
 - 「会津四家合考」[高倉合戦の事](http://www17.ocn.ne.jp/~you/cceqcaeinoen.html) （[「会津四家合考の時代」](http://www17.ocn.ne.jp/~you/)さまへのリンク）
-- 「木村右衛門覚書」[26 人取橋合戦](http://shigezane.info/majime/kassenn/hitotoribasi/oboegaki26.html)
+- 「木村右衛門覚書」[26 人取橋合戦](#/post/shigezane/oboegaki26)
 
 ## この合戦を題材にした管理人の作品
 

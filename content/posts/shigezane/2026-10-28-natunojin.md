@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 合戦記
 cover: shigezane/kassenn.webp
 cover_alt: 合戦記のイラスト
-summary: '元サイト「成実三昧」に掲載された「大阪夏の陣」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '元和元年（1615）、大阪夏の陣に成実は出陣する。この戦いで伊達勢の奮闘が伝えられているのは、片倉重綱の覚書が残されている、いわゆる「道明寺の戦い」である。'
 type: article
 source: 'http://shigezane.info/majime/kassenn/natunojin/natunojin.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

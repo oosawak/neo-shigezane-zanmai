@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一、新沼に籠城候衆……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一、新沼に籠城候衆、5000に及び候間、新沼小地にて食べ物もこれ無く、餓死に及ぶ体に候。政宗公内々御人数をも遣わされ引き出されてく思し召し候えども、仙道御気遣いにて、さようにもなされず候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-32.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -16,7 +16,7 @@ license: 'CC BY-SA 2.1 JP'
 「桑折・師山両地除口狭く候。さように候とも。地形よく候はば、苦しからず候。大河を越し候みぎり、双方より仕懸候はば、手も取らず犬死につかまつるべく候間、まず様子を見合わされしかるべき」\
 よし申さるにつき、あい止め候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-31.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-33.html)
+[前](#/post/shigezane/shigezaneki-31)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-33)
 
 ## 出典と変換について
 

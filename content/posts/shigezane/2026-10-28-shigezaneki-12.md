@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一 同月26日……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一同月26日、政宗公小浜城へ御馬を移され候ところ、二本松義継より我等親実元へ仰せられ候は「代々伊達を頼み入り身上あい立て候えども、近年会津・佐竹・岩城、田村へ御弓矢に候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-12.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -21,7 +21,7 @@ license: 'CC BY-SA 2.1 JP'
 > 「南なりとも北なりとも一方召し上げられ下さるように」\
 > とお詫言に候えども、まかりならず候につき、輝宗公御陣所宮森と申す所へ、10月6日駆け入られ候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-11.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-13.html)
+[前](#/post/shigezane/shigezaneki-11)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-13)
 
 ## 出典と変換について
 

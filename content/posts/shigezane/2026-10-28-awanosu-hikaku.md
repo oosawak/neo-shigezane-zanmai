@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: Report
 cover: shigezane/report.webp
 cover_alt: Reportのイラスト
-summary: '元サイト「成実三昧」に掲載された「粟の巣の変 比較表」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '「事変―粟の巣―」を書く時に作った表です。見にくいですが、置いておきます。メモなので、原文をひっぱっていたり、意訳していたり^^;'
 type: article
 source: 'http://shigezane.info/majime/nazo/awanosu/awanosu-hikaku.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -57,9 +57,9 @@ license: 'CC BY-SA 2.1 JP'
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 
-成実合戦記 ＞[粟の巣の変](http://shigezane.info/majime/kassenn/awanosu/awanosu.html) へ\
-成実の謎 ＞[粟の巣の変―輝宗の死の謎](http://shigezane.info/majime/nazo/awanosu/terumune-deth.html) へ\
-私的小説 ＞[事変―粟の巣―](http://shigezane.info/date-nobel/jihen.html) へ
+成実合戦記 ＞[粟の巣の変](#/post/shigezane/awanosu) へ\
+成実の謎 ＞[粟の巣の変―輝宗の死の謎](#/post/shigezane/terumune-deth) へ\
+私的小説 ＞[事変―粟の巣―](#/post/shigezane/intro-novels) へ
 
 ## 出典と変換について
 

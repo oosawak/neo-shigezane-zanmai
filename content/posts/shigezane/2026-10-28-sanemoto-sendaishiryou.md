@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 家族
 cover: shigezane/kazoku.webp
 cover_alt: 家族のイラスト
-summary: '元サイト「成実三昧」に掲載された「仙台志料による伊達実元の伝記」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '伊達実元。直山公（稙宗）第6子。母葦名盛高女。天文11年、上杉氏の養う所として、まさに越後に赴かんとす。中野常陸、逆を謀るに会い、直山保山（晴宗）二公父子隙を構う。'
 type: article
 source: 'http://shigezane.info/majime/kazoku/sanemoto-sendaishiryou.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

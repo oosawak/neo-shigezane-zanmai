@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一 10月6日の晩……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一10月6日の晩、輝宗公、政宗公の御陣屋へおいでなされ候て、御台所へ家老衆へ召し寄られ、義継お詫言の様子、御訴訟なされ候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-13.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -36,7 +36,7 @@ license: 'CC BY-SA 2.1 JP'
 > 「まず小浜へ御引っこみ、御吉日をもって、二本松へ御働きしかるべき」\
 > よし申し上げ候につき、9日未明に小浜へ御帰りなされ候。輝宗公御死骸その夜小浜に御供申し候て、長井の資福寺にて御死体御葬礼なり。遠藤山城・内馬場右衛門、追腹つかまつり候。8日の晩、義継お尋ねなされ、方々切り離し候を、藤をもってつらね、小浜町の外へ、はりつけに御上げ、数多番代をあいつけられ候。義継抱え方地、本宮・玉の井・渋川、8日の晩に、二本松へ引きのき候。米沢へ人質に差し越されるべきよし仰せ合わせられ候、国王殿と申す12になり候子息を、譜代の衆守り、義継従兄弟に新城弾正と申す者、かねて覚えの者に候。かの者武主になり篭城いたし候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-12.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-14.html)
+[前](#/post/shigezane/shigezaneki-12)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-14)
 
 ## 出典と変換について
 

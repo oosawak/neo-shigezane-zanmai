@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一、深谷月鑑は……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一、深谷月鑑は、相馬長門のためには小舅にござ候。下新田においても月鑑は無玉の鉄砲を打ち候のよし、政宗公聞こし召し、「左様の儀もこれあるべく候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-36.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -14,7 +14,7 @@ license: 'CC BY-SA 2.1 JP'
 「左様の儀もこれあるべく候。深谷は大崎境目に候。相馬殿へも縁辺に候間、逆意候存分計り難く」\
 思し召し、秋保摂津守と申す者に預け置かれ、切腹を仰せ付けられ候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-35.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-37.html)
+[前](#/post/shigezane/shigezaneki-35)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-37)
 
 ## 出典と変換について
 

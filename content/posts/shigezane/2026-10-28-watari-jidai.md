@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 住まいと城下
 cover: shigezane/sumai.webp
 cover_alt: 住まいと城下のイラスト
-summary: '元サイト「成実三昧」に掲載された「亘理城主時代」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '宮城県亘理郡亘理町亘理字旧館。別名臥牛城。14世紀初千葉氏の支族武石氏の築城（小堤城）。天正年間に亘理元宗が東方に移転。'
 type: article
 source: 'http://shigezane.info/majime/sumai/watari-jidai.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

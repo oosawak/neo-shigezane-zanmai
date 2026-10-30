@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「政宗記 目次」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '「伊達史料集」収載の「政宗記」を底本にしてます。というか、まんまです。底本にある脚注は著作権の問題上、サイトにはＵＰしません。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/masamuneki/masamuneki-index.htm'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -26,10 +26,10 @@ license: 'CC BY-SA 2.1 JP'
 
 #### 巻2
 
-> [二本松八丁目境和睦之事](http://shigezane.info/majime/tyosaku/masamuneki/masamuneki2-1.html)\
-> [四本松手に入給事](http://shigezane.info/majime/tyosaku/masamuneki/masamuneki2-2.html)\
-> [二本松義継懇望附生害](http://shigezane.info/majime/tyosaku/masamuneki/masamuneki2-3.html)\
-> [本宮戦附人取橋合戦](http://shigezane.info/majime/tyosaku/masamuneki/masamuneki2-4.html)
+> [二本松八丁目境和睦之事](#/post/shigezane/masamuneki2-1)\
+> [四本松手に入給事](#/post/shigezane/masamuneki2-2)\
+> [二本松義継懇望附生害](#/post/shigezane/masamuneki2-3)\
+> [本宮戦附人取橋合戦](#/post/shigezane/masamuneki2-4)
 
 #### 巻3
 
@@ -114,15 +114,15 @@ license: 'CC BY-SA 2.1 JP'
 
 > 若君達御最後附政宗気遣之事\
 > 制札之事\
-> [向島御建立之事](http://shigezane.info/majime/tyosaku/masamuneki/masamuneki9-3.html)\
+> [向島御建立之事](#/post/shigezane/masamuneki9-3)\
 > 秀吉公御逝去之事\
 > 政宗慈悲深事\
 > 政宗家来共取立給ふ事
 
 #### 巻10
 
-> [成実所振舞申事](http://shigezane.info/majime/tyosaku/masamuneki/masamuneki10-1.html)\
-> [政宗一代之行儀](http://shigezane.info/majime/tyosaku/masamuneki/masamuneki10-2.html)\
+> [成実所振舞申事](#/post/shigezane/masamuneki10-1)\
+> [政宗一代之行儀](#/post/shigezane/masamuneki10-2)\
 > 詩歌附狂歌事
 
 #### 巻11
@@ -132,15 +132,15 @@ license: 'CC BY-SA 2.1 JP'
 > 御能事\
 > 躍御見物事\
 > 政宗下国事\
-> [鹿猟事](http://shigezane.info/majime/tyosaku/masamuneki/masamuneki11-6.html)\
-> [江戸え立給ふ事](http://shigezane.info/majime/tyosaku/masamuneki/masamuneki11-7.html)
+> [鹿猟事](#/post/shigezane/masamuneki11-6)\
+> [江戸え立給ふ事](#/post/shigezane/masamuneki11-7)
 
 #### 巻12
 
-> [病気之事](http://shigezane.info/majime/tyosaku/masamuneki/masamuneki12-1.html)\
-> [療治附将軍公出御事](http://shigezane.info/majime/tyosaku/masamuneki/masamuneki12-2.html)\
-> [二世供申出附逝去](http://shigezane.info/majime/tyosaku/masamuneki/masamuneki12-3.html)\
-> [葬礼次第附七仏事](http://shigezane.info/majime/tyosaku/masamuneki/masamuneki12-4.html)
+> [病気之事](#/post/shigezane/masamuneki12-1)\
+> [療治附将軍公出御事](#/post/shigezane/masamuneki12-2)\
+> [二世供申出附逝去](#/post/shigezane/masamuneki12-3)\
+> [葬礼次第附七仏事](#/post/shigezane/masamuneki12-4)
 
 ## 出典と変換について
 

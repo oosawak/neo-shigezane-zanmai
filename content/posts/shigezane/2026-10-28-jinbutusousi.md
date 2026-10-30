@@ -5,7 +5,7 @@ date: '2026-10-28'
 category: 略歴・年表
 cover: shigezane/ryakureki.webp
 cover_alt: 略歴・年表のイラスト
-summary: '元サイト「成実三昧」に掲載された「「仙台藩人物叢誌」による伊達成実の伝記」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '伊達成実、通称は藤五郎、後、安房と称す。伊達政宗に仕えて上将の任にあり、人となり英毅、智仁勇三徳を兼備せり。'
 type: article
 source: 'http://shigezane.info/majime/ryakureki/jinbutusousi.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

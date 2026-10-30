@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: Report
 cover: shigezane/report.webp
 cover_alt: Reportのイラスト
-summary: '元サイト「成実三昧」に掲載された「伊達安房屋敷の火災と肴町」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '寛永11年2月23日、成実が政宗を饗応した後、成実屋敷で火災が発生した。'
 type: article
 source: 'http://shigezane.info/majime/nazo/awayashiki.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -23,7 +23,7 @@ license: 'CC BY-SA 2.1 JP'
 しかし、各種資料はこの火災にあった成実屋敷は「若林」の屋敷であるとする。\
 曰く、
 
-> [政宗記 成実所振舞申事](http://shigezane.info/majime/tyosaku/masamuneki/masamuneki10-1.html)\
+> [政宗記 成実所振舞申事](#/post/shigezane/masamuneki10-1)\
 > 「政宗宮城の国分仙台近所に……（中略）……彼地若林と名付け……（中略）……是に依て、成実屋敷の作事も出て、三四度申請、……（中略、以下、火事の記事に続く）……」
 > 木村宇衛右衛門覚書 120\
 > 「有年、伊達安房しけさね若はやしの屋敷新宅出来…………（中略）……しけさねのやしきのこらすならひの町二三町焼失なり……」

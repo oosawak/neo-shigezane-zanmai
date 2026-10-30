@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: リファレンス・書庫
 cover: shigezane/reference.webp
 cover_alt: リファレンス・書庫のイラスト
-summary: '元サイト「成実三昧」に掲載された「資料紹介・周辺諸氏」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '佐原義連が会津を拝領した文治五年から、葦名氏の滅亡する天正十七年までに登場する主要な人物の事典。小島一男歴史春秋社1992'
 type: article
 source: 'http://shigezane.info/majime/siryou/bunken/shuuhennshosi.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

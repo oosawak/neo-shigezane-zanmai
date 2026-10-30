@@ -5,7 +5,7 @@ date: '2026-10-28'
 category: 略歴・年表
 cover: shigezane/ryakureki.webp
 cover_alt: 略歴・年表のイラスト
-summary: '元サイト「成実三昧」に掲載された「「東藩史稿」による成実の伝記」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '小字は藤五郎、また、兵部。後、安房と称す。（中略）成実人となり、英毅大略あり。一時勇武無双と称す。天正13年、人取橋の役、成実一隊群を離れ、敵軍猛兵の間に際して功あり。'
 type: article
 source: 'http://shigezane.info/majime/ryakureki/touhannsikou-narumi.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

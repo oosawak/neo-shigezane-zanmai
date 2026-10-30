@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一 天正13年7月始め……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '天正13年7月始めに、米沢へ拙者使者上げ候て、「猪苗代の儀、相違つかまつり、迷惑に存じ候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-4.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -36,7 +36,7 @@ license: 'CC BY-SA 2.1 JP'
 「陣を越し候こと、返す返す御無用に候。御合戦も御大切に候あいだ、日数をもって後日さようにしかるべし」\
 よし申され候よし。半分は我らを御越させしかるべきよし申し、また休雪申すをもっともに候よし申す衆も候て、その日は落居申さず打ちあげられ候。
 
-#### [前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-3.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-5.html)
+#### [前](#/post/shigezane/shigezaneki-3)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-5)
 
 ## 出典と変換について
 

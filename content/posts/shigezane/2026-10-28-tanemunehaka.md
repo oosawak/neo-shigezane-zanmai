@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: Report
 cover: shigezane/report.webp
 cover_alt: Reportのイラスト
-summary: '元サイト「成実三昧」に掲載された「伊達稙宗・実元の墓と祭祀」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '御祖父従四位下稙宗君、伊具郡丸森城に於て卒し給う。御寿78歳。西の曲輪に葬る。智松院殿直山円入大居士と号し奉る。'
 type: article
 source: 'http://shigezane.info/majime/nazo/yourinji/tanemunehaka.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

@@ -4,13 +4,13 @@ date: '2026-10-28'
 category: Report
 cover: shigezane/report.webp
 cover_alt: Reportのイラスト
-summary: '元サイト「成実三昧」に掲載された「粟の巣の変―輝宗の死をめぐるいろいろ 1」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '伊達輝宗が宮森城で、畠山義継に拉致され、粟の巣（二本松市平石高田）で討ちかかった伊達勢により、二人とも死没した事件―粟の巣の変の概要は、当サイトの合戦記＞粟の巣の変で既に記した。'
 type: article
 source: 'http://shigezane.info/majime/nazo/awanosu/terumune-deth.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
 license: 'CC BY-SA 2.1 JP'
 ---
-伊達輝宗が宮森城で、畠山義継に拉致され、粟の巣（二本松市平石高田）で討ちかかった伊達勢により、二人とも死没した事件―粟の巣の変の概要は、当サイトの [合戦記＞粟の巣の変](http://shigezane.info/majime/kassenn/awanosu/awanosu.html) で既に記した。
+伊達輝宗が宮森城で、畠山義継に拉致され、粟の巣（二本松市平石高田）で討ちかかった伊達勢により、二人とも死没した事件―粟の巣の変の概要は、当サイトの [合戦記＞粟の巣の変](#/post/shigezane/awanosu) で既に記した。
 
 > 〈粟の巣の変 地図〉 電子国土により作成。黒い部分は河川。
 
@@ -203,23 +203,23 @@ license: 'CC BY-SA 2.1 JP'
 
 ## 参照
 
-- 政宗記 [二本松義継懇望附生害](http://shigezane.info/majime/tyosaku/masamuneki/masamuneki2-3.html)
-- 成実記 [一 同月26日……](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-12.html)（畠山義継、伊達実元を頼る）
-- 成実記 [一 10月6日の晩……](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-13.html)（輝宗の最期）
-- 伊達日記 [一、26日政宗公小浜の城へ…](http://shigezane.info/majime/tyosaku/datenikki/t13-9-26.html)（畠山義継、伊達実元を頼る）
-- 伊達日記 [一、6日の晩、輝宗公…](http://shigezane.info/majime/tyosaku/datenikki/t13-10-6.html)（輝宗の最期）
-- [山口道斎物語（抜粋）](http://shigezane.info/majime/kassenn/awanosu/dousai.html)
-- [「木村右衛門覚書」60](http://shigezane.info/majime/kassenn/awanosu/oboegaki60.html)
-- [元和8年老人覚書](http://shigezane.info/majime/kassenn/awanosu/roujin.html)
+- 政宗記 [二本松義継懇望附生害](#/post/shigezane/masamuneki2-3)
+- 成実記 [一 同月26日……](#/post/shigezane/shigezaneki-12)（畠山義継、伊達実元を頼る）
+- 成実記 [一 10月6日の晩……](#/post/shigezane/shigezaneki-13)（輝宗の最期）
+- 伊達日記 [一、26日政宗公小浜の城へ…](#/post/shigezane/t13-9-26)（畠山義継、伊達実元を頼る）
+- 伊達日記 [一、6日の晩、輝宗公…](#/post/shigezane/t13-10-6)（輝宗の最期）
+- [山口道斎物語（抜粋）](#/post/shigezane/dousai)
+- [「木村右衛門覚書」60](#/post/shigezane/oboegaki60)
+- [元和8年老人覚書](#/post/shigezane/roujin)
 - 松林靖明「戦国軍記における体験談――『伊達日記』と『山口道斎物語』」 古典遺産第59号 2009.12
-- 当サイト [粟の巣の変](http://shigezane.info/majime/kassenn/awanosu/awanosu.html)
-- 当サイト [粟の巣の変 比較表](http://shigezane.info/majime/nazo/awanosu/awanosu-hikaku.html)
+- 当サイト [粟の巣の変](#/post/shigezane/awanosu)
+- 当サイト [粟の巣の変 比較表](#/post/shigezane/awanosu-hikaku)
 
 ## 関連する管理人の作品
 
-- [事変 ―粟ノ巣―](http://shigezane.info/date-nobel/jihen.html) （2013.5月発行 [伊達成実アンソロジー「余るも夢の」](http://engine.ciao.jp/antholo-sd/index.html) に掲載）
+- [事変 ―粟ノ巣―](#/post/shigezane/intro-novels) （2013.5月発行 [伊達成実アンソロジー「余るも夢の」](http://engine.ciao.jp/antholo-sd/index.html) に掲載）
 
-[輝宗の死をめぐるいろいろ 2 へ](http://shigezane.info/majime/nazo/awanosu/terumune-deth2.html)進む
+[輝宗の死をめぐるいろいろ 2 へ](#/post/shigezane/terumune-deth2)進む
 
 ## 出典と変換について
 

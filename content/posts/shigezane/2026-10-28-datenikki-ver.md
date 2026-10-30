@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: リファレンス・書庫
 cover: shigezane/reference.webp
 cover_alt: リファレンス・書庫のイラスト
-summary: '元サイト「成実三昧」に掲載された「伊達日記・政宗記・成実記の書誌情報」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '伊達成実の著した伊達政宗の一代記は、一般に「政宗記」または「成実記」と呼ばれます。この一代記は大きく分けて二系統に分かれます。'
 type: article
 source: 'http://shigezane.info/majime/siryou/bunken/datenikki-ver.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -30,13 +30,13 @@ license: 'CC BY-SA 2.1 JP'
 
 ### 「成実記」系
 
-- [「成実記」](http://shigezane.info/majime/shigezaneki/shigezaneki-mokuji.html) 仙台叢書刊行会 仙台叢書第3巻に収載。昭和49年宝文堂より復刊
-- 「[伊達日記](http://shigezane.info/majime/datenikki/datenikki.html)」 群書類従合戦部第二十一揖に収載。
+- [「成実記」](#/post/shigezane/shigezaneki-mokuji) 仙台叢書刊行会 仙台叢書第3巻に収載。昭和49年宝文堂より復刊
+- 「[伊達日記](#/post/shigezane/datenikki)」 群書類従合戦部第二十一揖に収載。
 
 ### 「政宗記」系
 
 - 「政宗記」 仙台叢書刊行会 仙台叢書第11巻に収載。昭和49年宝文堂より復刊。
-- 「[政宗記](http://shigezane.info/majime/masamuneki/masamuneki-index.htm)」 人物往来社 戦国史料叢書10 「伊達史料集上」に収載。 [\[sd-script\]伊達家家臣伊達成実に関する私的アーカイブ「政宗記」](http://sd-script.hateblo.jp/entry/2012/06/24/132626)に順次テキスト化あり。
+- 「[政宗記](#/post/shigezane/masamuneki-index)」 人物往来社 戦国史料叢書10 「伊達史料集上」に収載。 [\[sd-script\]伊達家家臣伊達成実に関する私的アーカイブ「政宗記」](http://sd-script.hateblo.jp/entry/2012/06/24/132626)に順次テキスト化あり。
 - 「政宗公御軍配 伊達成実 自筆稿本」（伊達家関係資料 916・35-1～2） →（[「亘理伊達家史料」](http://www.funkawan.net/book/books.html)に翻刻収載。自筆？？）
 
 ### 系統未確認
@@ -99,7 +99,7 @@ license: 'CC BY-SA 2.1 JP'
 
 ## 当サイト内関連記事
 
-- [伊達成実の著作](http://shigezane.info/majime/tyosaku/tyosaku.htm) 「政宗記」「成実記」等のテキスト（改変あり）掲載
+- [伊達成実の著作](#/post/shigezane/tyosaku) 「政宗記」「成実記」等のテキスト（改変あり）掲載
 
 ## 出典と変換について
 

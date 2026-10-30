@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一 霜月10日ごろ……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一霜月10日ごろ、佐竹義重公・会津義弘公・岩城常隆公・石川昭光公・白河義近公、仰せ合わされ、須賀川へ御出馬なされ、浅積表に伊達御奉公の城々へ御働きなされ、中村と申す城御攻め落城つかまつり候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-15.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -36,7 +36,7 @@ license: 'CC BY-SA 2.1 JP'
 > 「一戦これあるか」\
 > と存じ候ところ、政宗公御備5-6丁ほど隔て候ゆえか、何事なく打ち上げ候。この方の人数も御無人数ゆえ、押し添えず、かの下郡山内記と申す者は、旧輝宗公へ御近く御奉公申し、相馬御弓矢の時分、鉄砲大将仰せつけられ、度々の覚えをつかまつり候。その頃御勘当にて我らを頼みまといに居り申し候。その日も味方遅れ候時は、馬を立てまわし立てまわし、味方の力になり、敵を押し返し候ときは最前に乗り入れ、敵に両度物付をつかまつり家中に首を取らせ申し候て、比類なく稼ぎをつかまつり候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-14.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-15.html)
+[前](#/post/shigezane/shigezaneki-14)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-15)
 
 ## 出典と変換について
 

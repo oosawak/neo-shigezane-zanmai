@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「義胤、田村取損給之事」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '同5月、政宗は大森に義胤は月山に御坐す内、田村の家来義胤へ尚も心を合せけるに、夫に又三春の城に御坐ける政宗姑母儀は、義胤伯母にて御坐しけるが、其頃政宗へ恨みを含み、相馬へ傾き…'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/masamuneki/masamuneki4-8html.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -35,7 +35,7 @@ license: 'CC BY-SA 2.1 JP'
 天正日記、治家記録等と照合すると、上の「5月」は「閏5月」と思われる。
 
 ←[田村家老衆訴訟の事](http://shigezane.info/majime/tyosaku/masamuneki/masamuneki4-7.html)へ戻る\
-→[大越退治訴訟の事](http://shigezane.info/majime/tyosaku/masamuneki/masamuneki4-9html.html)に進む
+→[大越退治訴訟の事](#/post/shigezane/masamuneki4-9html)に進む
 
 ## 出典と変換について
 

@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 住まいと城下
 cover: shigezane/sumai.webp
 cover_alt: 住まいと城下のイラスト
-summary: '元サイト「成実三昧」に掲載された「二本松城主時代」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '福島県二本松市郭内。白旗ゲ峰にある山城。応永年間に奥州探題であった畠山氏によって築城された。天正14年9月から天正19年まで成実が居住。'
 type: article
 source: 'http://shigezane.info/majime/sumai/nihonmatu-jidai.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

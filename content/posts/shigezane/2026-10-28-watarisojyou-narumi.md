@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 略歴・年表
 cover: shigezane/ryakureki.webp
 cover_alt: 略歴・年表のイラスト
-summary: '元サイト「成実三昧」に掲載された「亘理訴状による成実の功績」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '天和2年（1682）、亘理伊達家当主が幼くして急死。藩は末期養子をたて、知行半減という方針だった。それに家中は反発、別の養子を希望し、しかも領地は全部安堵してくれと訴えでた。'
 type: article
 source: 'http://shigezane.info/majime/ryakureki/watarisojyou-narumi.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

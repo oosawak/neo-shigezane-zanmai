@@ -4,14 +4,14 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「伊達日記」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一、26日政宗公小浜の城へ…（畠山義継、伊達実元を頼る）一、6日の晩、輝宗公…（輝宗の最期）'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/datenikki/datenikki.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
 license: 'CC BY-SA 2.1 JP'
 ---
-- [一、26日政宗公小浜の城へ…](http://shigezane.info/majime/tyosaku/datenikki/t13-9-26.html)（畠山義継、伊達実元を頼る）
-- [一、6日の晩、輝宗公…](http://shigezane.info/majime/tyosaku/datenikki/t13-10-6.html)（輝宗の最期）
+- [一、26日政宗公小浜の城へ…](#/post/shigezane/t13-9-26)（畠山義継、伊達実元を頼る）
+- [一、6日の晩、輝宗公…](#/post/shigezane/t13-10-6)（輝宗の最期）
 
 ## 出典と変換について
 

@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: リファレンス・書庫
 cover: shigezane/reference.webp
 cover_alt: リファレンス・書庫のイラスト
-summary: '元サイト「成実三昧」に掲載された「伊達関係史料 刊行史料」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '会津資料保存会,1917-1920桧原軍物語(菊地研介)町往来(著者不詳)童戯邑日記(著者不詳)会津合戦記(著者不詳)会津双桜記(著者不詳)蘆名家由緒考証(関場忠武)会藩編年畧(澹園安鱗士竜撰,竹浦佐…'
 type: article
 source: 'http://shigezane.info/majime/siryou/bunken/rekisisiryou.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -120,7 +120,7 @@ H2.12.25
 **[伊達家史叢談](http://www.konp.co.jp/publication/list/index.php?page=2&rows=19)**
 
 伊達邦宗 今野印刷 2001.2.3\
-仙台伊達家15代当主の著した家史。目次は[コチラ](http://shigezane.info/majime/siryou/bunken/datekasisoudan.html)。
+仙台伊達家15代当主の著した家史。目次は[コチラ](#/post/shigezane/datekasisoudan)。
 
 **伊達家文書目録**
 

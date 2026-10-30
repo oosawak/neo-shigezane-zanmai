@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一 天正15年正月16日……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一天正15年正月16日、大崎へ仰せつけられ、御人数大将には、伊達上野介・泉田安芸両人仰せつけられ、その外、粟野助太郎・長井月鑑・高城周防・大松沢左衛門・宮内因幡・舘助三郎・浜田伊豆を軍奉行となし…'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-27.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -18,7 +18,7 @@ license: 'CC BY-SA 2.1 JP'
 「上野殿久しく我等と間しかるなく候。その上今度大崎御弓矢の企て、我等申し上げ、御人数相向かわれ候はば、月舟は上野殿の舅に候。かれといい、これといい、今度は、御弓矢御精入るまじきよし存じ候。出羽申すところもっともに存じ候。氏家弾正岩出山在城仕り、伊達勢の旗先を見ず候はば、力を落とし、また義隆へ御奉公申すも計り難く候間、師山には押さえを差し置かれ、打ち通られしかるべき」\
 よし申し候。是非に及ばず中新田の働きに相極まり候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-26.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-28.html)
+[前](#/post/shigezane/shigezaneki-26)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-28)
 
 ## 出典と変換について
 

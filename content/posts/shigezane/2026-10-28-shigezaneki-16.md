@@ -4,13 +4,13 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一 17日の晩は、政宗公……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一17日の晩は、政宗公も岩角へ引き上げられ、夜半頃に山路淡路を拙者ところへ御使者にて、御自筆の御書下され、御口上にも「今日の扱い比類なく候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-16.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
 license: 'CC BY-SA 2.1 JP'
 ---
-一 17日の晩は、政宗公も岩角へ引き上げられ、夜半頃に山路淡路を拙者ところへ御使者にて、[御自筆の御書](http://shigezane.info/majime/shokan/29.html)下され、御口上にも\
+一 17日の晩は、政宗公も岩角へ引き上げられ、夜半頃に山路淡路を拙者ところへ御使者にて、[御自筆の御書](#/post/shigezane/29)下され、御口上にも\
 「今日の扱い比類なく候。敵の後ろにて合戦いたし、敗軍つかまつらぬこと、前代未聞のことに候。ひっきょうその方ゆえに大勢の者ども、あい助かり候。定めて手負い・死人、数多これあるべく候。ことに明日、敵の方より本宮近陣のよし、聞きなされ候。誰そ遣わされたく思し召され候えども、誰も余にこれなく候間、大義ながら本宮へ入り申すべく候。伊達上野遣わされ候」\
 よし仰せ下され候。また淡路申し候は\
 「今日の御合戦に味方何とつかまつり候や。引き添え候て参り候ことまかりならず、両人是非なく敵に紛れまかり越し候。敵方にてその様子は存ぜず。いずれも相談には、本宮を近陣なされ、二本松篭城の衆を引き除かれるべく、談合つぶさに承り、日暮れてようやく敵の陣を逃れ参り候よし、申し上げ候につき、ただ今かくのごとく仰せつけられ、本宮は篭城たるべく候間、その仕度申すべき」\
@@ -28,7 +28,7 @@ license: 'CC BY-SA 2.1 JP'
 「もしまたこの上にも、敵働き候ことはかりがたき」\
 よし御意候て、岩角に両日御座なされ候えども、何事なき間、小浜へ御帰りなされ、御越年候こと。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-15.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-17.html)
+[前](#/post/shigezane/shigezaneki-15)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-17)
 
 ## 出典と変換について
 

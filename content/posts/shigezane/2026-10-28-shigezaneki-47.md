@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一、大森に御逗留候内……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一大森に御逗留候内、高倉近辺を御覧なさるべきよし、仰せられ候て、5月11日より御日帰りに前田沢まで御出で、城の内まで御覧なされ候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-47.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -12,7 +12,7 @@ license: 'CC BY-SA 2.1 JP'
 ---
 一 大森に御逗留候内、高倉近辺を御覧なさるべきよし、仰せられ候て、5月11日より御日帰りに前田沢まで御出で、城の内まで御覧なされ候。我らは御出でも存ぜず、本宮にて追いつき、御供つかまつり候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-46.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-48.html)
+[前](#/post/shigezane/shigezaneki-46)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-48)
 
 ## 出典と変換について
 

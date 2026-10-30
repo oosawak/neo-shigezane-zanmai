@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 家族
 cover: shigezane/kazoku.webp
 cover_alt: 家族のイラスト
-summary: '元サイト「成実三昧」に掲載された「伊達家世臣伝記による伊達実元の伝記」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '伊達兵部太輔藤原実元は当家14世稙宗君の第3子。母は会津主葦名修理大夫平盛高の女なり。天文中、外曽祖父越後主上杉兵庫頭藤原定実嗣無し。'
 type: article
 source: 'http://shigezane.info/majime/kazoku/sesinndenki-sanemoto.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

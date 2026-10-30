@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: リファレンス・書庫
 cover: shigezane/reference.webp
 cover_alt: リファレンス・書庫のイラスト
-summary: '元サイト「成実三昧」に掲載された「資料紹介・家臣団」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '神田美一著なんと虎哉和尚の伝記。幼名は虎千代だそうだ。'
 type: article
 source: 'http://shigezane.info/majime/siryou/bunken/datekasin.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

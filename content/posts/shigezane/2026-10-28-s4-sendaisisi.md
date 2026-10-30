@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 略歴・年表
 cover: shigezane/ryakureki.webp
 cover_alt: 略歴・年表のイラスト
-summary: '元サイト「成実三昧」に掲載された「『仙台市史(昭和4年版)』 第一巻 第三編 人物伝 藩士 伊達成実」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '伊達成實、小字は藤五郎、又兵部、後安房と称す。稙宗公の子實元を以って祖とす。母は晴宗公の女なり。成實人となり英毅大略あり。'
 type: article
 source: 'http://shigezane.info/majime/ryakureki/s4-sendaisisi.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

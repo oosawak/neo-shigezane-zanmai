@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一、同年3月23日……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一、同年3月23日、玉井合戦過ぎ候て帰り候に、小十郎は大内備前・片平助右衛門まかり出で候を、あい待つべきよしにて、二本松へまかり越し、逗留いたされ候ところ、4月5日晩、梶内弾正と申す者…'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-42.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -16,7 +16,7 @@ license: 'CC BY-SA 2.1 JP'
 「助右衛門もご奉公つかまつるべきよし、堅く申し合わせ候えども、少しの儀でき、兄弟間にまかりなり、我らに腹を切らせるべきよし申すにつき、ようようあい除け参り候」\
 よし、申され候につき、総別助右衛門はご奉公つかまつるまじき覚悟に候を、備前身上のため、計をもって「助右衛門ご奉公」と申され候か、大内参り候上は末々助右衛門もご奉公つかまつられ候か、また片平の地を会津より取り替えられ候か。如何ただいまの様にては、差し置かれまじく候。兄弟の分、別違候よし、小十郎と相談いたし候て、両人の噂を申し候。大内まかり出で候に、無人数なりとも、一働き申さず候ては、如何に候間、安子ヶ島へ働き申すべきよし申し合わせ、白石若狭・片倉小十郎・我ら3人の人数をもって、安子ヶ島へ働き申し候えども、内より1人もまかり出でず候。此方よりもつかまつるべき様これなく、引きあげ、また翌日働き候ところ、塩松の内に居り候石川弾正と申す者、相馬へ身を持ち替え、白石若狭の知行の内へ事切れつかまつり、火の手見え候間、若狭は働きの中途より帰られ候。我ら・小十郎討ち働き候えども、何事無く打ちあげ候。小十郎は8日大森へ帰り、大内備前は米沢へ伺上つかまつり、御目見得申したく申され候條、我ら家中・遠藤駿河と申す者差し添え、米沢へあい登らせしめ申し候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-41.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-43.html)
+[前](#/post/shigezane/shigezaneki-41)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-43)
 
 ## 出典と変換について
 

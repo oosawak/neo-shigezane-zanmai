@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一、 天正16年2月12日……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一、天正16年2月12日、片平・安子ヶ島・高玉、3ヶ所の人数をもって、大内備前、苗代田へ未明に押しかけ、古城に居り候百姓ども100人ばかりあい果て、本内主水と申す者を物主に差し置き候を…'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-40.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -26,7 +26,7 @@ license: 'CC BY-SA 2.1 JP'
 「さように候はば、ご奉公つかまつるまじく候。御印判いただき候も、上げ置き申すべき」\
 よし、申され候につき、20日ばかりも事延び、ようよう瀬上丹後こと御前あい済み、小十郎も二本松へまかり帰り、備前・助右衛門まかり出で候をあい待つべく、我らと申し合わせ候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-39.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-41.html)
+[前](#/post/shigezane/shigezaneki-39)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-41)
 
 ## 出典と変換について
 

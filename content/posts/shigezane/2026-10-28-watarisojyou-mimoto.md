@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 家族
 cover: shigezane/kazoku.webp
 cover_alt: 家族のイラスト
-summary: '元サイト「成実三昧」に掲載された「亘理訴状による伊達実元の功績」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '天和2年（1682）、亘理伊達家当主が幼くして急死。藩は末期養子をたて、知行半減という方針だった。それに家中は反発、別の養子を希望し、しかも領地は全部安堵してくれと訴えでた。'
 type: article
 source: 'http://shigezane.info/majime/kazoku/watarisojyou-mimoto.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

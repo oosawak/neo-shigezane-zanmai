@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: リファレンス・書庫
 cover: shigezane/reference.webp
 cover_alt: リファレンス・書庫のイラスト
-summary: '元サイト「成実三昧」に掲載された「伊達家史叢談 目次」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '伊達家史叢談の目次を紹介します。だって高い本は、内容がわからないと買う決心がなかなかつかないし。購入を検討されてる方は参考にしてください。'
 type: article
 source: 'http://shigezane.info/majime/siryou/bunken/datekasisoudan.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

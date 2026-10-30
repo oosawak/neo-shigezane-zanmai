@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一、上野介・浜田伊豆の人数を……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一、上野介・浜田伊豆の人数を引きつけたく存ぜられ候えども、はや日は暮れ候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-31.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -22,7 +22,7 @@ license: 'CC BY-SA 2.1 JP'
 「さように候はば、その譯にあい備えらる衆も、いずれも上野同心にあい除けらるるべき」\
 よし、申され候につき、松山へ引除かれ候ところ、中新田へ働きの衆中切候て、橋を引かれ候ゆえ、思いのほかに新沼へ籠城いたされ候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-30.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-32.html)
+[前](#/post/shigezane/shigezaneki-30)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-32)
 
 ## 出典と変換について
 

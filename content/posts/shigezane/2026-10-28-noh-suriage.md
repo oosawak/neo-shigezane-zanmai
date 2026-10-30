@@ -4,13 +4,13 @@ date: '2026-10-28'
 category: 謡曲「摺上」
 cover: shigezane/noh.webp
 cover_alt: 謡曲「摺上」のイラスト
-summary: '元サイト「成実三昧」に掲載された「謡曲 摺上」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: 'この記事は野崎さまより、情報・詞章を紹介いただきました。イラストも頂戴しました。ありがとうございますm(__)m'
 type: article
 source: 'http://shigezane.info/majime/noh-suriage.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
 license: 'CC BY-SA 2.1 JP'
 ---
-この記事は野崎さまより、情報・詞章を紹介いただきました。[イラスト](http://shigezane.info/asobi/100mensou/suriagegensou.html)も頂戴しました。ありがとうございますm(_ _)m
+この記事は野崎さまより、情報・詞章を紹介いただきました。[イラスト](#/post/shigezane/intro-hyakumensou)も頂戴しました。ありがとうございますm(_ _)m
 
 #### 謡曲 「摺上」について
 

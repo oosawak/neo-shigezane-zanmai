@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一 二本松の城、去年より当７月まで……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一二本松の城、去年より当７月まであい抱え候子細は、高玉・安子ヶ島、会津へ奉公につき、深山づたいに二本松へ通路つかまつり候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-20.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -14,7 +14,7 @@ license: 'CC BY-SA 2.1 JP'
 「通路へ付城を」\
 とも、なされたく思し召され候えども、義広・義重・常隆御出馬御気遣いをもってなされず候。その上高山にて見はえ、通路を留むべきようにて人数をも越し候えば、通らず候。人数これ無き時分は見切り候て、い木以下も少々通り候ゆえ、当年７月まであい抱え候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-19.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-21.html)
+[前](#/post/shigezane/shigezaneki-19)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-21)
 
 ## 出典と変換について
 

@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 住まいと城下
 cover: shigezane/sumai.webp
 cover_alt: 住まいと城下のイラスト
-summary: '元サイト「成実三昧」に掲載された「角田城主時代」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '宮城県角田市角田字牛舘。別名臥牛城。湿地に囲まれた丘の上にある。永禄年間、田手氏の築城。阿武隈川水運の港としても栄えた。'
 type: article
 source: 'http://shigezane.info/majime/sumai/kakuda-jidai.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

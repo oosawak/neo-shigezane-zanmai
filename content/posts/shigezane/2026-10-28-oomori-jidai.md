@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 住まいと城下
 cover: shigezane/sumai.webp
 cover_alt: 住まいと城下のイラスト
-summary: '元サイト「成実三昧」に掲載された「大森城主時代」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '福島県福島市大森。現在、城山公園になっている。福島盆地南西部の山城。かつてはこの山を「信夫森」といったらしい。'
 type: article
 source: 'http://shigezane.info/majime/sumai/oomori-jidai.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -65,7 +65,7 @@ license: 'CC BY-SA 2.1 JP'
 福島市小田。亘理に移るまでの伊達（実元）家の菩提寺。実元・稙宗の墓がある。稙宗の墓は分骨したもの。[座禅石・化け物石などの伝説](http://www.bakebake.com/kaido/fukusima/kenpoku/kp02yori.htm)を残す。\
 （写真提供：野崎準さま 左から 陽林寺山門・伊達稙宗墓・伊達実元墓）
 
-[伊達成実の住まいと城](http://shigezane.info/majime/sumai/sumai.htm)
+[伊達成実の住まいと城](#/post/shigezane/sumai)
 
 ## 出典と変換について
 

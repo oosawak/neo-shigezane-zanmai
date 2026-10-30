@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 略歴・年表
 cover: shigezane/ryakureki.webp
 cover_alt: 略歴・年表のイラスト
-summary: '元サイト「成実三昧」に掲載された「仙台志料 伊達邦成古文書 より抜粋」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '伊達成実天正11年家跡を受く。性山公（輝宗）家跡を納言公に譲る。13年10月8日。納言公畠山義継を攻む。不戴天の讐を報う。'
 type: article
 source: 'http://shigezane.info/majime/ryakureki/sendaishiryou-5.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

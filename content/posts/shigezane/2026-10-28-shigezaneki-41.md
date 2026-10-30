@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一、天正16年2月12-3日ごろ……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一、天正16年2月12-3日ごろ、我ら抱えの地・玉井と申すところへ、高玉より山際につきて西原と申し候て、4-5里玉井より隔て候ところへ、真草を越し候て、玉井の者ども、兵義無く遠く追い候て…'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-41.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -16,7 +16,7 @@ license: 'CC BY-SA 2.1 JP'
 「我ら除け候はば、必ず崩れるべく候間、その身主膳になりかわり、しんがりつかまつり、相違なく武別れさせ候へ」\
 と、申しつけ、引き除けに頓して死去申し候。その草調儀は、高玉太郎左衛門・太田主膳両人武主にて候草にて候間、両人引き除け候と、即ち崩れ候。追い討ちにつかまつる首、153討ち取り申し候。大勢討ち申すべく候えども、山あいにて地形悪しく候。散々に逃げ候ゆえ、少し討ち候。その夜は宿へまかり帰らぬ候者どもこれありのよし、後に承り候。右の首ども、鼻をかき塩漬けにて、米沢へ上げ申し候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-40.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-42.html)
+[前](#/post/shigezane/shigezaneki-40)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-42)
 
 ## 出典と変換について
 

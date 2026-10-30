@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 略歴・年表
 cover: shigezane/ryakureki.webp
 cover_alt: 略歴・年表のイラスト
-summary: '元サイト「成実三昧」に掲載された「「東藩野乗」（仙台叢書八巻所収）による成実の伝記」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '亘理邑主亘理邑主、伊達成実君。初め藤五郎、更に安房と称す。兵部大輔実元の長子なり。勇略絶群、頗る文雅を好む。貞山公に少きこと一歳。'
 type: article
 source: 'http://shigezane.info/majime/ryakureki/touhanyajyou.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

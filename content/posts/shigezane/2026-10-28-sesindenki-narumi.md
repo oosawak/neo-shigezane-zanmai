@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 略歴・年表
 cover: shigezane/ryakureki.webp
 cover_alt: 略歴・年表のイラスト
-summary: '元サイト「成実三昧」に掲載された「伊達世臣伝記による伊達成実の伝記」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '伊達安房藤原成実は、初め藤五郎と称す。兵部大輔実元の嫡子。母は当家15世晴宗君の女。当家の一門（当家の公族、古昔より唯一家一族の称有て一門の称無し。'
 type: article
 source: 'http://shigezane.info/majime/ryakureki/sesindenki-narumi.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

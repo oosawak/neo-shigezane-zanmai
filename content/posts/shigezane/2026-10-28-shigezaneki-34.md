@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一、最上より義顕……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一、最上より義顕（義光）、野辺沢能登と申す衆を蟻ヶ袋へ差し越され、能登、長井月鑑へ会い候いて、何を談合申され候や、月鑑は深谷へ帰り、泉田安芸一人小野田へ同心申され候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-34.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -20,7 +20,7 @@ license: 'CC BY-SA 2.1 JP'
 「この様子政宗公へ知らせ申したき」\
 よしにて、斎藤孫右衛門と申す者、忍び使に米沢へ上げ、右の段つぶさに申し上げ候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-33.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-35.html)
+[前](#/post/shigezane/shigezaneki-33)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-35)
 
 ## 出典と変換について
 

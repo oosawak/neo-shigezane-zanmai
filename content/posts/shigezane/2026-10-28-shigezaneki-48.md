@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一、田村において内々色々の申し分候……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一、田村において内々色々の申し分候。月斎・刑部申され候は、「大森には政宗公御在馬なされ、築山には義胤御坐候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-48.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -16,7 +16,7 @@ license: 'CC BY-SA 2.1 JP'
 「もっとも、しかるべき」\
 よし申され候て、片倉小十郎へ両人よりも、そのとおり内談申され候について、御飛脚にても遣わされず候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-47.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-49.html)
+[前](#/post/shigezane/shigezaneki-47)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-49)
 
 ## 出典と変換について
 

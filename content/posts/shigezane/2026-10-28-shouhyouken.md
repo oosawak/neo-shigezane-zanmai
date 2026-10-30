@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: Report
 cover: shigezane/report.webp
 cover_alt: Reportのイラスト
-summary: '元サイト「成実三昧」に掲載された「商標権の考え方」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '以下は武水の個人的見解です。責任は取りません。勉強はしたつもりですが、知財法は複雑です。間違い箇所などありましたら、ご指摘くださいませ。'
 type: article
 source: 'http://shigezane.info/majime/nazo/shouhyouken.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

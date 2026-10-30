@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「田村家老衆訴訟の事」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '同四月、石川弾正逆意に付て、相馬へ傾く者ども伊達を守人々も、政宗時刻を移さず打出給ふべしと、田村にて積りけるに、左もなかりければ、何れも不審を立るは理りなり。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/masamuneki/masamuneki4-7html.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -34,7 +34,7 @@ license: 'CC BY-SA 2.1 JP'
 「大森には政宗公、月山には義胤公在陣し給ふ。扨其内双方の衆を田村へ入立悪事もあれば、尓るべからず、たとへば御用ありといふとも、今より後ほ伊達衆も勿論、相馬衆をも入間敷と存ずるなり、但各は如何思はれける」\
 と評定しければ、梅雪・右衛門を始め、何れも頭立ける者ども尓るべしと同じける。是に付て月斎・刑部、景綱へ其旨申合せ、其よりは不通にて候事。
 
-←[会津働事](http://shigezane.info/majime/tyosaku/masamuneki/masamuneki4-6.html)へ戻る\
+←[会津働事](#/post/shigezane/masamuneki4-6)へ戻る\
 →義胤、田村取損給之事に進む
 
 ## 出典と変換について

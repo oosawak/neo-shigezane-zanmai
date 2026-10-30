@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一 天正14年、渋川に……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一天正14年、渋川に我ら居り候ところへ、元日に二本松より、昼時時分乗りかけ候ように働き候て、先へ馬上1騎歩兵10人ばかり参り候て、陣場の末・水汲み候ところへ乗りかけ…'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-17.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -16,7 +16,7 @@ license: 'CC BY-SA 2.1 JP'
 「佐藤右衛門こと、馬上達者にて、聞き及び候者に候」\
 と後に承り候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-16.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-18.html)
+[前](#/post/shigezane/shigezaneki-16)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-18)
 
 ## 出典と変換について
 

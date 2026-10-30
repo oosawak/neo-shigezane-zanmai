@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 略歴・年表
 cover: shigezane/ryakureki.webp
 cover_alt: 略歴・年表のイラスト
-summary: '元サイト「成実三昧」に掲載された「仙台志料による成実の伝記 伊達成実（巻之二）」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '※原文は漢文ですが、管理人が読み下し文にしています。※一部字が潰れて読めなかったところは■にしてます。解読できたら改めますのでご勘弁。'
 type: article
 source: 'http://shigezane.info/majime/ryakureki/sendaishiryou-4.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

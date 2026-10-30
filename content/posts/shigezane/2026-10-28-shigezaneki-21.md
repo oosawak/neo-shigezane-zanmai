@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一 塩松は、白石若狭拝領……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一塩松は、白石若狭拝領申し候。そのうち数多諸人へ御加増下され候。明所もござ候、二本松は我ら下され候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-21.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -12,7 +12,7 @@ license: 'CC BY-SA 2.1 JP'
 ---
 一 塩松は、白石若狭拝領申し候。そのうち数多諸人へ御加増下され候。明所もござ候、二本松は我ら下され候。我らの跡・大森は片倉小十郎に下され候て、8月始めに米沢にへ御馬を収められ、まず安積表御無事の分にて、往来に候者、送りをもってまかり通る体にて候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-20.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-22.html)
+[前](#/post/shigezane/shigezaneki-20)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-22)
 
 ## 出典と変換について
 

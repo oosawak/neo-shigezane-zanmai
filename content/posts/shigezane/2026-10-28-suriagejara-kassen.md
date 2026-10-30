@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 合戦記
 cover: shigezane/kassenn.webp
 cover_alt: 合戦記のイラスト
-summary: '元サイト「成実三昧」に掲載された「摺上原の合戦」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '天正17年6月1日、伊達成実が年初から内応交渉を再開していた猪苗代盛国が芦名と事切れに及んだ。これに応じて政宗は、新田義綱・原田宗時を檜原へ、伊達成実・片倉景綱を猪苗代へ派遣した。'
 type: article
 source: 'http://shigezane.info/majime/kassenn/suriagehara/suriagejara-kassen.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -27,11 +27,11 @@ license: 'CC BY-SA 2.1 JP'
 
 ## 参照
 
-- [「木村右衛門覚書」28](http://shigezane.info/majime/kassenn/suriagehara/oboegaki28.html)
+- [「木村右衛門覚書」28](#/post/shigezane/oboegaki28)
 
 ## この合戦を題材にした管理人の作品
 
-- [会津猪苗代合戦記――摺上原の戦](http://shigezane.info/nobel/suriagehara.html)
+- [会津猪苗代合戦記――摺上原の戦](#/post/shigezane/intro-novels)
 
 ## 出典と変換について
 

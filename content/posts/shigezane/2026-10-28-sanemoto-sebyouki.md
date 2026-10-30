@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 家族
 cover: shigezane/kazoku.webp
 cover_alt: 家族のイラスト
-summary: '元サイト「成実三昧」に掲載された「傑山君世廟記」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '仙台叢書所収の「仙台金石志」に掲載されている、実元のお墓の碑文です。'
 type: article
 source: 'http://shigezane.info/majime/kazoku/sanemoto-sebyouki.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

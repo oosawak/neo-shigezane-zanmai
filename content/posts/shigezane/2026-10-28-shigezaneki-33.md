@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一、百々の鈴木伊賀……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一、百々の鈴木伊賀・古川の北江左馬亮、中途へまかり出で、新沼へ使いを越し、大谷賀沢呼び出し、申し候は、「泉田安芸・深谷月鑑両人、質に相渡され候はば、諸軍勢は引き除けなるべし」よし、申し候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-33.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -22,7 +22,7 @@ license: 'CC BY-SA 2.1 JP'
 「源左衛門申す事無用に候。我等は人にも構い申さず、一人にても人質にあい渡るべき」\
 よし申され候。両人とも2月23日に新沼を出て、蟻ヶ袋と申すところ、へ参られ候間、諸勢松山へ引き除け候。浜田伊豆・小成田惣左衛門・山岸修理、米沢へ伺候いたし、大崎弓矢の様子を申し候いて、御意は、今度あまり深く働きつかまつり、越度を取りり候。重ねては氏家弾正に仰せ合わされ、桑折師山2ヶ所の城を取りなされ、弾正にこれを相加え候ようになさるべし、との御意候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-32.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-34.html)
+[前](#/post/shigezane/shigezaneki-32)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-34)
 
 ## 出典と変換について
 

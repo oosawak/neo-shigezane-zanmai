@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: Report
 cover: shigezane/report.webp
 cover_alt: Reportのイラスト
-summary: '元サイト「成実三昧」に掲載された「大森伊達家の成立と解体」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '「福島市史古代・中世通史編」で小林清次は「晴宗公采地下賜録」に、稙宗が隠居した丸森、実元が住した大森の記載がないことから、晴宗期においても稙宗・実元は独自の領主権を持ったとしるす。'
 type: article
 source: 'http://shigezane.info/majime/nazo/oomori-dateke.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

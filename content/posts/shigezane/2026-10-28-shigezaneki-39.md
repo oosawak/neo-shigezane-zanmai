@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一、天正15年、最上・大崎は御弓矢に候えども……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一、天正15年、最上・大崎は御弓矢に候えども、安積表はまず御無事の分にて、何事もこれなく候。苗代田・大田・荒井3ヶ所は、我ら知行候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-39.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -22,7 +22,7 @@ license: 'CC BY-SA 2.1 JP'
 「別して他言つかまつり申さず候。白石若狭ただいま小浜に居られ候。其の方ご奉公の品、かの方へ申さず旨は、取りなるもならず候間、若狭に物語申し候。若狭そこ元へも知らせ申し候か」\
 と存じ候よし申し越し候。その後若狭我らに申され候は、備前我らを頼みまかり出たきよし、若狭物語に候。一段しかるべく候。誰をもってもまかり出候えば、御為にしかるべくよし挨拶申し候。若狭分別には、備前は覚えの者に候。田村間近く候間、数年、佐竹・会津御加勢なく、自分に弓矢を取り候て、度々合戦にも勝ち候事、政宗公もご存じ候間、若狭塩松を返し下さる儀、計りがたく候間、若狭指南をもってご奉公を申し候か、さようにこれなく候はば、会津において切腹申さるようにと、存じ詰め申され候と見え候。それゆえ去年中は、大内まかり出候事あい止め候。その年の押し詰めに、備前気遣いつかまつり、会津をお暇、片平へまかりこされ候
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-38.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-40.html)
+[前](#/post/shigezane/shigezaneki-38)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-40)
 
 ## 出典と変換について
 

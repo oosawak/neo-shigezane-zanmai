@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一 翌27日昨日……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一翌27日。昨日「竹屋敷へ陣を移し、通路まで切り申すべく候」と申し上げ候ところに、半分は「しかるべし」よし申し候えども、落合い申さず候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-5.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -24,7 +24,7 @@ license: 'CC BY-SA 2.1 JP'
 「築館を引き除き候あいだ、早々追いかくべく」\
 申すについて、追いかけ候ところに、早々引き除きから城へ乗り入れ、そのよし申し上げ候は、築館へ御馬を帰され、22-３日御休息遊ばされ候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-4.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-6.html)
+[前](#/post/shigezane/shigezaneki-4)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-6)
 
 ## 出典と変換について
 

@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一、最上義顕公は……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一、最上義顕公は、政宗公の伯父にてござ候えども、輝宗公御代もたびたび御弓矢に候。しかれども近年は、別して御ねんごろに候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-35.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -18,7 +18,7 @@ license: 'CC BY-SA 2.1 JP'
 「御人数遣わさるるように」\
 と最上へ申され候えども、遣わされず候。その上政宗公米沢を御出のよし、藤太郎承られ、即ち最上へ引き除くゆえ、長井中子細なく候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-34.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-36.html)
+[前](#/post/shigezane/shigezaneki-34)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-36)
 
 ## 出典と変換について
 

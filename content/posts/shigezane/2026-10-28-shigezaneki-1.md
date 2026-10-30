@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一 輝宗公御代々……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一輝宗公御代々、佐竹・会津・岩城・石川、いずれも御よしみ半ばにて、ごじっこんなり。右、各、数年田村へ御弓矢なされ、清顕公御手づまりに候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-1.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -16,7 +16,7 @@ license: 'CC BY-SA 2.1 JP'
 「我ら親の代より、ご奉公つかまつり候えども、近年伊達御領御弓矢について、田村を頼み入り候ところに、少々の儀をもって御意にかかり、その後会津・佐竹を頼み入り、ご介抱をもって身上あい続き候故、唯今より米沢あい詰めご奉公つかまつるべく候間、屋敷を申し受け、妻子引越し申すべき」\
 よし申し上げ、その年は米沢にて越年つかまつり候。
 
-[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-2.html)
+[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-2)
 
 ## 出典と変換について
 

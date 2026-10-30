@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 慶長三陸地震
 cover: shigezane/jishin.webp
 cover_alt: 慶長三陸地震のイラスト
-summary: '元サイト「成実三昧」に掲載された「1611年 慶長三陸地震」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '2011年3月11日、東日本大震災。東北地方太平洋沿岸部では、おおよそ30-40年周期でＭ7クラスの大地震が起こることが知られていました。'
 type: article
 source: 'http://shigezane.info/majime/Earthquake/sanriku-jishin.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

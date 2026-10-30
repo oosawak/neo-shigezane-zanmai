@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: Report
 cover: shigezane/report.webp
 cover_alt: Reportのイラスト
-summary: '元サイト「成実三昧」に掲載された「輝宗の葬儀・埋葬・墓所に関するいろいろ」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '政宗は事変を受けて当日に高田に出陣し、二本松を攻める意思を見せたが、老臣の諫言により、9日未明に小浜に戻っている（貞山公治家記録）。'
 type: article
 source: 'http://shigezane.info/majime/nazo/awanosu/terumune-deth3.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

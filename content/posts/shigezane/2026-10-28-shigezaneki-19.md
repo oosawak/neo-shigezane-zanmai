@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一 政宗公、少々御気色無揃……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一政宗公、少々御気色無揃につき、二本松への御働きあい延べ、4月始めに御働きなされ候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-19.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -14,7 +14,7 @@ license: 'CC BY-SA 2.1 JP'
 「城受取申すべき」\
 よし仰せつけられ候間、その日まかり越し本丸に仮屋をつかまつり申し候。政宗公7月26日に、二本松へ御出で御覧なされ候て、その日帰りなされ候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-18.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-20.html)
+[前](#/post/shigezane/shigezaneki-18)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-20)
 
 ## 出典と変換について
 

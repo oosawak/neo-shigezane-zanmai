@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: Report
 cover: shigezane/report.webp
 cover_alt: Reportのイラスト
-summary: '元サイト「成実三昧」に掲載された「伊達成実と合戦」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '「成実人となり、英毅大略あり。一時勇武無双と称す」仙台伊達家に仕えていた作並清亮が著した史書『東藩史稿』に記された伊達成実の人となりである。'
 type: article
 source: 'http://shigezane.info/majime/nazo/shigezanetokassen.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

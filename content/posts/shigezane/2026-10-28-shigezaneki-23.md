@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一 天正14年、二本松・塩松家中御弓矢落居の上……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一天正14年、二本松・塩松家中御弓矢落居の上、8月米沢へ御納馬なされ候ところ、大崎義隆家中、二つに割れ候いて、政宗公へ申し寄せ候根本は、その頃義隆に奉公の小姓・新井田刑部と申す者、ことのほか出頭し候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-23.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -34,7 +34,7 @@ license: 'CC BY-SA 2.1 JP'
 「もっともに候」\
 よし仰せられ候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-22.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-24.html)
+[前](#/post/shigezane/shigezaneki-22)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-24)
 
 ## 出典と変換について
 

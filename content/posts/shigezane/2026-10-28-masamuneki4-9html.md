@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「大越退治訴訟之事」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '去程に。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/masamuneki/masamuneki4-9html.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

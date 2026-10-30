@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一、右の段は、石川弾正逆心の次第……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一、右の段は、石川弾正逆心の次第。田村御調いの様子書き記し候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-45.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -24,7 +24,7 @@ license: 'CC BY-SA 2.1 JP'
 「その儀は昨日相知り候ことに候間、いらぬことをいたし候」\
 よし申し候へども、返らぬことに候。会津衆は一働き候旨、片平助右衛門老母を質に取り、まかり帰り候よし、後に承り候。おおかたは人質取り申すべきためばかりに、会津よりまかり出で、左様には申されず働き候ことかと存じ候。負はとし候て、若松へ引き籠められ、小十郎は21日まで本宮に居られ候えども、会津衆引き籠め候よし、来たり候間、22日に米沢へまかり帰り候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-44.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-46.html)
+[前](#/post/shigezane/shigezaneki-44)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-46)
 
 ## 出典と変換について
 

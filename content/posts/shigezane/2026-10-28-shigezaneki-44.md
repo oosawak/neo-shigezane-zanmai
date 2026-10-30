@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一、天正14年霜月。清顕公御遠行以来」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一、天正14年霜月。清顕公御遠行以来、三春の本城には、御北様御座なされ、御女儀持ちに候。さりながら、万事差し引き田村月斎・田村梅雪・田村右衛門・橋本刑部、この4人に候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-44.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -46,7 +46,7 @@ license: 'CC BY-SA 2.1 JP'
 「御相談に及ばず候。清顕御存命のみぎり、御名代は政宗公渡され申し候間、御思案もこれなく候。さりながら、各御分別次第」\
 のよし、申し候條、誰も別に申し出ずべき様これなし。いずれも伊賀の申す通りもっとものよし落ち居り候。さりながら、上は伊達へ、内々は過半相馬へ相引き候。その子細は、田村に牢人衆の表立つ衆は、多分相馬衆に候。梅雪右衛門内々には、相馬へ申し合わされ候相馬牢人衆を、申し組まされ牢人傍輩のよし申し候て、いずかたにも懇切なる者に候間、仙道佐竹。会津の浪人も、いずれも梅雪右衛門へねんごろに候。その様子を石川弾正傍輩にて候間、存じ候。前に候條、当座清顕公御意をもって、政宗公へ御奉公つかまつり候ても、末々身上大事に存じ、その上、御北様相馬義胤の伯母にて、政宗公御夫婦間しかるなきゆえ、御恨みに思し召し候を、弾正存じ候て、相馬へ申しより、4月7日に事切れつかまつり候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-43.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-45.html)
+[前](#/post/shigezane/shigezaneki-43)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-45)
 
 ## 出典と変換について
 

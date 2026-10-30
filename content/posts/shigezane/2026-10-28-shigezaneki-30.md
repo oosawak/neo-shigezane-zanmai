@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一 小山田筑前討死の朝……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一小山田筑前討死の朝、不思議なる奇瑞候。宿より馬に乗り、10間ばかり出候ところ、乗りたる馬、「時の太鼓は、はや遅き遅き」と物を言いければ、筑前召し連れ候者を興を覚まし申し候。'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-30.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -18,7 +18,7 @@ license: 'CC BY-SA 2.1 JP'
 「この馬はひととせ、ご祈祷のため、義隆のの岳の観音へ神馬に引きなされ候馬」\
 のよし申し候。義隆聞こし召し、その馬を引き寄せご覧候えば、誠に神馬に引かれ候馬のよし、ご覧覚えられ候。いずかたを回り、筑前乗りてこの軍に討死つかまつり候こと、神力の威光あらたのよし申し候。かねて聞き及び候名誉の者の覚えのよし仰せられ、黒地に白馬櫛の差物を、出羽の羽黒山へ納められ、冥加のよし申すことに候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-29.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-31.html)
+[前](#/post/shigezane/shigezaneki-29)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-31)
 
 ## 出典と変換について
 

@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: Report
 cover: shigezane/report.webp
 cover_alt: Reportのイラスト
-summary: '元サイト「成実三昧」に掲載された「成実記の謎」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '「成実記」には大きく分けて「成実記」「伊達成実日記」「政宗記」の3種の異本がある。'
 type: article
 source: 'http://shigezane.info/majime/nazo/shigezanekinonazo.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

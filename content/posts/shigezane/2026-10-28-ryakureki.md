@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 略歴・年表
 cover: shigezane/ryakureki.webp
 cover_alt: 略歴・年表のイラスト
-summary: '元サイト「成実三昧」に掲載された「伊達成実 略歴」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '永禄11年（1568）、おそらく信夫郡大森城に誕生。政宗より一歳年少。幼名・時宗丸。通称は藤五郎、兵部、安房。'
 type: article
 source: 'http://shigezane.info/majime/ryakureki/ryakureki.htm'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -47,17 +47,17 @@ license: 'CC BY-SA 2.1 JP'
 
 ## もっと知りたい人のために
 
-- 伊達家世臣家譜による[成実の伝記](http://shigezane.info/majime/ryakureki/sesinkahu-narumi.html)
-- [とても細かい年表](http://shigezane.info/majime/ryakureki/nennpyou.html)（まだまだ未完成。少しづつ拡充予定）
-- [天和の訴願「亘理訴状」に記された成実の功績](http://shigezane.info/majime/ryakureki/watarisojyou-narumi.html)
-- [仙台志料](http://kindai.ndl.go.jp/cgi-bin/img/BIImgFrame.cgi?JP_NUM=40007315&VOL_NUM=00001&KOMA=1&ITYPE=0)による成実の伝記 [「伊達成実高野に遁る」](http://shigezane.info/majime/ryakureki/sendaishiryou-1.html) [「伊達成実恩を謝す」](http://shigezane.info/majime/ryakureki/sendaishiryou-2.html) [「伊達成実」](http://shigezane.info/majime/ryakureki/sendaishiryou-3.html) [「伊達成実」](http://shigezane.info/majime/ryakureki/sendaishiryou-4.html)[「伊達邦成古文書」](http://shigezane.info/majime/ryakureki/sendaishiryou-5.html)
-- [伊達家世臣伝記](http://kindai.ndl.go.jp/cgi-bin/img/BIImgFrame.cgi?JP_NUM=40016334&VOL_NUM=00000&KOMA=1&ITYPE=0)による[成実の伝記](http://shigezane.info/majime/ryakureki/sesindenki-narumi.html)
-- [「信達一統志」による成実の伝記](http://shigezane.info/majime/ryakureki/shintatuittousi.html)
-- [「東藩史稿」による成実の伝記](http://shigezane.info/majime/ryakureki/touhannsikou-narumi.html)
-- [「蟻坂文書」による成実の伝記](http://shigezane.info/majime/ryakureki/arisaka.html)
-- [仙台藩人物叢誌（1908年）による成実の伝記](http://shigezane.info/majime/ryakureki/jinbutusousi.html)
-- [「仙台市史」(昭和4年版) 人物伝による成実の伝記](http://shigezane.info/majime/ryakureki/s4-sendaisisi.html) (ご提供：野崎 準様)
-- [「東藩野乗」（仙台叢書八巻所収）による成実の伝記](http://shigezane.info/majime/ryakureki/touhanyajyou.html) (ご提供：野崎 準様)
+- 伊達家世臣家譜による[成実の伝記](#/post/shigezane/sesinkahu-narumi)
+- [とても細かい年表](#/post/shigezane/nenpyou)（まだまだ未完成。少しづつ拡充予定）
+- [天和の訴願「亘理訴状」に記された成実の功績](#/post/shigezane/watarisojyou-narumi)
+- [仙台志料](http://kindai.ndl.go.jp/cgi-bin/img/BIImgFrame.cgi?JP_NUM=40007315&VOL_NUM=00001&KOMA=1&ITYPE=0)による成実の伝記 [「伊達成実高野に遁る」](#/post/shigezane/sendaishiryou-1) [「伊達成実恩を謝す」](#/post/shigezane/sendaishiryou-2) [「伊達成実」](#/post/shigezane/sendaishiryou-3) [「伊達成実」](#/post/shigezane/sendaishiryou-4)[「伊達邦成古文書」](#/post/shigezane/sendaishiryou-5)
+- [伊達家世臣伝記](http://kindai.ndl.go.jp/cgi-bin/img/BIImgFrame.cgi?JP_NUM=40016334&VOL_NUM=00000&KOMA=1&ITYPE=0)による[成実の伝記](#/post/shigezane/sesindenki-narumi)
+- [「信達一統志」による成実の伝記](#/post/shigezane/shintatuittousi)
+- [「東藩史稿」による成実の伝記](#/post/shigezane/touhannsikou-narumi)
+- [「蟻坂文書」による成実の伝記](#/post/shigezane/arisaka)
+- [仙台藩人物叢誌（1908年）による成実の伝記](#/post/shigezane/jinbutusousi)
+- [「仙台市史」(昭和4年版) 人物伝による成実の伝記](#/post/shigezane/s4-sendaisisi) (ご提供：野崎 準様)
+- [「東藩野乗」（仙台叢書八巻所収）による成実の伝記](#/post/shigezane/touhanyajyou) (ご提供：野崎 準様)
 
 ## 出典と変換について
 

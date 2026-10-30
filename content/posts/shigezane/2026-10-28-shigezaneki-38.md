@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一、黒川月舟逆心……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一、黒川月舟逆心つかまつるゆえ、大崎の御弓矢思し召し候ところ、思し召すようにこれなきにつき、内々月舟退治なさるべきよし思し召し候えども、佐竹・会津・岩城・石川に打ち出で、本宮まで相働かれ候間…'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-38.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -16,7 +16,7 @@ license: 'CC BY-SA 2.1 JP'
 「大崎御弓矢の時分、月舟恩賞をもって、浜田伊豆・舘（田手）助三郎・宮内因幡・我ら身命つつがなくあい除け候。それはただいま申し立てるところにもこれなく候。月舟ことはご存じのごとく、私親分に候間、我ら知行一宇差し上げ申すべく候。月舟身命の儀、相助けられ下さる候ように」\
 としきりに御訴訟申され候につき、御意には、月舟ことはひとえに口惜しく思し召し候えども、上野に身命相助けられ下さる候よし、仰せ出され候。上野、玄蕃手前より月舟を受け取り、利府へまかり帰られ、満足尋常ならず候。その後月舟は御訴訟申し少し堪忍分下され、仙台に屋敷拝領いたし、御前へも折々まかり出で候。八森相模、桑折にて月舟へ強く異見申すこと御耳に立ち、その上政宗公の御差小旗の御紋を、その身の小旗に紋につかまつり候こと、なにかく口惜しく思し召され、妻子ともに小国へ差し越され、上郡山民部に相預けられ、相模を始めとし妻子まで死罪に行かれ候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-37.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-39.html)
+[前](#/post/shigezane/shigezaneki-37)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-39)
 
 ## 出典と変換について
 

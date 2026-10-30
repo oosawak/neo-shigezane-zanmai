@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: リファレンス・書庫
 cover: shigezane/reference.webp
 cover_alt: リファレンス・書庫のイラスト
-summary: '元サイト「成実三昧」に掲載された「郷土わたり 成実関係記事一覧」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '31号伊達騒動と志賀文書小林清治38号家法「塵芥集」について寺島正38号大森城址と三忠碑丹野修二42号亘理郡臥牛舘之図――伊達市菅原清三氏の模写について――丹野修二44号政宗公書状より伊達安房守亘理へ…'
 type: article
 source: 'http://shigezane.info/majime/siryou/bunken/kyoudo-watari.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'

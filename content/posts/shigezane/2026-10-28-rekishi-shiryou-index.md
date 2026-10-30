@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: リファレンス・書庫
 cover: shigezane/reference.webp
 cover_alt: リファレンス・書庫のイラスト
-summary: '元サイト「成実三昧」に掲載された「伊達関係史料 史料名索引」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: 'このコーナーは「春巻」さま、「奥会津戦国風土記」さまのリストを大変参考にさせていただいております。この場を借りてお礼申し上げます。'
 type: article
 source: 'http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -20,7 +20,7 @@ license: 'CC BY-SA 2.1 JP'
 
 **会津芦名記**
 
-芦名氏の起こりから滅亡に至るまで。[仙台叢書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#仙台叢書)第5巻収載
+芦名氏の起こりから滅亡に至るまで。[仙台叢書](#/post/shigezane/rekishi-shiryou-index)第5巻収載
 
 **会津四家合考**
 
@@ -77,7 +77,7 @@ license: 'CC BY-SA 2.1 JP'
 
 **葛西大崎盛衰記**
 
-葛西氏・大崎氏の興亡。[仙台叢書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#仙台叢書)第7巻収載
+葛西氏・大崎氏の興亡。[仙台叢書](#/post/shigezane/rekishi-shiryou-index)第7巻収載
 
 **片倉代々記**
 
@@ -93,7 +93,7 @@ license: 'CC BY-SA 2.1 JP'
 
 **御名語集**
 
-政宗の言行録。[仙台叢書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#仙台叢書)第1巻収載\
+政宗の言行録。[仙台叢書](#/post/shigezane/rekishi-shiryou-index)第1巻収載\
 宝文堂から髙橋富雄が編纂しなおした廉価版[「伊達政宗言行録―政宗公名語集](http://www.amazon.co.jp/exec/obidos/ASIN/4832301950/oysannohitori-22)」が出ている。
 
 **茶話記異説改選集**
@@ -102,7 +102,7 @@ license: 'CC BY-SA 2.1 JP'
 
 **成実記**
 
-伊達成実著。天正12年から慶長5年までの戦記。[仙台叢書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#仙台叢書)第3巻収載
+伊達成実著。天正12年から慶長5年までの戦記。[仙台叢書](#/post/shigezane/rekishi-shiryou-index)第3巻収載
 
 **[常山紀談](http://kindai.ndl.go.jp/scrpt/jgmWeb.dll?DispUrl?si=0&jp=40016167&vol=00000&koma=1&tp=0)**
 
@@ -110,7 +110,7 @@ license: 'CC BY-SA 2.1 JP'
 
 **[塵芥集](http://kindai.ndl.go.jp/scrpt/jgmWeb.dll?DispUrl?si=0&jp=40022584&vol=00000&koma=1&tp=0)**
 
-[「伊達家塵芥集の研究」](http://shigezane.info/majime/siryou/bunken/ronbun.html#塵芥集の研究)に収載。伊達家の法律。
+[「伊達家塵芥集の研究」](#/post/shigezane/ronbun)に収載。伊達家の法律。
 
 **新編東国記**
 
@@ -130,7 +130,7 @@ license: 'CC BY-SA 2.1 JP'
 
 **仙台古城記**
 
-仙台領の古城紹介。[仙台叢書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#仙台叢書)第4巻収載
+仙台領の古城紹介。[仙台叢書](#/post/shigezane/rekishi-shiryou-index)第4巻収載
 
 **[仙台士鑑](http://kindai.ndl.go.jp/info:ndljp/pid/757632/1)**
 
@@ -168,11 +168,11 @@ license: 'CC BY-SA 2.1 JP'
 
 **仙台武鑑**
 
-佐藤信要著。政宗の一代記。[仙台叢書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#仙台叢書)別巻3巻収載
+佐藤信要著。政宗の一代記。[仙台叢書](#/post/shigezane/rekishi-shiryou-index)別巻3巻収載
 
 **仙台府諸士版籍**
 
-仙台藩士の禄高をいろは順に記す。[仙台叢書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#仙台叢書)第6巻収載。
+仙台藩士の禄高をいろは順に記す。[仙台叢書](#/post/shigezane/rekishi-shiryou-index)第6巻収載。
 
 **仙道記**
 
@@ -185,18 +185,18 @@ license: 'CC BY-SA 2.1 JP'
 **伊達家治家記録**
 
 伊達家の正史。\
-性山（輝宗）は人物往来社戦国史料叢書[「伊達史料集](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#伊達史料集)」に収める。\
+性山（輝宗）は人物往来社戦国史料叢書[「伊達史料集](#/post/shigezane/rekishi-shiryou-index)」に収める。\
 性山（輝宗）・貞山（政宗)2代を収めた本もある。\
 全部そろってるのは宝文堂から出版されている。\
 関西在住の管理人はこれがあり、かつ貸し出ししてくれる図書館を探し求めて右往左往した。
 
 **伊達家世臣家譜**
 
-[仙台叢書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#仙台叢書)続刊に収載伊達家中の由緒書兼家中リスト
+[仙台叢書](#/post/shigezane/rekishi-shiryou-index)続刊に収載伊達家中の由緒書兼家中リスト
 
 **伊達家世臣家譜続編**
 
-[仙台叢書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#仙台叢書)続刊に収載
+[仙台叢書](#/post/shigezane/rekishi-shiryou-index)続刊に収載
 
 **[伊達世臣家譜略記](http://kindai.ndl.go.jp/cgi-bin/img/BIImgFrame.cgi?JP_NUM=40017556&VOL_NUM=00000&KOMA=1&ITYPE=0)**
 
@@ -222,7 +222,7 @@ license: 'CC BY-SA 2.1 JP'
 
 **[伊達正統世次考](http://kindai.ndl.go.jp/scrpt/jgmWeb.dll?DispUrl?si=0&jp=40017558&vol=00001&koma=1&tp=0)**
 
-伊達綱村編，蘆立文助，作並清亮校 仙台文庫叢書第１０集 人物往来社戦国史料叢書[「伊達史料集](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#伊達史料集)」に収める。晴宗以前の伊達家の正史。
+伊達綱村編，蘆立文助，作並清亮校 仙台文庫叢書第１０集 人物往来社戦国史料叢書[「伊達史料集](#/post/shigezane/rekishi-shiryou-index)」に収める。晴宗以前の伊達家の正史。
 
 **[伊達世臣家譜略記](http://kindai.ndl.go.jp/scrpt/jgmWeb.dll?DispUrl?si=0&jp=40017556&vol=00000&koma=1&tp=0)**
 
@@ -230,24 +230,24 @@ license: 'CC BY-SA 2.1 JP'
 
 **伊達輝宗日記**
 
-天正2年の輝宗周辺の日記。「[伊達家文書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#伊達家文書)」「福島県史7」に収載
+天正2年の輝宗周辺の日記。「[伊達家文書](#/post/shigezane/rekishi-shiryou-index)」「福島県史7」に収載
 
 **伊達天正日記**
 
-人物往来社戦国史料叢書[「伊達史料集」](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#伊達史料集)に収載。天気が書いてあるのが面白い。
+人物往来社戦国史料叢書[「伊達史料集」](#/post/shigezane/rekishi-shiryou-index)に収載。天気が書いてあるのが面白い。
 
 **伊達秘鑑**
 
-伊達氏を中心とした奥羽の軍記。[仙台叢書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#仙台叢書)第17・18巻収載\
+伊達氏を中心とした奥羽の軍記。[仙台叢書](#/post/shigezane/rekishi-shiryou-index)第17・18巻収載\
 どこまで信じていいんだろう。
 
 **伊達便覧志**
 
-佐久間洞巌著。朝宗から綱村に至るまでの記事。[仙台叢書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#仙台叢書)第3巻収載
+佐久間洞巌著。朝宗から綱村に至るまでの記事。[仙台叢書](#/post/shigezane/rekishi-shiryou-index)第3巻収載
 
 **伊達武徳遺聞録**
 
-堀友直著。政宗についての記事。[仙台叢書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#仙台叢書)第10巻収載
+堀友直著。政宗についての記事。[仙台叢書](#/post/shigezane/rekishi-shiryou-index)第10巻収載
 
 **伊達政宗卿詩歌集**
 
@@ -260,11 +260,11 @@ license: 'CC BY-SA 2.1 JP'
 
 **伊達政宗卿年譜**
 
-佐久間洞巌著。政宗の年譜。[仙台叢書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#仙台叢書)第1巻収載
+佐久間洞巌著。政宗の年譜。[仙台叢書](#/post/shigezane/rekishi-shiryou-index)第1巻収載
 
 **[伊達略系](http://kindai.ndl.go.jp/scrpt/jgmWeb.dll?DispUrl?si=0&jp=40017560&vol=00000&koma=1&tp=0)**
 
-作並清亮著。[仙台叢書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#仙台叢書)第1巻収載 仙台文庫叢書第１集
+作並清亮著。[仙台叢書](#/post/shigezane/rekishi-shiryou-index)第1巻収載 仙台文庫叢書第１集
 
 **田村兵戦記**
 
@@ -276,7 +276,7 @@ license: 'CC BY-SA 2.1 JP'
 
 **東奥老子物語**
 
-仙台城のことや軍談。[仙台叢書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#仙台叢書)第8巻収載
+仙台城のことや軍談。[仙台叢書](#/post/shigezane/rekishi-shiryou-index)第8巻収載
 
 **東国太平記**
 
@@ -290,7 +290,7 @@ license: 'CC BY-SA 2.1 JP'
 
 **晴宗公采地下賜録**
 
-[「伊達家塵芥集の研究」](http://shigezane.info/majime/siryou/bunken/ronbun.html#塵芥集の研究)に収載。けっこう眺めてるとオモシロイ史料である。
+[「伊達家塵芥集の研究」](#/post/shigezane/ronbun)に収載。けっこう眺めてるとオモシロイ史料である。
 
 **藤葉盛衰記**
 
@@ -306,8 +306,8 @@ license: 'CC BY-SA 2.1 JP'
 
 **政宗記**
 
-伊達成実著。天正12年から慶長5年までの戦記。[仙台叢書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#仙台叢書)第11巻収載\
-人物往来社戦国史料叢書[「伊達史料集」](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#伊達史料集)にも収載
+伊達成実著。天正12年から慶長5年までの戦記。[仙台叢書](#/post/shigezane/rekishi-shiryou-index)第11巻収載\
+人物往来社戦国史料叢書[「伊達史料集」](#/post/shigezane/rekishi-shiryou-index)にも収載
 
 **最上義光物語**
 
@@ -315,7 +315,7 @@ license: 'CC BY-SA 2.1 JP'
 
 **山口道斎物語**
 
-二本松畠山氏の臣・山口道斎の軍記。[仙台叢書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#仙台叢書)第3巻収載
+二本松畠山氏の臣・山口道斎の軍記。[仙台叢書](#/post/shigezane/rekishi-shiryou-index)第3巻収載
 
 **山ノ内天正記**
 
@@ -327,7 +327,7 @@ license: 'CC BY-SA 2.1 JP'
 
 **老人伝聞記**
 
-政宗を中心とした軍談。[仙台叢書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#仙台叢書)第6巻収載
+政宗を中心とした軍談。[仙台叢書](#/post/shigezane/rekishi-shiryou-index)第6巻収載
 
 **和賀一揆次第**
 
@@ -335,7 +335,7 @@ license: 'CC BY-SA 2.1 JP'
 
 **亘理家記**
 
-涌谷伊達（亘理）氏の年代記。[仙台叢書](http://shigezane.info/majime/siryou/bunken/rekishi-shiryou-index.html#仙台叢書)第9巻収載
+涌谷伊達（亘理）氏の年代記。[仙台叢書](#/post/shigezane/rekishi-shiryou-index)第9巻収載
 
 **亘理世臣家譜略記**
 

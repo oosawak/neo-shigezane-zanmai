@@ -4,7 +4,7 @@ date: '2026-10-28'
 category: 著作
 cover: shigezane/tyosaku.webp
 cover_alt: 著作のイラスト
-summary: '元サイト「成実三昧」に掲載された「一、田村の衆、相馬へ申し合わせの衆も……」をMarkdown化した資料です。出典表記とリンクは元のまま残しています。'
+summary: '一、田村の衆、相馬へ申し合わせの衆も、もっとも伊達御奉公の衆も、石川弾正逆心つかまつり候間、政宗公御出馬なさるべしと存じられ候とも、一切お沙汰これなきについて、田村月斎・橋本刑部、白石若狭を頼み…'
 type: article
 source: 'http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-46.html'
 source_site: '伊達成実専門サイト 成実三昧（TAKEMI Shigino）'
@@ -26,7 +26,7 @@ license: 'CC BY-SA 2.1 JP'
 「これにても問答、入らぬ事に候。御耳に相立て、御意次第に申されしかるべく候」\
 よし申し候て、まかり出で、披露いたし候ところに、御意には、もっとも両人申し候ところ、よんどころなく思し召され候や、このたびは天気ゆえ御手ぎわなく候て、大森へ御引き込みなされ候、もっとも当地に御在馬なされ、いずかたへも御早打ちなさるべく間、月斎・刑部心安く存ぜらるるべきよし、御意を受け、まかり帰り、白石若狭をもって申すところ、月斎・刑部満足申され候。
 
-[前](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-45.html)←[「成実記 目次」](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-mokuji.html)→[次](http://shigezane.info/majime/tyosaku/shigezaneki/shigezaneki-47.html)
+[前](#/post/shigezane/shigezaneki-45)←[「成実記 目次」](#/post/shigezane/shigezaneki-mokuji)→[次](#/post/shigezane/shigezaneki-47)
 
 ## 出典と変換について
 
