@@ -1,0 +1,89 @@
+{
+  "site": "shigezane",
+  "category_map": {
+    "書簡": "Letters",
+    "著作": "Writings",
+    "Report": "Report",
+    "リファレンス・書庫": "Reference & Library",
+    "略歴・年表": "Biography & Chronology",
+    "合戦記": "Battle Records",
+    "案内": "Guide",
+    "家族": "Family",
+    "住まいと城下": "Residences & Castle Towns",
+    "慶長三陸地震": "1611 Sanriku Earthquake",
+    "逸話": "Anecdotes",
+    "家臣団": "Retainers",
+    "謡曲「摺上」": "Noh \"Surigami\""
+  },
+  "note": "PLaMo 3 Translate 用の用語集。terms は全段落共通でモデルへ渡す。",
+  "terms": [
+    {
+      "source": "伊達重長",
+      "target": "Shigezane Date"
+    },
+    {
+      "source": "伊達成実",
+      "target": "Shigezane Date"
+    },
+    {
+      "source": "重長",
+      "target": "Shigezane"
+    },
+    {
+      "source": "成実",
+      "target": "Shigezane"
+    },
+    {
+      "source": "伊達政宗",
+      "target": "Masamune Date"
+    },
+    {
+      "source": "政宗",
+      "target": "Masamune"
+    },
+    {
+      "source": "伊達輝宗",
+      "target": "Terumune Date"
+    },
+    {
+      "source": "片倉景綱",
+      "target": "Kagetsuna Katakura"
+    },
+    {
+      "source": "片倉小十郎",
+      "target": "Kojuro Katakura"
+    },
+    {
+      "source": "留守政景",
+      "target": "Masakage Rusu"
+    },
+    {
+      "source": "白石宗実",
+      "target": "Munemi Shiroishi"
+    },
+    {
+      "source": "仙台",
+      "target": "Sendai"
+    },
+    {
+      "source": "米沢",
+      "target": "Yonezawa"
+    },
+    {
+      "source": "白石",
+      "target": "Shiroishi"
+    },
+    {
+      "source": "岩出山",
+      "target": "Iwadeyama"
+    },
+    {
+      "source": "亘理",
+      "target": "Watari"
+    },
+    {
+      "source": "摺上",
+      "target": "Surigami"
+    }
+  ]
+}
