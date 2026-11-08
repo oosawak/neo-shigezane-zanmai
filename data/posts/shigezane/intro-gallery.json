@@ -18,7 +18,15 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "Gallery Overview",
+      "subtitle": "To the image gallery on the original site",
+      "category": "Guide",
+      "summary": "This is the introduction page for the image gallery on the original site \"Shigezane Zanmai.\"",
+      "cover_alt": "Illustration introducing the Gallery",
+      "html": "<p>This is the gallery section of the original site &quot;Shigezane Zanmai.&quot; It features photographs and other items associated with Munemi.</p>\n<p>Images will not be embedded; instead, this page will link to the original site.</p>\n<h2>Link to original site</h2>\n<ul>\n<li><a href=\"http://shigezane.info/asobi/gallary/gallery.html\">Gallery</a></li>\n<li><a href=\"http://shigezane.info/asobi/gallary/komorisanemoto.html\">Gift from Higurashi-sama</a></li>\n</ul>\n<h2>About this page</h2>\n<p>This page introduces sections of the original site &quot;Shigezane Zanmai&quot; and provides links to the respective pages. The works and images themselves have not been embedded. Copyright belongs to the administrator, TAKEMI Shigino, and the authors of each work.</p>\n",
+      "markdown": "This is the gallery section of the original site \"Shigezane Zanmai.\" It features photographs and other items associated with Munemi.\n\nImages will not be embedded; instead, this page will link to the original site.\n\n## Link to original site\n\n- [Gallery](http://shigezane.info/asobi/gallary/gallery.html)\n- [Gift from Higurashi-sama](http://shigezane.info/asobi/gallary/komorisanemoto.html)\n\n## About this page\n\nThis page introduces sections of the original site \"Shigezane Zanmai\" and provides links to the respective pages. The works and images themselves have not been embedded. Copyright belongs to the administrator, TAKEMI Shigino, and the authors of each work.\n"
+    }
   },
   "markdown": "元サイト「成実三昧」のギャラリーのコーナーです。成実ゆかりの品々の写真などが収められています。\n\n画像は取り込まず、このページから元サイトへリンクします。\n\n## 元サイトへのリンク\n\n- [ギャラリー](http://shigezane.info/asobi/gallary/gallery.html)\n- [日暮さまより拝領品](http://shigezane.info/asobi/gallary/komorisanemoto.html)\n\n## このページについて\n\nこのページは、元サイト「成実三昧」のコーナーを紹介し、各ページへリンクするものです。作品や画像そのものは取り込んでいません。著作権は、管理人TAKEMI Shigino様ならびに各作品の作者様に帰属します。\n",
   "html": "<p>元サイト「成実三昧」のギャラリーのコーナーです。成実ゆかりの品々の写真などが収められています。</p>\n<p>画像は取り込まず、このページから元サイトへリンクします。</p>\n<h2>元サイトへのリンク</h2>\n<ul>\n<li><a href=\"http://shigezane.info/asobi/gallary/gallery.html\">ギャラリー</a></li>\n<li><a href=\"http://shigezane.info/asobi/gallary/komorisanemoto.html\">日暮さまより拝領品</a></li>\n</ul>\n<h2>このページについて</h2>\n<p>このページは、元サイト「成実三昧」のコーナーを紹介し、各ページへリンクするものです。作品や画像そのものは取り込んでいません。著作権は、管理人TAKEMI Shigino様ならびに各作品の作者様に帰属します。</p>\n"

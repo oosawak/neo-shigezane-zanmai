@@ -18,7 +18,15 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "Introduction to the Historical Fiction Links Collection",
+      "subtitle": "To the link collection on the original site",
+      "category": "Guide",
+      "summary": "This is the introduction page for the \"Historical Fiction Link Collection,\" a collection of links from the original site \"Shigezane Zanmai.\"",
+      "cover_alt": "Illustration introducing a collection of historical fiction links",
+      "html": "<p>The original site, &quot;Shigezane Zanmai,&quot; features a link collection of historical fiction sites. It serves as a gateway to sites run by creators focusing on Munemi and the Sengoku period.</p>\n<p>Please visit the original site to view the contents of the link collection.</p>\n<h2>Link to the original site</h2>\n<ul>\n<li><a href=\"http://shigezane.info/asobi/a-link/a-link.html\">Historical Fiction Links</a></li>\n</ul>\n<h2>About this page</h2>\n<p>This page introduces the sections of the original site &quot;Shigezane Zanmai&quot; and provides links to each page. The works and images themselves have not been incorporated. Copyright belongs to the administrator, TAKEMI Shigino, and the respective authors of the works.</p>\n",
+      "markdown": "The original site, \"Shigezane Zanmai,\" features a link collection of historical fiction sites. It serves as a gateway to sites run by creators focusing on Munemi and the Sengoku period.\n\nPlease visit the original site to view the contents of the link collection.\n\n## Link to the original site\n\n- [Historical Fiction Links](http://shigezane.info/asobi/a-link/a-link.html)\n\n## About this page\n\nThis page introduces the sections of the original site \"Shigezane Zanmai\" and provides links to each page. The works and images themselves have not been incorporated. Copyright belongs to the administrator, TAKEMI Shigino, and the respective authors of the works.\n"
+    }
   },
   "markdown": "元サイト「成実三昧」には、歴史創作のサイトを集めたリンク集があります。成実や戦国時代を題材に創作している方々のサイトへの入口です。\n\nリンク集の内容は元サイトでご覧ください。\n\n## 元サイトへのリンク\n\n- [歴史創作リンク集](http://shigezane.info/asobi/a-link/a-link.html)\n\n## このページについて\n\nこのページは、元サイト「成実三昧」のコーナーを紹介し、各ページへリンクするものです。作品や画像そのものは取り込んでいません。著作権は、管理人TAKEMI Shigino様ならびに各作品の作者様に帰属します。\n",
   "html": "<p>元サイト「成実三昧」には、歴史創作のサイトを集めたリンク集があります。成実や戦国時代を題材に創作している方々のサイトへの入口です。</p>\n<p>リンク集の内容は元サイトでご覧ください。</p>\n<h2>元サイトへのリンク</h2>\n<ul>\n<li><a href=\"http://shigezane.info/asobi/a-link/a-link.html\">歴史創作リンク集</a></li>\n</ul>\n<h2>このページについて</h2>\n<p>このページは、元サイト「成実三昧」のコーナーを紹介し、各ページへリンクするものです。作品や画像そのものは取り込んでいません。著作権は、管理人TAKEMI Shigino様ならびに各作品の作者様に帰属します。</p>\n"

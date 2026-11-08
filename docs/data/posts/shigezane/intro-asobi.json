@@ -18,7 +18,15 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "Introduction to Leisure and Travelogues",
+      "subtitle": "To the entrance of the \"Fun\" section of the original site",
+      "category": "Guide",
+      "summary": "This is the introduction page for \"Play and Travelogues\" on the original site \"Shigezane Zanmai.\" It serves as the gateway to the entire section featured on this page.",
+      "cover_alt": "Illustrations introducing leisure and travelogues",
+      "html": "<p>&quot;Play and Travelogues&quot; on the original site &quot;Shigezane Zanmai&quot; serves as the gateway (table of contents) to the entire creative and recreational section, featuring illustrations, novel projects, 20 Questions, and doujin translation projects. Many of the sections introduced on this page are grouped under this table of contents.</p>\n<p>While Neo Shigezane Zanmai has split each section into its own individual introduction page, if you'd prefer to browse them in their original order, please click here.</p>\n<h2>Link to the original site</h2>\n<ul>\n<li><a href=\"http://shigezane.info/asobi/asobi.html\">Leisure and Travel</a></li>\n</ul>\n<h2>About this page</h2>\n<p>This page introduces the sections of the original site &quot;Shigezane Zanmai&quot; and provides links to each page. The works and images themselves have not been incorporated. Copyright belongs to the administrator, TAKEMI Shigino, and the respective authors of the works.</p>\n",
+      "markdown": "\"Play and Travelogues\" on the original site \"Shigezane Zanmai\" serves as the gateway (table of contents) to the entire creative and recreational section, featuring illustrations, novel projects, 20 Questions, and doujin translation projects. Many of the sections introduced on this page are grouped under this table of contents.\n\nWhile Neo Shigezane Zanmai has split each section into its own individual introduction page, if you'd prefer to browse them in their original order, please click here.\n\n## Link to the original site\n\n- [Leisure and Travel](http://shigezane.info/asobi/asobi.html)\n\n## About this page\n\nThis page introduces the sections of the original site \"Shigezane Zanmai\" and provides links to each page. The works and images themselves have not been incorporated. Copyright belongs to the administrator, TAKEMI Shigino, and the respective authors of the works.\n"
+    }
   },
   "markdown": "元サイト「成実三昧」の「遊びと紀行」は、イラスト、小説の企画、20の質問、同人訳企画など、創作と遊びのコーナー全体の入口（目次）です。このページで紹介しているコーナーの多くは、この目次の下に集まっています。\n\nネオ成実三昧では各コーナーを個別の紹介ページに分けましたが、元の並びで眺めたい方は、こちらからどうぞ。\n\n## 元サイトへのリンク\n\n- [遊びと紀行](http://shigezane.info/asobi/asobi.html)\n\n## このページについて\n\nこのページは、元サイト「成実三昧」のコーナーを紹介し、各ページへリンクするものです。作品や画像そのものは取り込んでいません。著作権は、管理人TAKEMI Shigino様ならびに各作品の作者様に帰属します。\n",
   "html": "<p>元サイト「成実三昧」の「遊びと紀行」は、イラスト、小説の企画、20の質問、同人訳企画など、創作と遊びのコーナー全体の入口（目次）です。このページで紹介しているコーナーの多くは、この目次の下に集まっています。</p>\n<p>ネオ成実三昧では各コーナーを個別の紹介ページに分けましたが、元の並びで眺めたい方は、こちらからどうぞ。</p>\n<h2>元サイトへのリンク</h2>\n<ul>\n<li><a href=\"http://shigezane.info/asobi/asobi.html\">遊びと紀行</a></li>\n</ul>\n<h2>このページについて</h2>\n<p>このページは、元サイト「成実三昧」のコーナーを紹介し、各ページへリンクするものです。作品や画像そのものは取り込んでいません。著作権は、管理人TAKEMI Shigino様ならびに各作品の作者様に帰属します。</p>\n"

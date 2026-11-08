@@ -58,7 +58,13 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Introduction to the Take-suzume Crest Gallery",
+          "subtitle": "To the page featuring designs with the bamboo-and-sparrow crest",
+          "category": "Guide",
+          "summary": "This is the introduction page for the \"Bamboo and Sparrow Crest Gallery\" on the original site. It provides links to bamboo and sparrow crest designs found in various regions, along with their explanations.",
+          "cover_alt": "Illustration introducing the Take-suzume Crest Gallery"
+        }
       }
     },
     {
@@ -81,7 +87,13 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Introduction to Materials",
+          "subtitle": "To the free material page on the original site",
+          "category": "Guide",
+          "summary": "This is an introduction to the materials page distributed on the original site \"Shigezane Zanmai.\"",
+          "cover_alt": "Illustration introducing the materials"
+        }
       }
     },
     {
@@ -104,7 +116,13 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Introduction to \"20 Questions for Shigezane\"",
+          "subtitle": "To the project page on the original site",
+          "category": "Guide",
+          "summary": "This is the introductory page for the original site's feature, \"20 Questions for Shigezane Fans.\" It links to the response pages for Shigezane fans.",
+          "cover_alt": "Illustration introducing \"20 Questions for Shigezane\""
+        }
       }
     },
     {
@@ -127,7 +145,13 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Introduction to Novels",
+          "subtitle": "To the historical fiction section of the original site",
+          "category": "Guide",
+          "summary": "This is the introduction page for the \"Novels\" section of the original site, \"Shigezane Zanmai.\" It provides links to 47 historical novels about Shigezane and Masamune written by the site administrator.",
+          "cover_alt": "Illustration introducing novels"
+        }
       }
     },
     {
@@ -150,7 +174,13 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Introduction to the Historical Fiction Links Collection",
+          "subtitle": "To the link collection on the original site",
+          "category": "Guide",
+          "summary": "This is the introduction page for the \"Historical Fiction Link Collection,\" a collection of links from the original site \"Shigezane Zanmai.\"",
+          "cover_alt": "Illustration introducing a collection of historical fiction links"
+        }
       }
     },
     {
@@ -173,7 +203,13 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Introduction to Shigezane's Hundred Faces",
+          "subtitle": "To the illustration gallery on the original site",
+          "category": "Guide",
+          "summary": "This is the introduction page for the \"Shigezane's Hundred Faces\" illustration section on the original site. It compiles images of Shigezane from various regions, along with links to submitted illustrations.",
+          "cover_alt": "Illustration introducing Shigezane's Hundred Faces"
+        }
       }
     },
     {
@@ -196,7 +232,13 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Gallery Overview",
+          "subtitle": "To the image gallery on the original site",
+          "category": "Guide",
+          "summary": "This is the introduction page for the image gallery on the original site \"Shigezane Zanmai.\"",
+          "cover_alt": "Illustration introducing the Gallery"
+        }
       }
     },
     {
@@ -219,7 +261,13 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Introduction to the Translation Project by the Same Author",
+          "subtitle": "To the modern Japanese translation of the historical materials on \"The Love of Masamune Date\"",
+          "category": "Guide",
+          "summary": "This is the introduction page for the fan translation project on the original site. It links to the modern Japanese translations (by character) of the historical source \"The Love of Masamune Date.\"",
+          "cover_alt": "Illustration introducing the self-translated project"
+        }
       }
     },
     {
@@ -242,7 +290,13 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Introduction to Leisure and Travelogues",
+          "subtitle": "To the entrance of the \"Fun\" section of the original site",
+          "category": "Guide",
+          "summary": "This is the introduction page for \"Play and Travelogues\" on the original site \"Shigezane Zanmai.\" It serves as the gateway to the entire section featured on this page.",
+          "cover_alt": "Illustrations introducing leisure and travelogues"
+        }
       }
     },
     {
@@ -265,7 +319,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Illustrated catalogs, lecture records, etc",
+          "category": "Reference & Library",
+          "summary": "Listed chronologically. I'll be adding more gradually. Items with unknown publication years are grouped together at the end.",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -288,7 +347,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Burn on the right hand",
+          "category": "Report",
+          "summary": "I hadn't seen any books mentioning this—even though it's written so clearly in the \"Masamune-ki.\" Or so I thought, until I found it in the \"Shin-Ou Eikei Gunki: Aizu Volume.\"",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -311,7 +375,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Shigezane's Achievements as Documented in the Watari Petition",
+          "category": "Biography & Chronology",
+          "summary": "In Tenwa 2 (1682), the head of the Watari Date clan died suddenly at a young age. The domain appointed a late-adopted heir and adopted a policy of halving his landholdings. The clan members resisted this, demanding a different adoptee and insisting that all their lands be fully confirmed.",
+          "cover_alt": "Illustrations for Biography and Timeline"
+        }
       }
     },
     {
@@ -334,7 +403,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Achievements of Shigezane Date as Documented in the Watari Petition",
+          "category": "Family",
+          "summary": "In Tenwa 2 (1682), the head of the Watari Date clan died suddenly at a young age. The domain appointed a late-adopted heir and adopted a policy of halving his landholdings. The clan members resisted this, demanding a different adoptee and insisting that all their lands be fully confirmed.",
+          "cover_alt": "Family illustration"
+        }
       }
     },
     {
@@ -357,7 +431,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Period as Lord of Watari Castle",
+          "category": "Residences & Castle Towns",
+          "summary": "Ariza Kyukan, Watari-machi, Watari-gun, Miyagi Prefecture. Also known as Gogyu Castle. Built in the early 14th century by the Takeishi clan, a branch of the Chiba clan (Kotsutsumi Castle). During the Tensho era, Watari Motomune relocated it eastward.",
+          "cover_alt": "Illustrations of the residence and castle town"
+        }
       }
     },
     {
@@ -380,7 +459,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Shigezane Date, April 5, date unknown",
+          "category": "Letters",
+          "summary": "Letter from Shigezane Date, April 5, date unknown. The opening reads: \"Indeed, as stated. The above account is also for Genbei.\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -403,7 +487,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Shigezane Date, March 18, date unknown",
+          "category": "Letters",
+          "summary": "Letter from Shigezane Date, March 18, date unknown. The opening reads: \"Regarding the matter of the investigation into the construction of the original weir, it is appropriate; as for the various general affairs, shall they be settled? If so, I shall return; should there be any issues, albeit a grave matter, I shall remain for two or three days...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -426,7 +515,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Shigezane Date, January 6, date unknown",
+          "category": "Letters",
+          "summary": "Letter from Shigezane Date, January 6, date unknown. The opening reads: \"Suddenly, I instructed Ichizaemon and Heibei, and they reported that it was as requested. I am satisfied. Although Lord ◾️ Goro arrived this morning, as there is a hawk before me and it is a difficult matter, I have no...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -449,7 +543,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Resource Overview · Videos/Games/Other",
+          "category": "Reference & Library",
+          "summary": "*Sengoku BASARA MOONLIGHT PARTY Remix",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -472,7 +571,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Mystery of \"Nagamitsu Usami\"",
+          "category": "Report",
+          "summary": "Various thoughts on the mystery pointed out by Mr. Nozaki on the forum.",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -495,7 +599,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Genealogy of Kao 2",
+          "category": "Report",
+          "summary": "On the Kao of the Date Clan during the Sengoku Period—Focusing on Date Tanemune. Tohoku Gakuin University Institute for Tohoku Culture Bulletin (No. 20) [1988.08]",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -518,7 +627,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Works of Shigezane Date",
+          "category": "Writings",
+          "summary": "I will be uploading each work in turn. Please follow the links. When uploading, I have made the following modifications. Please refer to the original texts for the exact details.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -541,7 +655,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Biography of Shigezane from the \"Tohan Yajo\" (included in the Sendai Sosho, Vol. 8)",
+          "category": "Biography & Chronology",
+          "summary": "Lord of Watari, Lord of Watari, Lord Shigezane Date. Originally named Togoro, and later Awa. He was the eldest son of Hyobu-daifu Sanemoto. His courage and strategy were unparalleled, and he possessed a great fondness for the arts and letters. He was one year younger than Lord Teizan.",
+          "cover_alt": "Illustrations for Biography and Timeline"
+        }
       }
     },
     {
@@ -564,7 +683,13 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Biography of Shigezane from the \"Tohan Shiko\"",
+          "subtitle": "Draft History of the Eastern Domain",
+          "category": "Biography & Chronology",
+          "summary": "His childhood name was Fujigoro, also known as Hyobu. Later, he was called Awa. (Omitted) Shigezane became a man of great character, possessing both courage and strategic brilliance. For a time, he was hailed as peerless in martial prowess. In Tensho 13, during the Battle of Hitotoribashi, Shigezane's unit broke away from the main force and achieved distinction amidst the fierce fighting of the enemy army.",
+          "cover_alt": "Illustrations for Biography and Timeline"
+        }
       }
     },
     {
@@ -587,7 +712,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Date Capital: Sendai Domain Retainers' Trumps — Cast List",
+          "category": "Reference & Library",
+          "summary": "The comments are harsh because I was expecting something like the \"Journey to the West\" or \"Three Kingdoms\" playing cards sold in Chinatown.",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -610,7 +740,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Various Matters Concerning Terumune's Funeral, Burial, and Gravesite",
+          "category": "Report",
+          "summary": "Following the incident, Masamune marched to Takada that same day and expressed his intention to attack Nihonmatsu, but at the urging of his senior retainers, he returned to Obama in the early hours of the 9th (Teizan-ko Jike Kiroku).",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -633,7 +768,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Awanosu Incident—Various Accounts Surrounding the Death of Terumune 2",
+          "category": "Report",
+          "summary": "Now, it appears that Date Sanemoto and his son Shigezane acted as intermediaries between Terumune and Masamune—father and son—and Yoshitsugu during the peace negotiations between Hatakeyama Yoshitsugu and the Date clan.",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -656,7 +796,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Awanosu Incident—Various Accounts Surrounding the Death of Terumune 1",
+          "category": "Report",
+          "summary": "An overview of the Awanosu Incident—in which Terumune Date was abducted by Yoshitsugu Hatakeyama at Miyamori Castle and both were killed by Date forces who attacked them at Awanosu (Hiraishi Takada, Nihonmatsu City)—has already been documented on this site under Battle Records > Awanosu Incident.",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -679,7 +824,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Links to temples and shrines associated with the Date clan",
+          "category": "Reference & Library",
+          "summary": "Sendai City. A combined shrine housing Osaki Hachimangu, revered by the Osaki clan, and Narushima Hachimangu, revered by the Date clan.",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -702,7 +852,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Graves and Rituals of Date Tanemune and Sanemoto",
+          "category": "Report",
+          "summary": "His grandfather, Lord Shigezane, Junior Fourth Rank, Lower Grade, passed away at Marumori Castle in Igu District. He was 78 years old. He was buried in the Western bailey. He was granted the posthumous title of Chisho-in-dono Chokuzan Ennyu Daikoji.",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -725,7 +880,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Children of Date Tanemune",
+          "category": "Family",
+          "summary": "※Years are in the Western calendar; months and days are in the Japanese calendar. Numbers indicate the order listed in the \"Date Ryakukei.\" I assumed they were in chronological order, but when cross-referenced with the birth and death dates, they do not match, so it remains a mystery what order they actually follow.",
+          "cover_alt": "Family illustration"
+        }
       }
     },
     {
@@ -748,7 +908,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Tamura Muneaki, August 12, Tensho 18",
+          "category": "Letters",
+          "summary": "Letter from Tamura Muneaki, August 12, Tensho 18. The opening reads: \"Introduced in Seiji Kobayashi's 'Ou Shioki and the Toyotomi Regime.' Excerpted from there.\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -771,7 +936,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Teizan-ko Jike Kiroku, entry for May 27, Tensho 18 (Summary)",
+          "category": "Letters",
+          "summary": "Excerpt from the Teizan-ko Jike Kiroku, entry for May 27, Tensho 18. The opening reads: \"27th, Day of the Fire Rabbit. A letter arrived for Lord Fujigoro from Tsukisai Seikyu Tamura and Gyobu Akinori Hashimoto, retainers of Tamura Magoshichiro Muneaki. The gist is...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -794,7 +964,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. On the 26th, Lord Masamune to Obama Castle…",
+          "category": "Writings",
+          "summary": "1. On the 26th, when Lord Masamune transferred his horse to Obama Castle, Yoshitsugu Nihonmatsu wrote to Sanemoto: \"Though we have relied on the Date clan for generations and maintained our standing, in recent years, Aizu, Satake, and Iwaki have directed their arrows toward Tamura.\"",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -817,7 +992,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Shigezane Date, June 8, Tensho 13",
+          "category": "Letters",
+          "summary": "Letter from Shigezane Date, June 8, Tensho 13. The opening reads: \"I have read your reply regarding the letter sent from Hibara. I am satisfied that service to Masamune shall be rendered. Should you have any further requests, I shall...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -840,7 +1020,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Morikuni Inawashiro, June 11, Tensho 13",
+          "category": "Letters",
+          "summary": "Letter from Inawashiro Morikuni, June 11, Tensho 13. The opening reads: \"Having perused your letter, should there be any requests, I have received your kind permission to state them. Accordingly...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -863,7 +1048,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. On the evening of the 6th, Lord Terumune",
+          "category": "Writings",
+          "summary": "1. On the evening of the 6th, Lord Terumune visited Lord Masamune's camp, summoned the senior retainers to the lady-in-waiting's quarters, and consulted with them regarding the manner of offering an apology to Yoshitsugu.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -886,7 +1076,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Battle of Surigami-ue",
+          "category": "Battle Records",
+          "summary": "On June 1, Tensho 17, Inawashiro Morikuni—with whom Shigezane Date had been resuming negotiations for internal collusion since the beginning of the year—was killed by Ashina. In response, Masamune dispatched Nitta Yoshitsuna and Harada Munetoki to Hibara, and Shigezane Date and Kagetsuna Katakura to Inawashiro.",
+          "cover_alt": "Illustration from a battle chronicle"
+        }
       }
     },
     {
@@ -909,7 +1104,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Shigezane Date Enjoys Gambling Sumo",
+          "category": "Anecdotes",
+          "summary": "It seems that gambling sumo was sometimes enjoyed in the castle town of Omori. However, this was the Sengoku period, and sumo was a life-or-death affair... Perhaps summoned by Shigezane, the opponent for the gambler from elsewhere was Abe Mino, renowned in Sahara Village for his great strength and stature.",
+          "cover_alt": "Illustration of an anecdote"
+        }
       }
     },
     {
@@ -932,7 +1132,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Shigezane's Residence, Castle Town, Temples, and Shrines",
+          "category": "Residences & Castle Towns",
+          "summary": "This guide page traces the lands where Shigezane lived as a castle lord and feudal lord, organized by era. It provides links to articles for each period, including Omori, Nihonmatsu, and Kakuda.",
+          "cover_alt": "Illustrations of the residence and castle town"
+        }
       }
     },
     {
@@ -955,7 +1160,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Who was Shigezane Date's grandmother??",
+          "category": "Report",
+          "summary": "The question of who Shigezane's grandmother—that is, Sanemoto's mother—was. Almost all sources from the Date side identify Sanemoto's mother as Lady Ashina, the wife of Uemune.",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -978,7 +1188,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Battle of Shibukawa Castle",
+          "category": "Battle Records",
+          "summary": "Following the Battle of Hitotori Bridge, Shigezane spent the turn of the year at Shibukawa Castle (Shibukawa, Adachi Town), which served as an outpost of Hachichome Castle, while maintaining frontline vigilance.",
+          "cover_alt": "Illustration from a battle chronicle"
+        }
       }
     },
     {
@@ -1001,7 +1216,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Introduction to Materials: Related Figures",
+          "category": "Reference & Library",
+          "summary": "A biographical dictionary of key figures appearing from Bunji 5, when Yoshitsura Sahara was granted Aizu, until Tensho 17, when the Ashina clan fell. Kazuo Kojima, Rekishi Shunjusha, 1992.",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -1024,7 +1244,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Shigezane's Flight",
+          "category": "Report",
+          "summary": "Following the Bunroku Campaign, Shigezane, who had been residing in Fushimi, suddenly vanished from Masamune's side. The exact date remains uncertain.",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -1047,7 +1272,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Regarding Shigezane Date's Flight",
+          "category": "Report",
+          "summary": "This article presents an interpretation of Shigezane Date's flight, provided by an external researcher (watari41). As the text is written by a third party, it has not been reproduced and has been replaced with a link to the original page.",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -1070,7 +1300,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Period of Flight",
+          "category": "Residences & Castle Towns",
+          "summary": "This is the place Shigezane is said to have first headed to after leaving Fushimi. Masamune's grave is also located within the mountain grounds. Additionally, Hokumuro-in is revered by the Date clans of Sendai and Uwajima, as well as the Mogami clan of Yamagata, and Masamune's memorial tablet is also enshrined there.",
+          "cover_alt": "Illustrations of the residence and castle town"
+        }
       }
     },
     {
@@ -1093,7 +1328,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Reference Materials / Novels",
+          "category": "Reference & Library",
+          "summary": "April 22, 2015. Published in Gentaro Sato's All Yomimono, May 2015 issue.",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -1116,7 +1356,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Concepts of Trademark Rights",
+          "category": "Report",
+          "summary": "The following are Takesui's personal views. I assume no responsibility. While I believe I have done my research, intellectual property law is complex. Please let me know if you spot any errors.",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -1139,7 +1384,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Registered trademark \"Take-suzume\"",
+          "category": "Report",
+          "summary": "Below is a list of registered trademarks featuring bamboo and sparrows, arranged by registration date. Some may be omitted from this list. The rights holders are listed in the heading, with the design, registration number, and registration date provided.",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -1162,7 +1412,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Shigezane Date and Correspondence",
+          "category": "Letters",
+          "summary": "Correspondence with Shigezane Date. The opening reads: \"I will list the letters received and sent by Shigezane in chronological order. I also plan to include letters in which Shigezane appears.\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -1185,7 +1440,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Reference/Archives",
+          "category": "Reference & Library",
+          "summary": "This is a database in a list format of books, materials, and websites related to Date. Please select the category of materials you are looking for and search. It's getting quite unwieldy, which is frustrating.",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -1208,7 +1468,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Biography of Shigezane from the Shintatsu Ittoshi",
+          "category": "Biography & Chronology",
+          "summary": "His personal name was Shigezane; he later took the title of Awa-no-kami. He was the son of Motozane Date, known as Hyogo-no-kami. He was born in Shiroyama, Omori Village, Shinobu District. A peerless hero, he captured forts and castles in various places, besieged the castle of Nihonmatsu, and also took the fort of Kotemori.",
+          "cover_alt": "Illustrations for Biography and Timeline"
+        }
       }
     },
     {
@@ -1231,7 +1496,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Battle with Shigezane Date",
+          "category": "Report",
+          "summary": "\"Shigezane was a man of character, possessed of wisdom and strategic brilliance. For a time, he was hailed as peerless in courage and martial prowess.\" This is the description of Shigezane Date's character as recorded in the *Tohan Shiko*, a historical record written by Sakunami Kiyoaki, who served the Date clan of Sendai.",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -1254,7 +1524,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Mystery of the Shigezane-ki",
+          "category": "Report",
+          "summary": "There are three main variants of the \"Shigezane-ki\": the \"Shigezane-ki,\" the \"Shigezane Date Nikki,\" and the \"Masamune-ki.\"",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -1277,7 +1552,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Table of Contents for the Shigezane-ki",
+          "category": "Writings",
+          "summary": "Based on the \"Shigezane-ki\" found in the Sendai Sosho, this text has been adapted into a modernized reading. I have also corrected variant characters to those commonly used today and supplemented the okurigana.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1300,7 +1580,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Classification of Various Versions of the \"Shigezane-ki\": Along with a Study on the Origin of the so-called \"Hitotoribashi Kanjo\"",
+          "category": "Report",
+          "summary": "There are various versions of the \"Shigezane-ki\" and \"Masamune-ki\" written by Shigezane Date. I have attempted to classify them. I have also included an analysis of the \"Origin of the Hitotoribashi Letter of Commendation.\"",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -1323,7 +1608,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. From the Black Basket, the 24th..",
+          "category": "Writings",
+          "summary": "On the 24th, from Ichikuro-kago, an expedition was launched against a castle called Kara-no-uchi. The Nihonmatsu forces assisted in that operation.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1346,7 +1636,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. Lord Kiyoaki has issued the following order..",
+          "category": "Writings",
+          "summary": "Lord Issei Aki received the following instructions: \"In Obama, there are many supporters; furthermore, the people of Shiomatsu have been drawn from various places and are gathering solely in Obama. As you would likely lack the necessary skill to handle the matter, please proceed to Tamura...\"",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1369,7 +1664,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1 Thus, while Shiomatsu was a skilled archer..",
+          "category": "Writings",
+          "summary": "Thus, while Shiomatsu was skilled with the bow and arrow, our kin resided in Hachichome, and the border of Nihonmatsu remained uncontested.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1392,7 +1692,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. While staying at Tsukidate……",
+          "category": "Writings",
+          "summary": "While staying at Ichikukan, regarding the three individuals retained by Aoki Shuri—who had been brought along to Obama—Ouchi Bizen could not simply abandon Shuri's disciples; thus, they agreed upon a deadline, and both parties proceeded to a place called Kosegawa...",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1415,7 +1720,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. Tamura Gessai, Tamura Baisetsu, Tamura Uemon, Hashimoto Gyobu…",
+          "category": "Writings",
+          "summary": "1. Tamura Gessai, Tamura Baisetsu, Tamura Uemon, and Hashimoto Gyobu attended Miyamori, and together with Kojuro Katakura, Hizen Ito, and Kyusetsu Harada, the three stated, \"Since the commencement of the Okoshi Kii affair, we have not served Tamura; and since the onset of Tamura's current plot of rebellion...\"",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1438,7 +1748,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Not to mention Ichigetsusai and Gyobu..",
+          "category": "Writings",
+          "summary": "Needless to say, Ichigatsusai and Gyobu—as well as Baisetsu, Uemon, and the other samurai who had reached an agreement with Soma—reported that those who had ventured slightly outward had gone to Miyamomori to attend court, that Ishikawa Danjo had been subdued, and that Tamura was now firmly secured and a cause for celebration.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1461,7 +1776,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1 On the following 27th, yesterday..",
+          "category": "Writings",
+          "summary": "The following day, the 27th. Yesterday, I stated, \"I intend to move my camp to the bamboo residence and cut through the path,\" and while half agreed, saying \"that seems right,\" the other half did not concur.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1484,7 +1804,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. Soma Yoshitane, residing at Tsukiyama, ……",
+          "category": "Writings",
+          "summary": "1. Soma Yoshitane was residing at Tsukiyama, during which time the retainers of Tamura convened, and it appears they held private discussions with him regarding the matter of the Northern Lord.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1507,7 +1832,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. At Tamura, there are various private grievances..",
+          "category": "Writings",
+          "summary": "1. There are various private grievances in Tamura. Gessai and Gyobu stated, \"Lord Masamune is staying at Omori, and Yoshitane is at Tsukiyama.\"",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1530,7 +1860,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. During your stay at Omori..",
+          "category": "Writings",
+          "summary": "It was commanded that while staying at Omori, he should visit the vicinity of Takakura; accordingly, from May 11, he made day trips as far as Maeda-zawa and toured as far as within the castle grounds.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1553,7 +1888,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. The Tamura retainers, and those who had reached an agreement with Soma..",
+          "category": "Writings",
+          "summary": "1. The retainers of Tamura, those who had reached an agreement with Soma, and even those in the service of Date—all of whom have since rebelled—have committed treason; while it is believed that Lord Masamune should take the field, there has been no official word whatsoever. Accordingly, relying on Tamura Gessai, Hashimoto Gyobu, and Shiroishi Wakasa...",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1576,7 +1916,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. The preceding section details the circumstances of Ishikawa Danjo's treason..",
+          "category": "Writings",
+          "summary": "1. The preceding section details the treachery of Ishikawa Danjo. It records the circumstances of the Tamura tribute.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1599,7 +1944,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "I. November, Tensho 14. Since Lord Kiyoaki's departure",
+          "category": "Writings",
+          "summary": "1. November, Tensho 14. Since Lord Kiyoaki's departure, His Lordship has resided at the main castle in Miharu, accompanied by his ladies. However, all affairs are managed by four men: Tamura Gessai, Tamura Baisetsu, Tamura Uemon, and Hashimoto Gyobu.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1622,7 +1972,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. Regarding Ishikawa Danjo, on April 15..",
+          "category": "Writings",
+          "summary": "1. On April 15, at the time of Danjo Ishikawa, the castle said to be held by Wakasa Shiroishi was overgrown with grass; Danjo himself had also gone out and was staying in the enclosure. Early in the morning, two men emerged from within and were cut down by the grass; as they encountered them from within the castle, Danjo and his companions came to their aid...",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1645,7 +2000,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. On March 23 of the same year..",
+          "category": "Writings",
+          "summary": "1. On March 23 of the same year, upon returning from the Battle of Tamai, Kojuro was instructed to wait for Ouchi Bizen and Katahira Sukeemon, who had gone out; accordingly, he proceeded to Nihonmatsu and remained there. On the night of April 5, a man named Kajiuchi Danjo...",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1668,7 +2028,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. Around February 12–13, Tensho 16..",
+          "category": "Writings",
+          "summary": "1. Around February 12–13, Tensho 16, at a place under our control called Tamai, upon reaching the mountainside from Takatama—a place called Nishihara, four or five ri away from Tamai—we crossed the true grass, and the men of Tamai, lacking military discipline, drove them far away...",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1691,7 +2056,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. February 12, Tensho 16……",
+          "category": "Writings",
+          "summary": "1. On February 12, Tensho 16, forces from three locations—Katahira, Yasukogashima, and Takatama—stormed Ouchi Bizen and Naeshiroda before dawn, slaughtering approximately 100 peasants residing in the old castle, and took a man named Honnai Shusui to be their leader...",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1714,7 +2084,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. Early July, Tensho 13..",
+          "category": "Writings",
+          "summary": "In early July of Tensho 13, I dispatched an envoy to Yonezawa, stating, \"Regarding the matter of Inawashiro, a discrepancy has arisen, and I find it most troublesome.\"",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1737,7 +2112,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. In Tensho 15, although Mogami and Osaki were armed with bows and arrows..",
+          "category": "Writings",
+          "summary": "1. In Tensho 15, although Mogami and Osaki were under military threat, the Asaka region remained safe for the time being, and nothing of consequence occurred. The three locations of Naeshiroda, Ota, and Arai were under our jurisdiction.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1760,7 +2140,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "I. Kurokawa Gesshu's Rebellious Heart..",
+          "category": "Writings",
+          "summary": "1. As Gesshu Kurokawa had turned against us and Masamune had set his sights on Osaki's bows and arrows, yet none were available as he had desired, he privately resolved to subdue Gesshu; however, having dispatched forces to Satake, Aizu, Iwaki, and Ishikawa and advanced as far as Motomiya...",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1783,7 +2168,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. Ujiie Danjo Chika Mikawa……",
+          "category": "Writings",
+          "summary": "1. Ujiie Danjo Chika-Mikawa, unlike his children, served Osaki Yoshitaka and resided at Nao Castle, where he held the castle and served Yoshitaka.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1806,7 +2196,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. The Fukaya Gekkan is..",
+          "category": "Writings",
+          "summary": "1. Fukaya Gekkan served as the brother-in-law to Soma Nagato. Lord Masamune heard that Gekkan had fired a musket without a ball even at Shimo-shinden, and remarked, \"Such things may indeed happen.\"",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1829,7 +2224,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. Lord Yoshiaki Mogami..",
+          "category": "Writings",
+          "summary": "1. Lord Yoshiaki Mogami, though Lord Masamune's uncle, frequently took up the bow and arrow during the reign of Lord Terumune. In recent years, however, he has been particularly cordial.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1852,7 +2252,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. From Mogami to Yoshiaki……",
+          "category": "Writings",
+          "summary": "1. Yoshiaki (Yoshimitsu) of Mogami dispatched men known as Nobezawa Noto to Arigabukuro; Noto met with Tsukikan of Nagai. What did they discuss? Tsukikan returned to Fukaya, and Aki Izumida alone accompanied him to Onoda.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1875,7 +2280,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. Suzuki Iga of Momo..",
+          "category": "Writings",
+          "summary": "1. Suzuki Iga of Momo and Kita-Ezamaryo of Furukawa went aside, sent a messenger to Niinuma, and summoned Otani Kazawa, stating, \"If both Izumida Aki and Fukaya Gekkan are handed over as hostages, the various forces shall withdraw.\" He thus reported.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1898,7 +2308,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. The forces besieged in Niinuma..",
+          "category": "Writings",
+          "summary": "1. As the forces besieged at Niinuma number as many as 5,000, they are on the verge of starvation, as there is no food even in the small area of Niinuma. Lord Masamune intended to dispatch his own private retainers to evacuate them, but due to the Sendo's consideration, this was not done.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1921,7 +2336,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. The number of Uenosuke and Hamada Izu..",
+          "category": "Writings",
+          "summary": "1. I intended to draw in the forces of Uenosuke and Hamada Izu, but the day has already set.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1944,7 +2364,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "I. The Morning Oyamada Chikuzen Fell in Battle..",
+          "category": "Writings",
+          "summary": "On the morning that Oyamada Chikuzen fell in battle, a mysterious omen occurred. Mounting his horse at the inn, he rode out about ten ken; then, the horse he rode spoke, saying, \"The drum of time—already late, already late,\" which awakened those accompanying Chikuzen.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1967,7 +2392,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1 To Aizu..",
+          "category": "Writings",
+          "summary": "While the route to Aizu had been cut off, the border of Nihonmatsu remained open. At Hachichome, where my elder brother Shigezane Moto had retired, I received a dispatch from Yoshitsugu Nihonmatsu and spoke with him warmly.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -1990,7 +2420,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1 Ujiie Danjo, ……",
+          "category": "Writings",
+          "summary": "Ujiie Danjo: While the Lord intends to dispatch Date troops, even now there is not the slightest sign of the forces securing the village, and as the roads remain impassable, no word has reached us from anywhere; we have been waiting day after day, and as the New Year has already begun, we have been anxious morning and evening...",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2013,7 +2448,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "I. The true intent behind Kurokawa Gesshu's contrary intentions was..",
+          "category": "Writings",
+          "summary": "The underlying intent behind Kurokawa Gesshu's opposition was that Gesshu's uncle, a man named Kurokawa Shikibu, had served during the reign of Lord Terumune.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2036,7 +2476,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. January 16, Tensho 15……",
+          "category": "Writings",
+          "summary": "On the 16th day of the first month of the 15th year of Tentensho, orders were issued to Osaki; Date Uenosuke and Izumida Aki were appointed as commanders of the troops, while Awano Suketaro, Nagai Gekkan, Takashiro Suo, Omatsuzawa Saemon, Miyanai Inaba, Tate Sukesaburo, and Hamada Izu were appointed as military commissioners...",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2059,7 +2504,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. Regarding Danjo's intentions..",
+          "category": "Writings",
+          "summary": "In the account of Ichidan Shozo, it says that having betrayed his hereditary lord through an unforeseen turn of events and entered the service of the Date, he felt the heavens themselves were outraged; thus, he brought along his lord's son, Shozaburo, and went before Lord Masamune to serve as a retainer—a matter the heavens also found grievous...",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2082,7 +2532,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. Namio Castle..",
+          "category": "Writings",
+          "summary": "As for Namaso Castle, since Yoshitaka's arrival at Araida, it had become a strategic stronghold; however, the woman known as Yoshitaka's mother, Hisako, and his son, Lord Shozaburo, were held captive at Namaso Castle like hostages, with Danjo Chika-Mikawa and Ibano Sohachiro assigned as their guards.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2105,7 +2560,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. In the records of Ujiie Danjo..",
+          "category": "Writings",
+          "summary": "In the account of Ujiie Danjo, it is written: \"Now, in this ever-changing world, while the Osakabe faction relied on the Date and plotted rebellion against Yoshitaka, I resolved to serve solely and prepared to take refuge in Namio Castle...\"",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2128,7 +2588,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. In Tensho 14, following the fall of the Nihonmatsu and Shiomatsu clans..",
+          "category": "Writings",
+          "summary": "In the 14th year of Tensho, after the retainers of Nihonmatsu and Shiomatsu had settled their affairs and delivered their horses to Yonezawa in August, the retainers of Osaki Yoshitaka split into two factions. The root of the matter that was reported to Lord Masamune was that a man named Niida Gyobu, a page serving Yoshitaka at the time, had made an extraordinary appearance.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2151,7 +2616,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1 In the eleventh month of the same year, Lord Kiyoaki died suddenly..",
+          "category": "Writings",
+          "summary": "In the same year, in the winter month, Lord Kiyoaki passed away suddenly; Lord Masamune proceeded to Fukushima and, sending a messenger to Tamura, delivered the news and returned to the castle.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2174,7 +2644,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1 Shiomatsu, granted by Wakasa Shiroishi..",
+          "category": "Writings",
+          "summary": "Ishio Matsu was granted Shiroishi Wakasa. Subsequently, increases were granted to many others. There were also other locations; we were granted Nihonmatsu.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2197,7 +2672,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. The castle of Nihonmatsu, from last year until this July..",
+          "category": "Writings",
+          "summary": "Regarding the circumstances surrounding the castle of Ichi-Nihonmatsu from last year until this July: Takatama and Yasukogashima were assigned to service in Aizu and made their way to Nihonmatsu via the deep mountains.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2220,7 +2700,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. January, Tensho 13..",
+          "category": "Writings",
+          "summary": "In the first month of 1585, Ouchi Bizen reported, \"As the snow is deep and construction is difficult, I humbly request leave to return home, bring my wife and children, and make the necessary preparations before reporting back.\"",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2243,7 +2728,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1 Lord Masamune is somewhat displeased..",
+          "category": "Writings",
+          "summary": "As Lord Masamune was somewhat displeased, the campaign to Nihonmatsu was postponed and carried out in early April.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2266,7 +2756,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. February of the same year. At the siege of Nihonmatsu..",
+          "category": "Writings",
+          "summary": "February of the same year. While besieged in Nihonmatsu, five men—Gemban Miwa, Shinbei Ujiie, Tanba Yusa, Shimousa Yusa, and Etchu Horie—held a consultation.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2289,7 +2784,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. In Tensho 14, at Shibukawa..",
+          "category": "Writings",
+          "summary": "In the 14th year of Tenten, while we resided at Shibukawa, on New Year's Day, word arrived from Nihonmatsu requesting that we set out around midday; accordingly, one mounted rider and about ten foot soldiers arrived ahead and rode up to the water-drawing area at the edge of the camp...",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2312,7 +2812,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. On the evening of the 17th, Lord Masamune……",
+          "category": "Writings",
+          "summary": "On the evening of the 17th, Lord Masamune also retired to Iwakado; around midnight, Yamaji Awaji came as a messenger to my place and presented a handwritten letter, stating in his remarks, \"Today's treatment is beyond compare.\"",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2335,7 +2840,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. Around the 10th of Shimotsuki..",
+          "category": "Writings",
+          "summary": "Around the 10th day of the first month, Lords Yoshishige Satake, Yoshihiro Aizu, Tsunetaka Iwaki, Akimitsu Ishikawa, and Yoshichika Shiraishi, acting in concert, marched to Sukagawa and conducted operations against the castles served by the Date clan in the Asazumi area, where they attacked and captured the castle known as Nakamura.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2358,7 +2868,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "I October 15……",
+          "category": "Writings",
+          "summary": "1. October 15. Although they made an advance toward Nihonmatsu, they encountered strong resistance from within; thus, they launched an attack without incident, crossed the river to Takada, with the entire force withdrawing and establishing a field camp.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2381,7 +2896,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "I. On the evening of October 6..",
+          "category": "Writings",
+          "summary": "On the evening of October 6, Lord Terumune visited the camps of Lord Masamune, summoned the chief retainers to the kitchen, and held a hearing regarding Yoshitsugu's apology and the lawsuit.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2404,7 +2924,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. On the 26th of the same month……",
+          "category": "Writings",
+          "summary": "On the 26th day of the month, as Lord Masamune was transferring his horse to Obama Castle, Nihonmatsu Yoshitsugu conveyed the following message to our lord Shigezane: \"Though we have relied on the Date clan for generations and stood by them, in recent years, Aizu, Satake, Iwaki, and Tamura have turned their bows and arrows against us.\"",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2427,7 +2952,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. The supporters in Obama..",
+          "category": "Writings",
+          "summary": "At Kohama, those seeking assistance consulted one another, stating, \"If the Iwakado is taken, it should not be removed.\" The men from Aizu advised Ouchi Bizen, saying, \"Today, Lord Masamune has viewed the Iwakado.\"",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2450,7 +2980,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. On the 25th, an expedition to Iwakado..",
+          "category": "Writings",
+          "summary": "On the 25th, he conducted a reconnaissance of Iwakado, surveying the terrain; it was decided that if he were to attack from nearby or seize the area, the route to Nihonmatsu would become obstructed, and that he should move elsewhere the following day; upon this decision, he returned to Kurokago.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2473,7 +3008,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1. Lord Terumune's successive generations..",
+          "category": "Writings",
+          "summary": "Throughout the generations of Lord Ikki Mune, those of Satake, Aizu, Iwaki, and Ishikawa have all maintained a half-hearted relationship, and things have remained in this state. The aforementioned have, for several years, launched arrows at Tamura, leaving Lord Kiyoaki at his wit's end.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -2496,7 +3036,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Biography of Date Sanemoto from the Date Kasei Shinden",
+          "category": "Family",
+          "summary": "Date Hyobu-no-tasuke Fujiwara Sanemoto was the third son of Tanemune, the 14th head of the house. His mother was the daughter of Ashina Shuri-no-daibu Taira Moritaka, lord of Aizu. During the Tenbun era, his maternal great-grandfather, Fujiwara Sadazane, lord of Echigo and Hyogo-no-kami, left no heir.",
+          "cover_alt": "Family illustration"
+        }
       }
     },
     {
@@ -2519,7 +3064,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Biography of Shigezane from the Date Family Genealogy",
+          "category": "Biography & Chronology",
+          "summary": "※The original text is in Classical Chinese, but the administrator has provided a reading version.",
+          "cover_alt": "Illustrations for Biography and Timeline"
+        }
       }
     },
     {
@@ -2542,7 +3092,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Biography of Shigezane Date from the Date Yoshin Denki",
+          "category": "Biography & Chronology",
+          "summary": "Shigezane Date Fujiwara, initially known as Togoro, was the legitimate son of Hyobu-daifu Sanemoto. His mother was the daughter of Lord Harumune, the 15th head of the house. A member of the house's clan (the house's noble lineage; since ancient times, there has been no designation of \"clan\" other than that of the single house).",
+          "cover_alt": "Illustrations for Biography and Timeline"
+        }
       }
     },
     {
@@ -2565,7 +3120,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Excerpt from Sendai Shiryo: Old Documents of Kuninari Date",
+          "category": "Biography & Chronology",
+          "summary": "Shigezane Date received the family estate in Tensho 11. He ceded the estate of Seizan-ko (Terumune) to Nagon-ko. October 8, Year 13. He attacked Nagon-ko Hatakeyama Yoshitsugu, avenging an ingratitude that had gone unrewarded.",
+          "cover_alt": "Illustrations for Biography and Timeline"
+        }
       }
     },
     {
@@ -2588,7 +3148,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Biography of Shigezane from the Sendai Shiryo: Shigezane Date (Volume 2)",
+          "category": "Biography & Chronology",
+          "summary": "※The original text is in Classical Chinese, but the administrator has provided a reading version. ※Parts where characters were blurred and unreadable have been marked with ■. Please bear with me, as I will correct them once they are deciphered.",
+          "cover_alt": "Illustrations for Biography and Timeline"
+        }
       }
     },
     {
@@ -2611,7 +3176,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Biography of Shigezane from the Sendai Shiryo: Shigezane Date (Volume 2)",
+          "category": "Biography & Chronology",
+          "summary": "※The original text is in Classical Chinese, but the administrator has provided a reading version. ※Parts where characters were blurred and unreadable have been marked with ■. Please bear with me, as I will correct them once they are deciphered.",
+          "cover_alt": "Illustrations for Biography and Timeline"
+        }
       }
     },
     {
@@ -2634,7 +3204,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Biography of Shigezane from the Sendai Shiryo: Shigezane Date Expresses Gratitude (Vol. 2)",
+          "category": "Biography & Chronology",
+          "summary": "※The original text is in Classical Chinese, but the administrator has provided a reading version. ※Parts where characters were blurred and unreadable have been marked with ■. Please bear with me, as I will correct them once they are deciphered.",
+          "cover_alt": "Illustrations for Biography and Timeline"
+        }
       }
     },
     {
@@ -2657,7 +3232,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Biography of Shigezane from the Sendai Shiryo: Shigezane Date Retreats to Takano (Vol. 2)",
+          "category": "Biography & Chronology",
+          "summary": "※The original text is in Classical Chinese, but the administrator has provided a reading version. ※Parts where characters were blurred and unreadable have been marked with ■. Please bear with me, as I will correct them once they are deciphered.",
+          "cover_alt": "Illustrations for Biography and Timeline"
+        }
       }
     },
     {
@@ -2680,7 +3260,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Battle of Sanuma",
+          "category": "Battle Records",
+          "summary": "The Battle of Sanuma was one of the engagements fought during the Osaki-Kasai Uprising, which broke out between Tensho 18 and Tensho 19.",
+          "cover_alt": "Illustration from a battle chronicle"
+        }
       }
     },
     {
@@ -2703,7 +3288,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "1611 Keicho Sanriku Earthquake",
+          "category": "1611 Sanriku Earthquake",
+          "summary": "March 11, 2011, the Great East Japan Earthquake. It was known that M7-class major earthquakes occur along the Pacific coast of the Tohoku region roughly every 30–40 years.",
+          "cover_alt": "Illustration of the Keicho Sanriku Earthquake"
+        }
       }
     },
     {
@@ -2726,7 +3316,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Biography of Shigezane Date from the Sendai Shiryo",
+          "category": "Family",
+          "summary": "Shigezane Date. Sixth son of Lord Naoyama (Tanemune). Mother: daughter of Ashina Moritaka. In Tenbun 11, just as he was about to depart for Echigo to be taken under the care of the Uesugi clan, he encountered Nakano Hitachi, who was plotting against him; the two lords, Naoyama Hozan (Harumune) and his son, exploited the rift between them.",
+          "cover_alt": "Family illustration"
+        }
       }
     },
     {
@@ -2749,7 +3344,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Record of the Mausoleum of Kessan-kun",
+          "category": "Family",
+          "summary": "This is the epitaph for Sanemoto's grave, as recorded in the \"Sendai Kinseki-shi\" included in the Sendai Sosho.",
+          "cover_alt": "Family illustration"
+        }
       }
     },
     {
@@ -2772,7 +3372,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "*History of Sendai City (1929 Edition)*, Vol. 1, Part 3, Biographies, Domain Retainers: Shigezane Date",
+          "category": "Biography & Chronology",
+          "summary": "Shigezane Date, known by the childhood names Fujigoro and Hyobu, and later as Awa, took Sanemoto, a son of Lord Tanemune, as his ancestor. His mother was a daughter of Lord Harumune. Shigezane was a man of character, possessing great wisdom and strategic acumen.",
+          "cover_alt": "Illustrations for Biography and Timeline"
+        }
       }
     },
     {
@@ -2795,7 +3400,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Brief Biography of Shigezane Date",
+          "category": "Biography & Chronology",
+          "summary": "Born in 1568 (Eiroku 11), likely at Omori Castle in Shinobu District. One year younger than Masamune. Childhood name: Tokimunemaru. Common names: Togoro, Hyobu, and Awa.",
+          "cover_alt": "Illustrations for Biography and Timeline"
+        }
       }
     },
     {
@@ -2818,7 +3428,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Sendo Aizu, Genna 8, Notes of an Elderly Man (Excerpt)",
+          "category": "Battle Records",
+          "summary": "\"History of Nihonmatsu City, Vol. 3: Ancient and Medieval Materials,\" compiled starting in 1981. The base text is reportedly the *Zokuzoku Gunsho Ruiju 9*. ※Partial excerpt. Kanji and kana have been rewritten for readability.",
+          "cover_alt": "Illustration from a battle chronicle"
+        }
       }
     },
     {
@@ -2841,7 +3456,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Academic Books, Museum Catalogues, and Local Government Histories",
+          "category": "Reference & Library",
+          "summary": "2016.2 Mitsuru Takahashi (ed.), Yoshikawa Kobunkan: Tohoku in Transition... Mitsuru Takahashi / The Ou Administration... Mitsuru Takahashi (Hideyoshi's Expeditions and the Administration Forces / Land Surveys, Sword Hunts, and Castle Destruction—Details of the Administration / The Unending Administration—Uprisings and Suppression / The Light and Shadow of the Ou Administration—Developments in the Early Bunroku and Keicho Years) / The Korean Campaigns and...",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -2864,7 +3484,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Historical Materials Related to the Date Clan: Published Materials",
+          "category": "Reference & Library",
+          "summary": "Aizu Materials Preservation Society, 1917-1920 Hinohara Gun Monogatari (Kensuke Kikuchi), Machi Orai (Author unknown), Dogimura Nikki (Author unknown), Aizu Kassenki (Author unknown), Aizu Sozakuraki (Author unknown), Ashina-ke Yuisho Kosho (Tadatake Sekiba), Kaihan Hennenryaku (Compiled by Anrin Shiryu, Takeura Sa…",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -2887,7 +3512,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Historical Materials Related to the Date Clan: Index of Material Names",
+          "category": "Reference & Library",
+          "summary": "This section draws heavily on the lists provided by \"Harumaki\" and \"Oku-Aizu Sengoku Fudoki.\" I would like to take this opportunity to express my gratitude.",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -2910,7 +3540,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Journal Articles",
+          "category": "Reference & Library",
+          "summary": "*Masamune Date and His Mother Yoshihime—On the Attempted Poisoning and the Murder of His Younger Brother—",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -2933,7 +3568,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Genealogy of Kao",
+          "category": "Report",
+          "summary": "On the Kao of the Date Clan during the Sengoku Period—Focusing on Date Tanemune. Tohoku Gakuin University Institute for Tohoku Culture Bulletin (No. 20) [1988.08]",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -2956,7 +3596,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Period as Lord of Omori Castle",
+          "category": "Residences & Castle Towns",
+          "summary": "Omori, Fukushima City, Fukushima Prefecture. Now Shiroyama Park. A mountain castle in the southwestern part of the Fukushima Basin. This mountain was apparently once known as \"Shinobu Mori.\"",
+          "cover_alt": "Illustrations of the residence and castle town"
+        }
       }
     },
     {
@@ -2979,7 +3624,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Formation and Dissolution of the Omori Date Clan",
+          "category": "Report",
+          "summary": "In the \"General History of Ancient and Medieval Fukushima City,\" Seiji Kobayashi notes that since the *Harumune-ko Sai-chi Kashi-roku* contains no mention of Marumori, where Tanemune retired, or Omori, where Sanemoto resided, Tanemune and Sanemoto held independent lordship even during Harumune's reign.",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -3002,7 +3652,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Shigezane Date, late February, year unknown",
+          "category": "Letters",
+          "summary": "This is a letter from Shigezane Date (dated late February, year unknown, addressed to Ojo Hyogo). As the transcription and modern Japanese translation were contributed by a third party (Shoseki-sama), they are not reproduced here and have been replaced with links to the original page.",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -3025,7 +3680,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Kimura Uemon Memorandum 60",
+          "category": "Battle Records",
+          "summary": "※Partial excerpt. Kanji and kana have been rewritten for readability.",
+          "cover_alt": "Illustration from a battle chronicle"
+        }
       }
     },
     {
@@ -3048,7 +3708,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Kimura Uemon Memorandum 28",
+          "category": "Battle Records",
+          "summary": "※Partial excerpt. Kanji and kana have been rewritten for readability.",
+          "cover_alt": "Illustration from a battle chronicle"
+        }
       }
     },
     {
@@ -3071,7 +3736,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Kimura Uemon Memorandum 26",
+          "category": "Battle Records",
+          "summary": "1. In one account, during the Battle of Sendo Hongu—for reasons that remain unclear—all the allies were defeated, and prominent figures, including Satsuki Moniwa, were slain in action...",
+          "cover_alt": "Illustration from a battle chronicle"
+        }
       }
     },
     {
@@ -3094,7 +3764,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Yokyoku: Surigami",
+          "category": "Noh \"Surigami\"",
+          "summary": "Mr./Ms. Nozaki provided the information and text for this article. They also provided the illustrations. Thank you very much m(__)m",
+          "cover_alt": "Illustration for the Noh play \"Surigami\""
+        }
       }
     },
     {
@@ -3117,7 +3792,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Period as Lord of Nihonmatsu Castle",
+          "category": "Residences & Castle Towns",
+          "summary": "Located within the castle walls of Nihonmatsu City, Fukushima Prefecture. A mountain castle situated on Shirahata-ge-mine. It was built during the Oei era by the Hatakeyama clan, who served as the Oshu Tandai. Shigezane resided there from September of Tensho 14 to Tensho 19.",
+          "cover_alt": "Illustrations of the residence and castle town"
+        }
       }
     },
     {
@@ -3140,7 +3820,13 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Chronology of Shigezane Date",
+          "subtitle": "From Tenbun 8 (1539) to Shoho 3 (1646)",
+          "category": "Biography & Chronology",
+          "summary": "This is a chronology of Shigezane Date. I have converted the chronology from the original site, \"Shigezane Zanmai,\" into Markdown. From 1539 to 1646, it lists Shigezane's life and the events of the era, along with their sources.",
+          "cover_alt": "Chronology and illustration featuring the bamboo-and-sparrow crest"
+        }
       }
     },
     {
@@ -3163,7 +3849,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Report on Shigezane Date",
+          "category": "Report",
+          "summary": "Shigezane Date once fled Masamune's service. What was the true story behind this? ※We have received an interpretation regarding the flight from watari41.",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -3186,7 +3877,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Summer Campaign of Osaka",
+          "category": "Battle Records",
+          "summary": "In Genna 1 (1615), Shigezane took part in the Summer Campaign of the Siege of Osaka. The struggle of the Date forces in this battle is recounted in the memoirs of Kagetsuna Katakura—the so-called \"Battle of Domyoji.\"",
+          "cover_alt": "Illustration from a battle chronicle"
+        }
       }
     },
     {
@@ -3209,7 +3905,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Archive of Links to Archives and Museums",
+          "category": "Reference & Library",
+          "summary": "*It's great that so many libraries have digital libraries these days. Publications are also worth checking out. ☆The Tohoku Regional Museum's collection introduction features a variety of interesting materials.",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -3232,7 +3933,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Resource Guides · Magazines/Mooks",
+          "category": "Reference & Library",
+          "summary": "Written by Sadahisa Fujisaki. A series on castle tours originally published in Otsuka Yakuho. It provides an extremely detailed account of Omori Castle.",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -3255,7 +3961,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Regarding the Establishment of Mukojima",
+          "category": "Writings",
+          "summary": "From the second month of the first year of Keicho (the year of the Fire Monkey), Taiko Hideyoshi constructed a castle at Mukojima in Fushimi, spanning a bridge from the main castle to establish it as a place of leisure; with the construction more than halfway complete, around midnight on the twelfth day of the intercalary seventh month, a massive earthquake struck, shaking down the castle keep and the palace buildings...",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3278,7 +3989,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Lawsuit Concerning the Subjugation of Okoshi",
+          "category": "Writings",
+          "summary": "And so.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3301,7 +4017,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Regarding Yoshitane's Loss of the Tamura Domain",
+          "category": "Writings",
+          "summary": "In the same May, while Masamune resided at Omori and Yoshitane at Gassan, Masamune continued to align himself with Yoshitane, a retainer of Tamura; meanwhile, Masamune's aunt, who resided at Miharu Castle, was Yoshitane's aunt, but at that time she harbored resentment toward Masamune and leaned toward Soma...",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3324,7 +4045,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Lawsuit of the Tamura Elders",
+          "category": "Writings",
+          "summary": "In the same fourth month, due to the treachery of Ishikawa Danjo, those inclined toward Soma and those defending Date were gathered at Tamura, intending for Masamune to march out without delay; however, as nothing of the sort occurred, it was only natural that everyone grew suspicious.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3347,7 +4073,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Operations from Aizu",
+          "category": "Writings",
+          "summary": "On the night of April 5 of the same year, news reached Aizu of the surrender of Ouchi, Bizen, and Date; the men of Aizu convened at Sukagawa, and word arrived that they were launching an attack on the Asaka front.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3370,7 +4101,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Regarding Ishikawa Danjo's Entry",
+          "category": "Writings",
+          "summary": "On April 12 of the same year, Ishikawa Danjo also entered a place called Nishi in the Wakasa territory; he himself also ventured out, and struck down two people who had emerged from within early in the morning. Upon learning this within the castle, he drove those who had emerged back into the castle and launched an attack from there...",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3393,7 +4129,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The matter settled between Ouchi Bizen and Masamune",
+          "category": "Writings",
+          "summary": "On March 23 of the same year, after the auction at Tamanoi had concluded and Shigezane returned to Nihonmatsu, Ouchi Bizen and Katahira Sukeemon—who had been arranged by the parties involved—headed to Nihonmatsu, waiting to accompany Date.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3416,7 +4157,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Regarding the Land Survey of Shigezane's Territory",
+          "category": "Writings",
+          "summary": "Thus, it is said in the military lore of Oshu that one might \"conduct grass operations,\" \"enter the grass,\" \"lie in the grass,\" or \"rise from the grass\"—or rather, \"search for an early opportunity.\" The first, \"conducting grass operations,\" refers to secretly dispatching forces from one's own domain to another; this is called \"grass operations.\"",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3439,7 +4185,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Regarding the Ouchi Bizen Hand-Cutting",
+          "category": "Writings",
+          "summary": "Meanwhile, in the districts of Sendo Asaka—namely Ota, Arai, and Naeshiroda—though separated from Nihonmatsu, they remained part of the Nihonmatsu domain. Consequently, during the turmoil following Yoshitsugu's assassination, the people of these three locations also fled in all directions, leaving the lands desolate.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3462,7 +4213,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Regarding the Desires of Ouchi and Date",
+          "category": "Writings",
+          "summary": "In the tenth year of Tensho, the year of the Fire Pig, when Masamune was twenty-one, campaigns were waged against Mogami and Osaki, yet the Asaka region remained undisturbed and peaceful for the time being.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3485,7 +4241,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Regarding the envoy from Mogami to Osaki",
+          "category": "Writings",
+          "summary": "Mogami Yoshiaki dispatched his retainer Noto Nobezawa to Arigabukuro in Osaki; upon meeting Tsukikage, what did he say? He returned Tsukikage to Fukaya, and handed over Noto—accompanied by a single man from Aki—to the two castle wardens of Onoda, Genban and Kurozaemon.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3508,7 +4269,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Case of Gesshu",
+          "category": "Writings",
+          "summary": "Meanwhile, the second line of the Date forces—including those from Ueno and Izu—was stationed in the fields south of Moriyama; the vanguard attempted to push through and draw them back, but were unable to cross the bridge at the critical point.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3531,7 +4297,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Kurokawa Gesshu Haruuji's Rebellious Intentions: Concern for the Justice of His Reputation",
+          "category": "Writings",
+          "summary": "Thus, when asked about the details of Haruuji's treason against the Date, it came to light that long ago, a man named Kurokawa Shikibu had been sent by Terumune's ancestors to serve under Tsukifune.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3554,7 +4325,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Story of Ujiie Danjo Chusetsu",
+          "category": "Writings",
+          "summary": "Meanwhile, upon hearing from Danjo that Yoshitaka was facing a lawsuit by the Gyobu faction, he remarked, \"This is most alarming. Should the traitors who rebelled against me be plotting their downfall, I would have intended to remain alone in Namago Castle and accompany them to their destruction; yet now they seek to strike me down—such is the way of the world...\"",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3577,7 +4353,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Regarding the Osaki Camp",
+          "category": "Writings",
+          "summary": "In July of the same fourteenth year, Masamune raised an army from the Sendo region and captured the areas up to Yotsumatsu and Nihonmatsu, returning to Yonezawa in early August.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3600,7 +4381,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Regarding the Appearance of Okoshi Kii-no-kami",
+          "category": "Writings",
+          "summary": "Thus, around that time, among the Tamura retainers, there was a member of the Tamura clan known as Okoshi Kii-no-kami—a relative of Soma Yoshitane as well—who held a high rank within the house. He sought to align himself with Soma in an attempt to have Tamura taken over by Yoshitane.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3623,7 +4409,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Sudden Death of Tamura Kiyoto: Dissension Between Masamune and His Northern Allies",
+          "category": "Writings",
+          "summary": "In the same eleventh month, Kiyoaki Tamura died suddenly. Consequently, Masamune departed from Yonezawa for Fukushima in Shinobu, dispatched a messenger to Tamura, and immediately returned. As Kiyoaki had no heir, he had frequently declared that, for the remainder of his days, he intended to eventually cede Tamura to Masamune.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3646,7 +4437,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Regarding Masamune's Illness and the Departure from the Castle in Nihonmatsu",
+          "category": "Writings",
+          "summary": "In the second month of the fourteenth year, year of the Fire Dog, five men—Genban Minowa, Shinbei Ujiie, Tanba Yusa, Shimousa of the same name, and Etchu Horie—while besieged in Nihonmatsu, rebelled and conspired with Masamune.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3669,7 +4465,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Escape of Kurokawa Gesshu from Capital Punishment",
+          "category": "Writings",
+          "summary": "The inefficiency of the Date forces in the upcoming battle against Osaki is due to the treachery of Kurokawa Gesshu.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3692,7 +4493,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Eiei Gekkan Shifu Danjo Seishi",
+          "category": "Writings",
+          "summary": "Gekkan was the son-in-law of Soma Yoshitane; thus, even during the Battle of Osaki Shimo-shinden, Gekkan's troops fired their matchlock guns without ammunition.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3715,7 +4521,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Battle of Shibukawa in Adachi District",
+          "category": "Writings",
+          "summary": "From the tenth month of Tensho 13 (Year of the Wood Rooster) to the seventh month of Tensho 14 (Year of the Fire Dog), during the siege of Nihonmatsu, as a precaution against attack from a distance of eight cho, Shigezane, then eighteen years old, was stationed at the fortress at Shibukawa.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3738,7 +4549,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Battle of Hitoribashi at Motomiya",
+          "category": "Writings",
+          "summary": "Meanwhile, the generals of Satake, Iwaki, Aizu, and Sendo had been meeting with the Ouchi since the previous day and were said to be preparing to oppose Date; however, they were no match for Masamune's prowess, and as the Ouchi also withdrew to Aizu, Masamune moved to Obama Castle, leaving each of them filled with regret; and taking advantage of the occasion of Terumune's death...",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3761,7 +4577,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Yoshitsugu Nihonmatsu's Petition",
+          "category": "Writings",
+          "summary": "Accordingly, on the 26th day of the same month, at the hour of the Horse, when Masamune was nineteen years old, he moved to Obama Castle.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3784,7 +4605,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Acquisition of the Four Pines",
+          "category": "Writings",
+          "summary": "On September 25 of the same year, Masamune made a sortie to a place called Iwakado in the district of Yonhonmatsu, surveyed the terrain, and considered whether it would be feasible to establish a nearby garrison or launch an attack; if there were any way to capture this castle, he would first cut off the route from Obama to Nihonmatsu—this was the first step...",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3807,7 +4633,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Regarding the Boundaries of Nihonmatsu 8-chome",
+          "category": "Writings",
+          "summary": "While there were clashes at the four pine trees, Nihonmatsu and Hachichome remained unscathed. The details are as stated above.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3830,7 +4661,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Funeral Order and Seven Buddhist Rites",
+          "category": "Writings",
+          "summary": "The burial site was located below the Rear North Hill of Hachiman Shrine, seven or eight cho west of Kakuhan-ji Temple. The path for the funeral was twelve ken wide; the area was marked with red squares of four sun and enclosed by fences on both sides, with straw mats spread within, and cotton laid atop them; then, from within the four gates, white-washed cotton was spread over the cotton.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3853,7 +4689,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Notice of Death Regarding the Second Generation's Submission",
+          "category": "Writings",
+          "summary": "On the 22nd of the same month (May, Kan'ei 13), all those called the attendants of the second generation submitted their written petitions; upon reviewing them and pressing them against my face, I exclaimed, \"My, what a pity!\"",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3876,7 +4717,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Shogun's Attendance at the Medical Treatment",
+          "category": "Writings",
+          "summary": "Accordingly, from the beginning of the Kan'ei era, Masamune established a residence three cho square in the vicinity of Kokubun Sendai in Miyagi, dug a moat thirty ken wide along the outer perimeter, constructed embankments over two jo and several shaku, named the area Wakabayashi, and moved there from Sendai.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3899,7 +4745,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Matters of Illness",
+          "category": "Writings",
+          "summary": "On the 21st of the same month, he departed Shiroishi, and after a day or two of travel, he felt a sense of something unusual.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3922,7 +4773,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Journey to Edo",
+          "category": "Writings",
+          "summary": "From the second and third months of that year, whether on excursions or visiting various places, he would occasionally remark, \"This coming spring will surely be difficult to pass; my solace while in the capital shall end here.\" But when April soon arrived, he said, \"I shall depart on the twentieth of that month.\"",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3945,7 +4801,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Deer Hunting",
+          "category": "Writings",
+          "summary": "On the 19th day of the first month of the 13th year of Kan'ei (Year of the Fire Rat), he departed from Wakabayashi and proceeded to an island called Jugohama, fifteen days' journey ahead, where he went deer hunting.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3968,7 +4829,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Conduct of Masamune Throughout His Life",
+          "category": "Writings",
+          "summary": "As such, I should have always been well aware of the affairs of the ladies of the house; yet, even in public, there were many times when they did not see me. Since both the private and public matters of the house were open and hidden nothing remained hidden; thus, I have recorded here all that I have seen and heard.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -3991,7 +4857,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Actions Taken by Shigezane",
+          "category": "Writings",
+          "summary": "Accordingly, from the beginning of the Kan'ei era, Masamune established a residence three cho square in the vicinity of Kokubun Sendai in Miyagi, dug a moat thirty ken wide along the outer perimeter, constructed embankments over two jo and several shaku, named the area Wakabayashi, and moved there from Sendai.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -4014,7 +4885,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Regarding the Replacement of Witness Aoki Shuri at the Fall of Kotemori Castle",
+          "category": "Writings",
+          "summary": "As dawn broke, I moved the camp to the bamboo residence I mentioned yesterday—a move that was quite unwelcome; furthermore, while it was prudent to do so without notifying Masamune, I moved it today at the Hour of the Rabbit in order to block the paths of Shiroyama and keep the enemy from observing. Thus, Date Ueno-no-kami Masakage also...",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -4037,7 +4913,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Aoki Shuri Tadatsuseji",
+          "category": "Writings",
+          "summary": "In the same July, Shigezane sent a messenger to Yonezawa, stating: \"I have now received word regarding the inquiry from Inawashiro Danjo and his son; the loyalty we had agreed upon has deviated beyond all expectation, and matters have unfolded contrary to my intentions. Furthermore, as the attempt to sever ties with Aizu has met with various setbacks, I request that you first dispatch horses to Yotsumatsu on the Sendo road...\"",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -4060,7 +4941,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Matters Concerning the Care of Nihonmatsu, and Further on the Military Strategy of Inawashiro",
+          "category": "Writings",
+          "summary": "While ties with Aizu had been severed, no such break had occurred with Nihonmatsu, a faction of the Aizu clan, and matters remained peaceful. As for the reason for this, around that time, Shigezane and Chikazane handed over Omori in Shinobu to Shigezane, who then relocated to Hachichome, living secluded from the world.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -4083,7 +4969,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Retirement Grant to Ouchi",
+          "category": "Writings",
+          "summary": "In the same January, when Masamune was eighteen years old, Ouchi said, \"Now that the snow is so deep that construction on the estate cannot proceed, I shall take this opportunity to request leave, make preparations to return to Yotsumatsu, and lead my wife and children with me.\" Masamune heard this...",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -4106,7 +4997,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Matters Concerning Ouchi, Bizen, and Date",
+          "category": "Writings",
+          "summary": "Thus, around that time, in Oshu, the Satake, Shirakawa, Sukagawa, and Ishikawa clans—all of them in bitter conflict—fought against Masamune, the seventeenth-generation head of the Fujiwara Asomi Date line.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -4129,7 +5025,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Table of Contents for Masamune-ki",
+          "category": "Writings",
+          "summary": "This is based on the \"Masamune-ki\" contained in the \"Date Historical Materials Collection\"—or rather, it's a direct copy. Due to copyright issues, I will not post the footnotes from the base text on the site.",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -4152,7 +5053,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Local Watari: List of Articles Related to Shigezane",
+          "category": "Reference & Library",
+          "summary": "No. 31 The Date Disturbance and the Shiga Documents; Seiji Kobayashi; No. 38 Regarding the Family Code \"Jinkaishu\"; Tadashi Terashima; No. 38 Omori Castle Site and the Three Loyalty Monuments; Shuji Tanno; No. 42 Map of Gogyu-date in Watari District—Regarding the copy by Mr. Seizo Sugawara of Date City—Shuji Tanno; No. 44 From Lord Masamune's Letter to Date Awa-no-kami in Watari...",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -4175,7 +5081,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Shigezane Date",
+          "category": "Letters",
+          "summary": "A letter from Shigezane Date. It begins: \"If it is deemed appropriate, I shall send someone immediately tomorrow. Since I shall dig tomorrow and arrive early the day after tomorrow, I request that you station musketeers among the laborers mentioned above. ...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -4198,7 +5109,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Battle of Kotemori Castle",
+          "category": "Battle Records",
+          "summary": "August 1585. Having secured the defection of Aoki Shuri, a retainer of Ouchi Ujitsuna, Shigezane reported the matter to Masamune. Masamune immediately launched a military campaign to subdue the Ouchi.",
+          "cover_alt": "Illustration from a battle chronicle"
+        }
       }
     },
     {
@@ -4221,7 +5137,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Links to Clans of the Ou and Etchu Regions",
+          "category": "Reference & Library",
+          "summary": "A comprehensive chronicle of the Chiba clan, descendants of Emperor Kanmu. For references related to the Date clan, we recommend \"The Chiba Clan of Oshu\" and, among the \"Six Chiba Parties,\" the \"Soma and Takeishi clans.\"",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -4244,7 +5165,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Family of Shigezane Date",
+          "category": "Family",
+          "summary": "Born in Daiei 7 (1527). Commonly known as Togoro. Junior Fifth Rank, Lower Grade; Hyobu-no-daifu. After taking Buddhist vows, he took the name Seiansai. According to one account, he was initially named Naomoto.",
+          "cover_alt": "Family illustration"
+        }
       }
     },
     {
@@ -4267,7 +5193,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Chronicle of the Battles of Shigezane Date",
+          "category": "Battle Records",
+          "summary": "Battle of Kotemori Castle, Awanosu Incident, Battle of Tori-bashi, Battle of Shibukawa Castle, Battle of Tamai-kusa-chogi, Battle of Asaka, Koriyama Standoff, Battle of Surigami-ue, Battle of Sanuma, Bunroku Campaign, Winter Campaign of Osaka, Summer Campaign of Osaka, Capture of Nobezawa Castle",
+          "cover_alt": "Illustration from a battle chronicle"
+        }
       }
     },
     {
@@ -4290,7 +5221,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Retainers of Shigezane Date",
+          "category": "Retainers",
+          "summary": "Listed, for now, in alphabetical order by surname. The reason I say \"for now\" is that I'm not entirely sure of the readings. This list includes retainers whose activities are recorded during Shigezane's lifetime.",
+          "cover_alt": "Illustration of the retainer corps"
+        }
       }
     },
     {
@@ -4313,7 +5249,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Kao of Shigezane Date",
+          "category": "Report",
+          "summary": "While Shigezane Date's kao is well-known for being distinguishable by purpose and period, several variations of Shigezane's kao are also known.",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -4336,7 +5277,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Yoshiyama Koji Family Records, Entry for April 20, Kan'ei 15 (Extract)",
+          "category": "Letters",
+          "summary": "Excerpt from the Yoshiyama Koji Family Records, entry for April 20, Kan'ei 15. The opening reads: \"Issuer: Tadamune; Recipient: Shigezane.\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -4359,7 +5305,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Yoshiyama Koji Family Records, Entry for February 1, Kan'ei 15 (Extract)",
+          "category": "Letters",
+          "summary": "Excerpt from the Yoshiyama Koji Family Records, entry for February 1, Kan'ei 15. The opening reads: \"Issuer: Tadamune; Recipient: Shigezane.\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -4382,7 +5333,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Takeover of Kakuda Castle",
+          "category": "Report",
+          "summary": "This Kakuda seizure incident is perhaps the most misunderstood event concerning Shigezane Date. Specifically, the misunderstanding is—",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -4405,7 +5361,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Period as Lord of Kakuda Castle",
+          "category": "Residences & Castle Towns",
+          "summary": "Kakuda-aza-Ushidate, Kakuda City, Miyagi Prefecture. Also known as Gogyu Castle. It stands on a hill surrounded by wetlands. Built by the Tade clan during the Eiroku era. It also flourished as a port for water transport on the Abukuma River.",
+          "cover_alt": "Illustrations of the residence and castle town"
+        }
       }
     },
     {
@@ -4428,7 +5389,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Books, Guides, and Illustrated Catalogs for General Readers",
+          "category": "Reference & Library",
+          "summary": "2016.1? Mineyuki Okada focuses on the Tomita family—one of the senior retainers who served the Ashina clan of Motonomori and were known as the \"Four Heavens\"—depicting the Aizu Tomita and Asaka Tomita families as they were tossed about by the conflicts between the Ashina and Date clans during the Sengoku period.",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -4451,7 +5417,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Archived Entry from the Teizan-ko Jike Records, January 21, Keicho 19: Summary of a Letter by Date Tadamune",
+          "category": "Letters",
+          "summary": "Entry for January 21, Keicho 19, from the Teizan-ko Jike Kiroku: a summary of a letter from Date Tadamune. The opening reads: \"Regarding the visit of the U-hyoe (name unknown), I am deeply grateful for your letter. I am thus pleased to learn that I have been granted a fief. ...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -4474,7 +5445,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Great East Japan Earthquake",
+          "category": "1611 Sanriku Earthquake",
+          "summary": "Furatto Tohoku / Kokoro no Watari Town Residents' Association / Sendai Strawberry Revitalization Support Project / Onemore — Memories for the Future",
+          "cover_alt": "Illustration of the Keicho Sanriku Earthquake"
+        }
       }
     },
     {
@@ -4497,7 +5473,13 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Biography of Shigezane Date from the \"Sendai-han Jinbutsu Soshi\"",
+          "subtitle": "Biographies of Figures of the Sendai Domain",
+          "category": "Biography & Chronology",
+          "summary": "Shigezane Date, commonly known as Togoro and later as Awa, served Masamune Date and held the rank of Jojo; he was a man of fortitude and courage, embodying the three virtues of wisdom, benevolence, and bravery.",
+          "cover_alt": "Illustrations for Biography and Timeline"
+        }
       }
     },
     {
@@ -4520,7 +5502,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "June 14, Kan'ei 10? Letter by Shigezane Date",
+          "category": "Letters",
+          "summary": "June 14, Kan'ei 10? Letter from Shigezane Date. The opening reads: \"Regarding the wedding of Lord Jibu-no-tasuke, I have received sake and appetizers for the long journey. I am most grateful. I shall visit Wakabayashi without stopping. As this is a matter concerning □□, I humbly submit it for your consideration. With utmost respect.\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -4543,7 +5530,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Anecdotes about Shigezane Date",
+          "category": "Anecdotes",
+          "summary": "Anecdotes: 'Shigezane Enjoys Gambling Sumo,' 'He Never Grew a Beard in His Life,' 'Lord Shigezane Damages the Pillar.'",
+          "cover_alt": "Illustration of an anecdote"
+        }
       }
     },
     {
@@ -4566,7 +5558,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Kan'ei 11, February 28: Official Decree",
+          "category": "Letters",
+          "summary": "Kan'ei 11, February 28, official decree. The opening reads: \"Matters hereby established regarding fires.\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -4589,7 +5586,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "May 7, date unknown: Letter from Shigezane Date",
+          "category": "Letters",
+          "summary": "May 7, year unknown. Letter from Shigezane Date. It begins: \"Having returned yesterday, I sent a letter, only to be informed that you were away, so I left it aside and returned. Therefore, here in the village of Umekibukuro, there is a man named Tsugiemon...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -4612,7 +5614,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Copy of a letter from Okuyama Daigaku and Ishimoda Daizen, October 3, Kan'ei 6",
+          "category": "Letters",
+          "summary": "October 3, Kan'ei 6. Copy of a letter from Okuyama Daigaku and Ishimoda Daizen. The opening reads: \"Having been dispatched from □□□□, Sato Jinzaburo and Ojo □□ have been dispatched aboard two flatboats. As for this occasion, □□□□ is to be sent to Marumori...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -4635,7 +5642,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Kan'ei 2? February 6, Letter by Shigezane Date",
+          "category": "Letters",
+          "summary": "Kan'ei 2? February 6, letter from Shigezane Date. The opening reads: \"I received the sealed letter dated the day before yesterday yesterday. Regarding Kokita Echizen, who returned to Nanbu, I stipulated a three-year deferment for Jiroemon, stating it would be like an overnight stay...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -4658,7 +5670,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "November 29, date unknown: Letter from Shigezane Date",
+          "category": "Letters",
+          "summary": "November 29, date unknown. Letter from Shigezane Date. The opening reads: \"As your esteemed letter indicates, we have not held discussions until recently; this is most unexpected. My elderly father (Sanemoto) remains encamped there to this day. Regarding that matter of reconciliation... the arrangements...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -4681,7 +5698,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Tsunetaka Iwaki, May 17, Tensho 18",
+          "category": "Letters",
+          "summary": "Letter from Iwaki Tsunetaka, May 17, Tensho 18. The opening reads: \"I shall certainly convey this in person. Your great efforts while I am away in the capital are truly commendable. That said, I remain utterly vigilant. Therefore...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -4704,7 +5726,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Addendum—Date City, Hokkaido",
+          "category": "Residences & Castle Towns",
+          "summary": "During the Meiji period, the Watari Date family settled in the Iburi region of Hokkaido—present-day Date City. The entire clan relocated together. Consequently, there are many documents and historical records preserved here.",
+          "cover_alt": "Illustrations of the residence and castle town"
+        }
       }
     },
     {
@@ -4727,7 +5754,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Battle of Hitotori Bridge",
+          "category": "Battle Records",
+          "summary": "In retaliation for the sudden death of Terumune, the various clans of the Sendo region formed a coalition against Masamune, who had begun the campaign to capture Nihonmatsu. Battles broke out around Takakura and Motomiya.",
+          "cover_alt": "Illustration from a battle chronicle"
+        }
       }
     },
     {
@@ -4750,7 +5782,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Resource Guide: Materials Related to the Keicho Mission to Europe",
+          "category": "Reference & Library",
+          "summary": "Written by Mitsuoki Sudo. Hobun-do. June 29, 2002. Solving the mystery of the Bautista's construction site from a technical perspective. Absolutely fascinating.",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -4773,7 +5810,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Children of Harumune Date",
+          "category": "Family",
+          "summary": "This is \"The Children of Harumune Date\" from the original site \"Shigezane Zanmai.\" Since the main content is posted as images (family trees) on the original site, no transcription has been performed; only a link to the original page is provided.",
+          "cover_alt": "Family illustration"
+        }
       }
     },
     {
@@ -4796,7 +5838,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Archaeological, Excavation, and Cultural Property Survey Reports",
+          "category": "Reference & Library",
+          "summary": "Survey reports from across the country are published in the Comprehensive Directory of National Archaeological Site Reports. Plus, they're available as PDFs! However, Fukushima Prefecture isn't included.",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -4819,7 +5866,13 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "For First-Time Visitors",
+          "subtitle": "Shigezane Date and How to Navigate This Site",
+          "category": "Guide",
+          "summary": "What kind of warlord was Shigezane Date, and where can you read the 319 available documents? This is the introductory article for \"Neo Shigezane Zanmai,\" providing a recommended reading order.",
+          "cover_alt": "Illustration for beginners"
+        }
       }
     },
     {
@@ -4842,7 +5895,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, November 18, Kan'ei 6",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, November 18, Kan'ei 6. The opening reads: \"I have delivered the tea caddy as promised. I delayed without taking advantage of this brief window. I have acted contrary to my original intention. Before my trip to Edo, had I secured even a moment's respite, I would have visited at once and met with my entourage...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -4865,7 +5923,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, January 4, Tensho 15",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, January 4, Tensho 15. The opening reads: \"The day before yesterday, I sent a messenger to collect the items. In particular, I viewed the (gold radical plus shell) and was quite satisfied. At the start of the year, this is only fitting. Now then...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -4888,7 +5951,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, October 9, Kan'ei 6",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, October 9, Kan'ei 6. The opening reads: \"Yesterday, I visited out of courtesy and was pleased to receive your hospitality. Accordingly, a tea jar has arrived from the Kamigata region. Privately, at the Nishi-kuruwa, I have been mindful of the opening ceremony, but the construction has not yet been completed...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -4911,7 +5979,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Shigezane Date's Armor and Camp Jacket",
+          "category": "Report",
+          "summary": "There are several items said to be the armor and camp coats of Shigezane Date.",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -4934,7 +6007,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Is the theory that Masamune and Date were schoolmates true?",
+          "category": "Report",
+          "summary": "Since this has become something of an established view, it may be tactless of me to say this, but whether Shigezane was Masamune's schoolmate since the days of Bontenmaru is quite—quite doubtful.",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -4957,7 +6035,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Entry for July 26, Genna 2, in the Teizan-ko Jike Kiroku: Summary of a Letter by Date Tadamune",
+          "category": "Letters",
+          "summary": "Entry for July 26, Genna 2, from the Teizan-ko Jike Records: Summary of a letter from Date Tadamune. The opening reads: \"I received a reply from the heir to Lord Date Awa.\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -4980,7 +6063,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Entry for July 19, Genna 2, in the Teizan-ko Jike Kiroku: Summary of a Letter by Date Tadamune",
+          "category": "Letters",
+          "summary": "Entry for July 19, Genna 2, from the Teizan-ko Jike Records: Summary of a letter from Date Tadamune. The opening reads: \"Having received a reply from the heir to Lord Date Awa,\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5003,7 +6091,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Other Reference Links",
+          "category": "Reference & Library",
+          "summary": "Content from the Fukushima River and National Highway Office. It also includes information on the history of the Abukuma River basin, among other things.",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -5026,7 +6119,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Shigezane Date, November 4, Tensho 17",
+          "category": "Letters",
+          "summary": "Letter from Shigezane Date, November 4, Tensho 17. The opening reads: \"I write to you urgently. Accordingly, within the camp, there has been a growing sense of estrangement among us. I am deeply concerned. Accordingly, messengers have been dispatched from Kurokawa and Sukagawa to deliver this to the camp...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5049,7 +6147,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Tale of Yamaguchi Dosai (Excerpt)",
+          "category": "Battle Records",
+          "summary": "Memoirs of Yamaguchi Inonojo, a former retainer of Hatakeyama Yoshitsugu, compiled starting in 1981 for \"History of Nihonmatsu City, Vol. 3: Materials on the Primitive, Ancient, and Medieval Periods.\" The base text is reportedly included in the Sendai Sosho.",
+          "cover_alt": "Illustration from a battle chronicle"
+        }
       }
     },
     {
@@ -5072,7 +6175,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Lord Shigezane Date damages the pillar",
+          "category": "Anecdotes",
+          "summary": "The completed Sendai Castle. \"The moon only waxes and wanes,\" Shigezane remarked, as he struck the main pillar with his axe. While the other retainers marveled, wondering if he had lost his mind, Masamune simply smiled and said, \"Good.\"",
+          "cover_alt": "Illustration of an anecdote"
+        }
       }
     },
     {
@@ -5095,7 +6203,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Shigezane Date, August 4, date unknown",
+          "category": "Letters",
+          "summary": "Letter from Shigezane Date, August 4, date unknown. The opening reads: \"Regarding the residence there, since the moat on the Domachi side has been filled in, the estate has been encroached upon by about two ken. While this is indeed the case, when viewed from the west, the view...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5118,7 +6231,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Bibliographic Information for the Date Nikki, Masamune-ki, and Shigezane-ki",
+          "category": "Reference & Library",
+          "summary": "The biography of Masamune Date written by Shigezane Date is generally referred to as the \"Masamune-ki\" or the \"Shigezane-ki.\" This biography is broadly divided into two distinct versions.",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -5141,7 +6259,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Date Diary",
+          "category": "Writings",
+          "summary": "1. On the 26th, Lord Masamune to Obama Castle... (Hatakeyama Yoshitsugu seeks refuge with Date Sanemoto) 1. On the evening of the 6th, Lord Terumune... (The end of Terumune)",
+          "cover_alt": "Illustrations from the work"
+        }
       }
     },
     {
@@ -5164,7 +6287,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Table of Contents for the Historical Records of the Date Clan",
+          "category": "Reference & Library",
+          "summary": "Here is the table of contents for *Date-ke Shiso Sodan*. After all, it's hard to take the plunge and buy an expensive book without knowing what it's about. If you're considering purchasing it, please use this as a reference.",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -5187,7 +6315,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Reference Materials: Retainers",
+          "category": "Reference & Library",
+          "summary": "A biography of Priest Toraya, written by Yoshikazu Kanda. His childhood name was reportedly Torachiyo.",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -5210,7 +6343,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Date-related links",
+          "category": "Reference & Library",
+          "summary": "The library on Masamune is incredibly extensive. It's great that it includes book reviews.",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -5233,7 +6371,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Shigezane Date, January 16, Kan'ei 10",
+          "category": "Letters",
+          "summary": "Letter from Shigezane Date, January 16, Kan'ei 10. The opening reads: \"1. Should any difficult matters arise in the world, I inquire as to how many people I should bring along—specifically, I refer to you.\" \"That is what I intend to state...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5256,7 +6399,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Resource Guide & Manga",
+          "category": "Reference & Library",
+          "summary": "Listed in order of publication date. Older entries are at the bottom. Comics with two or more volumes are sorted by the publication date of the first volume.",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -5279,7 +6427,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Fortress-Related Links",
+          "category": "Reference & Library",
+          "summary": "A database of castles in Ou, from ancient to early modern times, centered on Miyagi Prefecture.",
+          "cover_alt": "Illustration from the Reference and Archives"
+        }
       }
     },
     {
@@ -5302,7 +6455,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Record of Military Anecdotes, Episode 111",
+          "category": "Report",
+          "summary": "Usami Sadayuka was known as his father, Etchu-no-kami Takatada. Takatada was a senior retainer to Uesugi Sagami-no-kami Fusasada Nyudo Jotai, the lord of Echigo Province.",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -5325,7 +6483,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Record of Military Anecdotes, Episode 110",
+          "category": "Report",
+          "summary": "At Ippaku-dono in Echizen, there was a messenger named Oida Kanmono. He was originally a ronin of the Uesugi clan. According to what this Kanmono's grandson recounted,",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -5348,7 +6511,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Record of Military Anecdotes, Episode 109",
+          "category": "Report",
+          "summary": "My ancestor, Sugihara Hitachi-no-suke Chikanori, was a meritorious retainer for generations, from Uesugi Kenshin to Kagekatsu. Having heard detailed accounts of the Uesugi clan, the bamboo-and-sparrow crest was originally the crest of the Uesugi clan.",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -5371,7 +6539,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Yorin-ji Temple: Gravestone of Shigezane Date, Inscription",
+          "category": "Family",
+          "summary": "A stone monument erected by Kuninari Date, head of the Watari Date family during the Bakumatsu period, stands beside the grave of Jitsugen at Yorin-ji Temple. In the first year of Keio, on his return from the defense of Edo Castle, he visited Yorin-ji Temple and made a vow.",
+          "cover_alt": "Family illustration"
+        }
       }
     },
     {
@@ -5394,7 +6567,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Fire at the Date Awa Residence and Sakanamachi",
+          "category": "Report",
+          "summary": "On February 23, Kan'ei 11, after Shigezane hosted Masamune, a fire broke out at Shigezane's residence.",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -5417,7 +6595,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Awanosu Incident: Comparison Table",
+          "category": "Report",
+          "summary": "This is a table I created while writing \"Incident—Millet Nest—\". It's a bit hard to read, but I'm leaving it here. Since it's just a memo, I've pulled in parts of the original text and used paraphrases ^^;",
+          "cover_alt": "Report illustration"
+        }
       }
     },
     {
@@ -5440,7 +6623,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "The Awanosu Incident",
+          "category": "Battle Records",
+          "summary": "The incident on October 8, Tensho 13, in which Terumune Date was abducted by Yoshitsugu Hatakeyama at Miyamori Castle, and both perished at Awanosu (Hiraishi Takada, Nihonmatsu City).",
+          "cover_alt": "Illustration from a battle chronicle"
+        }
       }
     },
     {
@@ -5463,7 +6651,13 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "A Biography of Shigezane Date Based on the \"Arisaka Documents\"",
+          "subtitle": "Arisaka Documents",
+          "category": "Biography & Chronology",
+          "summary": "Having read in a certain book regarding the matter of Arisaka Tanba Homare, I have extracted the relevant points and recorded them below. Several entries in the Masamune Record were written by Date Awa-no-kami Shigezane.",
+          "cover_alt": "Illustrations for Biography and Timeline"
+        }
       }
     },
     {
@@ -5486,7 +6680,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, December 15, Tensho 14",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, December 15, Tensho 14. The opening reads: \"Since then, there has been no word, and I am growing anxious. Now then, I hear that the construction at Ni (Nihonmatsu) is currently in full swing; I imagine the great effort involved by all ranks. Accordingly, shortly, Ta (Tamura)…\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5509,7 +6708,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, January 27, Tensho 19",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, January 27, Tensho 19. The opening reads: \"I hereby send this urgent message by courier. Furthermore, I arrived in Kiyosu yesterday, the 27th. The Lord is presently at Takano and is expected to return at the hour of the Rooster. That is, the envoy...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5532,7 +6736,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, September 25, Tensho 14",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, September 25, Tensho 14. The opening reads: \"Regarding the matter □□ brought up, □□ has inquired. This is in addition to the original □□. This time, Shigezane has promptly moved to Nihonmatsu. Public perception and internal affairs are both of paramount importance. As such...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5555,7 +6764,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, October 6, Tensho 18",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, October 6, Tensho 18. The opening reads: \"You have gone to the trouble of sending a courier; this is a most welcome occasion. I have heard that there should be no delay. I have neither the strength nor the means. Furthermore, please exercise all due discretion regarding Asaka...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5578,7 +6792,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, October 3, Tensho 18",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, October 3, Tensho 18. The opening reads: \"I write to you by way of this fortunate opportunity. This morning, I received a letter from Asadan as follows. It appears that a guide has been dispatched to Aizu and is reporting that things are proceeding favorably in various respects...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5601,7 +6820,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, September 29, Tensho 18",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, September 29, Tensho 18. The opening reads: \"Regarding the matter of proceeding to the capital, I have received word that I may accompany you. Though this is the first time, I find it utterly reassuring. Furthermore, as for what arrangements should be made...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5624,7 +6848,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, September 22, Tensho 18",
+          "category": "Letters",
+          "summary": "September 22, Tensho 18. Letter from Masamune Date. The opening reads: \"A letter from Chuzaburo-dono; I was invited to view it. I consider it a trivial matter. At the same time, I do not find it burdensome. Furthermore, the Sendo Diary has arrived via Asadan from some source. Nearby...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5647,7 +6876,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, August 27, Tensho 18",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, August 27, Tensho 18. The opening reads: \"Atago also looks on; while I should now be speaking in person, I have interposed to convey this in detail; it is the utmost of my wishes. As for the matters of Asaka and Sukagawa, as...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5670,7 +6904,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, June 9, Tensho 18",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, June 9, Tensho 18. The opening reads: \"Having attended court today, the 9th, at the hour of the Snake, I am most fortunate beyond measure; it is truly beyond words. That the Kanpaku himself personally devoted so much heart and soul to the matter—I am utterly speechless. Truly...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5693,7 +6932,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, May 8, Tensho 18",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, May 8, Tensho 18. The opening reads: \"I have carefully read your letter, which I welcome most heartily. As for the situation in Odawara, I understand that it remains unchanged and is firmly held. However, as for whether...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5716,7 +6960,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, February 14, Tensho 18",
+          "category": "Letters",
+          "summary": "February 14, Tensho 18. Letter from Masamune Date. The opening reads: \"I have carefully perused your kind letter; it is a most welcome sight. Regarding the matter of Soma, Nakai (Nakajima Ise) has also come to visit, and in detail...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5739,7 +6988,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, January 7, Tensho 18",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, January 7, Tensho 18. The opening reads: \"As intended, the auspicious omens of the New Year's change have not fully passed. A folding fan has arrived; long live the realm. I have repeatedly read letters from Soma Nyosetsu. As stated, the south gate...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5762,7 +7016,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, October 22, Tensho 17",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, October 22, Tensho 17. The opening reads: \"Regarding the matter at Obarada, I hastened forth for the purpose of replacing the witness; as I stated during our direct conversation yesterday, this is the primary concern. Aside from these instructions...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5785,7 +7044,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, May 14, Tensho 17",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, May 14, Tensho 17. The opening reads: \"Having received reports regarding your arrival in accordance with both channels, I believe that deliberations concerning the Tamura (Tamura) boundary will inevitably take place; therefore, it would be appropriate to proceed promptly to the Tamura (Tamura) area. Respectfully...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5808,7 +7072,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, March 21, Tensho 17",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, March 21, Tensho 17. The opening reads: \"While matters are pending, I send this letter in a single document. Now, regarding the matter of opening the passage at Tamura Kamimata (Shikamata), if the matter is delayed, as to how various matters will proceed, there are no objections, starting with the Asaka entrance...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5831,7 +7100,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, March 19, Tensho 17",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, March 19, Tensho 17. The opening reads: \"While I ought to state my thoughts from hereon, I am delighted to receive this brief note. Furthermore, it is a great joy that the matter regarding Kata (Katahira) has been settled. Additionally, Kojuro...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5854,7 +7128,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Date Masamune's Correspondence, Year/Month/Day Unrecorded, 30th",
+          "category": "Letters",
+          "summary": "Date: [Month] [Day], 30 days before birth. Message from Masamune Date. The opening reads: \"I intend to send a messenger from here, but I have been delayed, preoccupied with things like washing; thus my reply is belated. Regarding the letter to you, I shall specially enjoy the rare quail and trout. [Signature]...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5877,7 +7156,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Date: [Month] [Day] — Message from Masamune Date",
+          "category": "Letters",
+          "summary": "Date: [Month] [Day], 12th. Correspondence from Masamune Date. The opening reads: \"I trust we shall meet early today. The weather for tomorrow remains uncertain. Therefore, leaving it to your discretion, I send three types of appetizers. Kashiku.\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5900,7 +7184,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, October 4, Kan'ei era",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, dated the 4th day of the 10th month during the Kan'ei era. It begins: \"In the vicinity of Kasajima in Natori, there are six or seven cranes. Although I have used hawks to※ them, they are too old and have proven ineffective. I have driven them away, hoping to find a suitable place...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5923,7 +7212,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "July 28, Kan'ei 1 or 4? Letter by Masamune Date",
+          "category": "Letters",
+          "summary": "July 28, Kan'ei 1 or 4? Letter from Masamune Date. The opening reads: \"Yesterday, I dispatched a courier here for river hunting and patrolling. In particular, various types of game were brought back. I had them taste the rare delicacies found in the mountains. As for this matter, heaven...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5946,7 +7240,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, January 24, Tensho 17",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, January 24, Tensho 17. The opening reads: \"I have heard the matter concerning the Tamura retainers. Having felt uneasy after receiving the report the other day, I have now read the letter in detail and find that the Tamura retainers are, first and foremost, entirely at fault...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5969,7 +7268,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, March 28, Tensho 19",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, March 28, Tensho 19. The opening reads: \"As this letter finds you well, I write a brief note. I hear that all is proceeding without incident during your absence. In the end, I am most pleased that you remain in good health. Regarding the affairs of the province...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -5992,7 +7296,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, May 4, Tensho 16",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, May 4, Tensho 16. The opening reads: \"While I was prepared to respond immediately, matters of a discussion that was difficult to set aside were brought up, causing a delay. Now, word has also reached me here from Koriyama, and—\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6015,7 +7324,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, undated, mid-Kan'ei, 22nd day of the month",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, dated the 22nd of an unknown month in the mid-Kan'ei era. The opening reads: \"I have duly shown you the letters addressed to Chuzaburo. As the 28th is a sheep day, the 27th is appropriate. I have just now sent word to Izumo, ...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6038,7 +7352,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, November 3, Kan'ei era",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, dated the 3rd day of the 11th month of the Kan'ei era. It begins: \"Regarding the matter for tomorrow morning, I shall attend at the hour of the Sixth. Your understanding is entirely appropriate. On the morning of the 9th, I shall present tea. Minbu-no-tasuke (Ishikawa Munetaka), Bushu (Date Munetoshi)...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6061,7 +7380,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, October 25, Kan'ei era",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, dated the 25th day of the 10th month of the Kan'ei era. It begins: \"As a matter of courtesy for the coming morning, I have received word that you have just entered the castle. Accordingly, regarding the items of connoisseurship within this letter, I humbly request that you be granted permission to view them...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6084,7 +7408,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, October 1, Kan'ei era",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, dated the 10th month, 1st day of the Kan'ei era. The opening reads: \"I have carefully reviewed the letter from Boshu. As there are no grounds for objection—namely, regarding the matter of duties, I intend to grant a lifelong license for 200 kan. To that end, I humbly request...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6107,7 +7436,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, September 16, Kan'ei era",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, dated the 16th day of the 9th month during the Kan'ei era. It begins: \"I understand that you are currently staying here and are preparing for the construction work. As for this hishi-kui, on the 7th, a hawk from the Natsutoriya emerged and stopped by here once...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6130,7 +7464,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, September 10, Kan'ei era",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, dated the 10th day of the 9th month during the Kan'ei era. It begins: \"As the gods of Japan also look upon this, I deem it fitting to report the following: salmon have gathered below; upon hearing this, I hastened forth to report it...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6153,7 +7492,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, September 5, Kan'ei era",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, dated the 5th day of the 9th month during the Kan'ei era. It begins: \"Last night, you went as far as Manazuru. I am truly delighted that such matters have occurred so frequently. I wish to hear about the matters discussed. During the seasonal festivals, in person and otherwise...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6176,7 +7520,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, May 28, Kan'ei era",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, dated the 28th day of the 5th month during the Kan'ei era. It begins: \"It is only fitting that you remain here to recuperate from an illness. I have received word that you will finally be able to return to your castle in Watari around tomorrow. ...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6199,7 +7548,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, February 23, Kan'ei era",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, dated February 23, Kan'ei era. The opening reads: \"Regarding the matter of Jibu-no-daifu contracting smallpox, I am delighted to hear that you have been making your rounds these past few days. I am most pleased that the illness is mild. Furthermore, I have received further auspicious news...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6222,7 +7576,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, June 21, Kan'ei 12",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, June 21, Kan'ei 12. The opening reads: \"I have received your letter. Despite the severe illness in Echizen, it recovered sooner than expected, for which I am most grateful. Today, the 21st, orders were issued for all matters to be settled, and the...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6245,7 +7604,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, October 22, Tensho 16",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, October 22, Tensho 16. The opening reads: \"Namely, while this matter was to be addressed via a circular letter, it has been entirely withheld, and thus there is no need for it. It is of utmost importance that the Asaka region and the Tamura district remain peaceful...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6268,7 +7632,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, June 22, Kan'ei 11",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, June 22, Kan'ei 11. The opening reads: \"I have read the letter dated the 7th of this month today, the 22nd, at the hour of the Horse, in Kyoto. As I am young this year, please be mindful of my wishes. My arrival in the capital has been delayed. Now...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6291,7 +7660,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, March 9, Kan'ei 11",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, March 9, Kan'ei 11. The opening reads: \"I have had some business to attend to and have dispatched [someone] to Wakasa. I have given explicit instructions. As for the journey to Edo, an auspicious day has been chosen, so I intend to depart from here on the 19th of this month. ...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6314,7 +7688,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "February 24, Kan'ei 11? Letter by Masamune Date",
+          "category": "Letters",
+          "summary": "February 24, Kan'ei 11? Letter from Masamune Date. The opening reads: \"Now then, an unexpected fire has broken out, leaving me with no choice. Are the tea and flower containers safe? Yesterday was the finest weather in Japan, and the Noh performances were excellent and truly precious. Previously...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6337,7 +7716,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "October 28, Kan'ei 10? Letter by Masamune Date",
+          "category": "Letters",
+          "summary": "October 28, Kan'ei 10? Letter from Masamune Date. The opening reads: \"A letter from the Echizen region, dated the 25th at the hour of the Rooster, has just arrived. His Majesty's health has improved markedly since the 24th, and the meals have been served well...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6360,7 +7744,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, August 7, Kan'ei 10",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, August 7, Kan'ei 10. The opening reads: \"Regarding the first hishi-kui: Lord Minbu-no-tasuke arrived before nightfall, and since hishi-kui was struck on the same day, I find it particularly satisfactory, as if I had previously been mindful of it. Two...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6383,7 +7772,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "May 2, Kan'ei 10? Letter by Masamune Date",
+          "category": "Letters",
+          "summary": "May 2, Kan'ei 10? Letter from Masamune Date. The opening reads: \"As you are currently here, I shall see you during the festival season. Accordingly, I present this kara; though it is a small piece, I offer it to you. On last year's ship as well...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6406,7 +7800,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "February 24, Kan'ei 9? Letter by Masamune Date",
+          "category": "Letters",
+          "summary": "February 24, Kan'ei 9? Letter from Masamune Date. The opening reads: \"Regarding the matter of the marriage arrangement for Jibu-no-daifu, a messenger has been dispatched, and I have given my approval. The daughter of Shirakawa Kunai-no-daifu is entirely suitable. Please proceed with the arrangements promptly...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6429,7 +7828,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, January 31, Kan'ei 9",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, January 31, Kan'ei 9. The opening reads: \"I am pleased to receive this urgent message. The Chancellor passed away on the night of the 24th. However, as I am safe and sound here, you may rest assured. At any time...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6452,7 +7856,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, intercalary 10th month, 14th day, Kan'ei 8",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, intercalary 10th month, 14th day, Kan'ei 8. The opening reads: \"The crane—of which there has been none here until now—has arrived; this is a rare occurrence, most especially a cause for great joy. Next month, around the 10th, I shall depart for Edo...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6475,7 +7884,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "May 16, Kan'ei 7: Black-seal Letter Granting Landholdings",
+          "category": "Letters",
+          "summary": "May 16, Kan'ei 7: Black-seal document granting land holdings. The opening reads: \"1. 23 kan 670 mon; Mayumi Village within Shinchi; 1 volume.\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6498,7 +7912,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, July 14, Kan'ei 6",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, July 14, Kan'ei 6. The opening reads: \"As a gesture of gratitude for the nesting hawks, I have granted Haneda Uhyo. In particular, I have ensured his satisfaction, just as stated in the formal address. Now, as for the Shogun's health, may he recover his strength day by day...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6521,7 +7940,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, May 2, Kan'ei 6",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, May 2, Kan'ei 6. The opening reads: \"I have not sent any letters among these. Therefore, as the original enclosed room here was inconvenient, I have ordered it to be remodeled, and it is now complete. On the morning of the 6th of this month...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6544,7 +7968,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, February 11, Kan'ei 6",
+          "category": "Letters",
+          "summary": "February 11, Kan'ei 6. Letter from Masamune Date. The opening reads: \"Last night, when I visited Yokogawa, I heard that you were visiting the former site, but I did not meet you, and I regret that I missed the opportunity. Today, as the party is not all assembled, hunting...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6567,7 +7996,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, September 2, Kan'ei 5",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, September 2, Kan'ei 5. The opening reads: \"Once again, I have been granted a dish of hishi-shoku. On this occasion, guests arrived, and I was provided with a special meal. Specifically, regarding the matter of Lord Inoue Masanari's passing...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6590,7 +8024,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Draft letter by Masamune Date, March 27, Kan'ei 5",
+          "category": "Letters",
+          "summary": "Draft of a letter by Masamune Date, March 27, Kan'ei 5. The opening reads: \"Regarding the Shogun's arrival on the 12th, a courier was specifically dispatched; it was a welcome occasion. Yesterday, the 26th, the Shogun arrived and remained in high spirits throughout the day...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6613,7 +8052,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Copy of a letter by Masamune Date, November 17, Tensho 13",
+          "category": "Letters",
+          "summary": "Copy of a letter by Masamune Date, dated November 17, Tensho 13. It begins: \"Now, today, in the battle at the Kannon Hall, with your small force, you engaged the enemy—who had the enemy at their backs and were aided by a large army from Arai—and fought in a manner unparalleled...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6636,7 +8080,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, May 6, Tensho 16",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, May 6, Tensho 16. The opening reads: \"Recently, I have been making successive representations through Han-in (Haneda Inaba). Around the 10th, I intended to send someone out, but the timing was not auspicious...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6659,7 +8108,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, October 11, Kan'ei 2",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, October 11, Kan'ei 2. The opening reads: \"Recently, Kayaba Genbei was brought before me; I inquired directly about the condition of the firearms. Although he has no master, through natural training, he will surely become proficient...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6682,7 +8136,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, August 27, Kan'ei 2",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, August 27, Kan'ei 2. The opening reads: \"The first black crane has been delivered; it has just arrived at the hour of the Snake. This is because I have always been deeply mindful of it. I shall present it to the Shogun....\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6705,7 +8164,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "March 30, Kan'ei 2 (?): Letter from Masamune Date",
+          "category": "Letters",
+          "summary": "March 30, Kan'ei 2 (?), letter from Masamune Date. The opening reads: \"While there is no particular occasion, I write to you. My departure for Edo is set for the 9th. I trust you will understand. Regarding an auspicious day prior to the 9th...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6728,7 +8192,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, May 1, Tensho 16",
+          "category": "Letters",
+          "summary": "May 1, Tensho 16. Letter from Masamune Date. The opening reads: \"Having consulted with Shiroishi (Munemi Shiroishi), I accept the matter as stated in the written document. Regarding the march to Yasu (Asaka)-guchi, Ishidan (Danjo Ishikawa) to Kotemori...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6751,7 +8220,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, August 21, Genna 8",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, August 21, Genna 8. The opening reads: \"I hereby send this in my own handwriting. Today, the 21st, by order from the castle, regarding Mogami Gengoro—those of senior rank and juniors who have been dispatched to Edo for service...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6774,7 +8248,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, February 13, Genna 7",
+          "category": "Letters",
+          "summary": "February 13, Genna 7. Letter from Masamune Date. The opening reads: \"I write to you by urgent courier. Regarding the recent fire, as assistance from the Shogun, I have received 500 kanme of silver, and 200 kanme for the Mimasaka domain...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6797,7 +8276,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, September 20, Genna 6",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, September 20, Genna 6. The opening reads: \"I am most pleased to hear that the construction at your place is finally nearing completion, and that the layout has been decided. Above all, I regret that the various towns and districts have been damaged; as for myself...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6820,7 +8304,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "September 1, Genna 6: Letter from Masamune Date",
+          "category": "Letters",
+          "summary": "September 1, Genna 6. Letter from Masamune Date. The opening reads: \"Regarding the construction at your place, I understand that the work has been slightly delayed due to the recent heavy rains, and I imagine you may be feeling uneasy. Now, as this is my first time visiting, I send one shaku of salmon. The road...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6843,7 +8332,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, August 13, Genna 6",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, August 13, Genna 6. The opening reads: \"I have dispatched Wakasa to inspect the construction work there. He has arrived safely. As this concerns only a minor matter, it goes without saying, but one must remain vigilant...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6866,7 +8360,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, June 18, Genna 6",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, June 18, Genna 6. The opening reads: \"Regarding the construction work at your place, I have sent further correspondence, as well as a letter to the three individuals, to follow up. The Shogun visited the construction site on the 10th, and...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6889,7 +8388,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, May 21, Genna 6",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, May 21, Genna 6. The opening reads: \"Though you visited me the day before yesterday and we should have spoken in person, as I mentioned in my previous letter, there is nothing particularly new to discuss, and in order to make preparations, a moment...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6912,7 +8416,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, May 17, Genna 6",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, May 17, Genna 6. The opening reads: \"I trust this letter reaches you swiftly. As we have now been commissioned to undertake construction projects in Edo, while it is my sincere intention that we should meet in person to convey our intentions, ...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6935,7 +8444,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, March 8, Tensho 16",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, March 8, Tensho 16. The opening reads: \"Regarding that oral report, Shiro (Munemi Shiroishi) has sent a detailed letter. Since the Naeshiroda affair, I have continued to urge him to be prepared; now, how could he possibly waver...?\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6958,7 +8472,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, July 7, Genna 4",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, July 7, Genna 4. The opening reads: \"Yesterday, I went to Ne-no-Shiroishi for river fishing; the ayu I caught were somewhat large, so I have sent twenty of them. They should be quite delicious. I visited at an opportune time, and rain...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -6981,7 +8500,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, June 4, Genna 4",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, June 4, Genna 4. The opening reads: \"This morning, matters regarding Iwami (Maniwa Tsunamoto) were settled; I shall certainly speak with the four individuals. As for how it stands if we do not bring them together at once...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7004,7 +8528,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Genna 3? Mid-June: Letter from Masamune Date",
+          "category": "Letters",
+          "summary": "Genna 3? Mid-June. Letter from Masamune Date. The opening reads: \"The day before yesterday, my mouth became unbearably sore and my tongue would not move, leaving me unable to meet you. Therefore, on the morning of the 11th, I wish to offer you tea. Washu (Ishikawa...).\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7027,7 +8556,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, April 20, Genna 2",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, April 20, Genna 2. The opening reads: \"I take great pleasure in receiving your special messenger. Accordingly, the Chancellor passed away on the 17th of this month at the hour of the Horse. As his will stipulated, we should offer our congratulations to the deity...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7050,7 +8584,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "July 12, date unknown: Letter from Masamune Date",
+          "category": "Letters",
+          "summary": "July 12, date unknown. Letter from Masamune Date. The opening reads: \"Regarding Umatsumaru's departure, he has come here and reportedly inquired at the residence yesterday; we have left him satisfied. As I mentioned privately, I offered him some tea...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7073,7 +8612,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "May 27, date unknown: Letter from Masamune Date",
+          "category": "Letters",
+          "summary": "May 27, date unknown. Letter from Masamune Date. The opening reads: \"Since then, I have not written to you; I trust you must be finding it tedious during the rainy weather. It now appears that the weather will finally clear. Regarding your visit to the castle tomorrow...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7096,7 +8640,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "March 26, date unknown: Letter from Masamune Date",
+          "category": "Letters",
+          "summary": "March 26, date unknown. Letter from Masamune Date. The opening reads: \"Today the mountain conditions were poor, and many deer were scattered, which is most regrettable. Given these circumstances, I feel that the entertainment here would be inappropriate; therefore, tomorrow I shall pursue the mountain...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7119,7 +8668,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "January 2, date unknown: Letter from Masamune Date",
+          "category": "Letters",
+          "summary": "January 2, year unknown. Letter from Masamune Date. The opening reads: \"As a celebratory gift for the turn of the year, the envoy has brought—most notably—one sword, one horse, twenty bundles of cotton, three types of fish, and one barrel, all of which are highly prized. There is no need to exchange these for anything. Yamaoka Shima-no-kami...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7142,7 +8696,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, January 7, Tensho 16",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, January 7, Tensho 16. The opening reads: \"The auspicious occasion of the turn of the year brings no respite. Nevertheless, within the year...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7165,7 +8724,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, December 10, Tensho 15",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, December 10, Tensho 15. The opening reads: \"Regarding the matter of the Yasukojima estate, as I was informed the previous day, I have now received the full details in this detailed account. It is a most auspicious occasion of late. Generally speaking, as for the matter of that land, the 33 villages...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7188,7 +8752,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, December 13, Keicho 19",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, December 13, Keicho 19. The opening reads: \"It is most amusing that those in service should be drenched by tonight's rain. Nevertheless, I believe it will soon clear up. Therefore, as for the current situation here, from within...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7211,7 +8780,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, August 8, Keicho 19",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, August 8, Keicho 19. The opening reads: \"We have not been able to meet since the other day. I shall make an inquiry in the coming days so that we may engage in casual conversation. Accordingly, upon my arrival from the Kamigata region, I have sent five saddles. All of them...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7234,7 +8808,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, July 17, Keicho 19",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, July 17, Keicho 19. The opening reads: \"Regarding my journey south, I am pleased to have received the long-distance courier. While I intend to proceed to Edo in private, the Shogun (Hidetada) has first requested that I rest...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7257,7 +8836,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, November 9, Tensho 15",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, November 9, Tensho 15. The opening reads: \"I have hastened my journey. Now, regarding the matter of Kokubun, in response to the apology, a palanquin has been dispatched from Sugime to Niwasaka. I shall explain everything to Sugime in full at Yonezawa, and to Sugime, an... \"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7280,7 +8864,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Teizan-ko Jike Kiroku, entry for July 13, Tensho 15",
+          "category": "Letters",
+          "summary": "Records of the Teizan-ko Family, entry for July 13, Tensho 15. The opening reads: \"By letter from Lord Togoro.\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7303,7 +8892,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, October 14, Tensho 15",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, October 14, Tensho 15. The opening reads: \"Regarding the matter of Ayugai and the departure, I have personally arranged it. As for my prompt entry into the castle, I have not provided full details. I humbly submit this in all due respect.\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7326,7 +8920,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, September 29, Tensho 15",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, September 29, Tensho 15. The opening reads: \"Having been away recently and not having heard news of your situation, I have been feeling uneasy; thus, your arrival is most welcome. Now, as for that place, O-bi (Ouchi Bizen) has sent word...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7349,7 +8948,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, August 24, Tensho 15",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, August 24, Tensho 15. The opening reads: \"I am profoundly delighted to receive your letter. I understand that you have established a residence in the vicinity of Naeshiroda. This is most appropriate. Next, regarding the construction at Hongu, yesterday.\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7372,7 +8976,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, July 13, Tensho 15",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, July 13, Tensho 15. The opening reads: \"I have duly delivered the instructions. I have now presented them for your review. Since the night of the 11th, I have been uneasy regarding the attack. The forces guarding Ni (Nihonmatsu) and Shio (Shiomatsu)...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7395,7 +9004,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, December 31, Keicho 7",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, December 31, Keicho 7. The opening reads: \"I have been informed that Katakura Bitchu is to transfer to the lands of Shiroishi. Accordingly, you are expected to come to Watari. As for the details...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7418,7 +9032,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "March 12, Keicho 6: Document concerning Masamune Date",
+          "category": "Letters",
+          "summary": "March 12, Keicho 6: Memorandum from Masamune Date. The opening reads: \"As a matter of the clan's interests, I place my trust in you; therefore, I hope you will have your views regarding the preparations.\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7441,7 +9060,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, May 9, Tensho 15",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, May 9, Tensho 15. The opening reads: \"I deem it appropriate to convey my intentions via this letter; while I was instructing the courier, I received the reply. I have now examined it in detail. Accordingly, regarding the matter of the southern route...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7464,7 +9088,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Masamune Date, April 13, Kan'ei 12",
+          "category": "Letters",
+          "summary": "Letter from Masamune Date, April 13, Kan'ei 12. The opening reads: \"Yesterday the weather was exceptionally fine, and it was a great pleasure that Jibu Tasuke began his transfer. I have heard that various delicacies were served on numerous occasions. This matter is a great joy, both in reputation and in reality...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7487,7 +9116,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Shigezane Date, June 21, Shoho 2?",
+          "category": "Letters",
+          "summary": "Letter from Shigezane Date, June 21, Shoho 2? The opening reads: \"I am deeply concerned to hear that you are unwell. Given the season, you must be especially vigilant in your recuperation. Amidst this prolonged rain, everyone here is also suffering.\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7510,7 +9144,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Letter from Shigezane Date, Keicho 17–Genna 19, September 8",
+          "category": "Letters",
+          "summary": "Letter from Shigezane Date, dated September 8, Keicho 17–Genna 19. The opening reads: \"I have just received the first crane of the season. This is a most auspicious occasion. I shall present it to His Young Lord. I am deeply grateful for the great care taken in arranging it from so far away. Furthermore, Tsuda...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7533,7 +9172,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Summary of a Letter from Ikeda Mitsumasa, October 9, Kan'ei era",
+          "category": "Letters",
+          "summary": "Summary of a letter from Ikeda Mitsumasa, dated the 9th day of the 10th month of the Kan'ei era. The opening reads: \"As per your correspondence, I have sent 10 shaku of rare kogo salmon from this area; I am truly grateful for your continued kindness despite the long distance. This land remains unchanged, and Lord Echizen is also doing well. ...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7556,7 +9200,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Summary of a Letter from Ikeda Mitsumasa, July 16, Kan'ei (year unknown)",
+          "category": "Letters",
+          "summary": "July 16, Kan'ei [year unknown]. Summary of a letter from Ikeda Mitsumasa. The opening reads: \"Since then, there has been no word; I wish to hear whether the Lord Komon is in good health. This land remains unchanged. Lord Echizen is safe. May your heart be at peace...\"",
+          "cover_alt": "Illustration of a letter"
+        }
       }
     },
     {
@@ -7579,7 +9228,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Great East Japan Earthquake Photos: Watari",
+          "category": "1611 Sanriku Earthquake",
+          "summary": "0409 Tsunami-affected area in the Arahama district (Photo courtesy of Mr./Ms. Tanno) 0808 Tsunami-affected area in the Arahama district (Photo courtesy of Mr./Ms. Tanno)",
+          "cover_alt": "Illustration of the Keicho Sanriku Earthquake"
+        }
       }
     },
     {
@@ -7602,7 +9256,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Great East Japan Earthquake: Shinchi",
+          "category": "1611 Sanriku Earthquake",
+          "summary": "This page features photographs of Shinchi Town, which was affected by the Great East Japan Earthquake. As the photos were provided by Mr. Tanno, Neo Shigezane Zanmai includes only the text.",
+          "cover_alt": "Illustration of the Keicho Sanriku Earthquake"
+        }
       }
     }
   ],
