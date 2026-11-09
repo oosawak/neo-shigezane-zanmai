@@ -48,9 +48,12 @@ jobs:
           cp dist/preview.html preview.html
           cp dist/preview.html docs/preview.html
           cp dist/index.html docs/index.html
+          mkdir -p en docs/en
+          cp dist/en/index.html en/index.html
+          cp dist/en/index.html docs/en/index.html
       - name: Commit generated changes
         run: |
-          git add -A data docs preview.html
+          git add -A data docs preview.html en
           if git diff --cached --quiet; then
             echo 'No generated changes.'
           else
